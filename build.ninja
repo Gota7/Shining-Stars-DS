@@ -1,0 +1,31 @@
+# Rules
+rule copy
+    command = cp $in $out
+    description = copy $in $out
+rule db
+    command = dotnet build $in
+    description = build($in)
+rule make
+    command = make -C $in
+    description = make($in)
+rule tool
+    command = dotnet run -p "Tools/$in" $inParam -o $outParam
+    description = $in $inparam
+
+# Make temporary NDS file to house files.
+build Tmp.nds: copy Base.nds
+
+# Make tools.
+build KingWhomp: db Tools/KingWhomp
+
+# Build source code.
+build Source/ARM9/newcode.bin: make -C Source/ARM9
+build Source/Overlay/newcode.bin: make -C Source/Overlay
+
+# Insert source code.
+build 
+
+# Build Shining Stars DS.
+build Shining.nds: copy Tmp.nds
+build all: phony Shining.nds
+default all

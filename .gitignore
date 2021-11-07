@@ -1,0 +1,19 @@
+# Things that would be illegal.
+*.nds
+*.tar.gz
+TMP
+
+# .NET
+obj
+bin
+Tools/KingWhomp/Src
+
+# CPP
+build
+*.bin
+*.elf
+*.sym
+
+# Ninja stuff.
+.ninja_deps
+.ninja_log
