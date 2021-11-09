@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
@@ -11,6 +12,7 @@ namespace Ndst {
         NDS_DSI,
         DSI
     }
+    
     // NDS Rom.
     public class ROM {
         public string GameTitle;
@@ -34,6 +36,8 @@ namespace Ndst {
         public uint NormalCardControlRegisterSettings;
         [JsonConverter(typeof(HexStringJsonConverter))]
         public uint SecureCardControlRegisterSettings;
+        [JsonConverter(typeof(HexStringJsonConverter))]
+        public ushort SecureAreaCRC;
         public ushort SecureTransferTimeout;
         [JsonConverter(typeof(HexStringJsonConverter))]
         public uint Arm9Autoload;
@@ -58,7 +62,7 @@ namespace Ndst {
         public byte[] Banner;
 
         // Banner lengths.
-        readonly Dictionary<ushort, uint> BANNER_LENGTHS = new Dictionary<ushort, uint>() {
+        public static readonly Dictionary<ushort, uint> BANNER_LENGTHS = new Dictionary<ushort, uint>() {
             { 0x0001, 0x840 },
             { 0x0002, 0x940 },
             { 0x0003, 0x1240 },
@@ -102,7 +106,7 @@ namespace Ndst {
                 NormalCardControlRegisterSettings = r.ReadUInt32();
                 SecureCardControlRegisterSettings = r.ReadUInt32();
                 uint iconBannerOffset = r.ReadUInt32();
-                r.ReadUInt16(); // Secure area CRC.
+                SecureAreaCRC =  r.ReadUInt16();
                 SecureTransferTimeout = r.ReadUInt16();
                 Arm9Autoload = r.ReadUInt32();
                 Arm7Autoload = r.ReadUInt32();
@@ -148,6 +152,9 @@ namespace Ndst {
 
                 // Read filesystem.
                 Filesystem = new Filesystem(r, fntOffset, fntSize, fatOffset, fatSize);
+                
+                // Dispose.
+                r.Dispose();
 
             }
 
@@ -156,6 +163,108 @@ namespace Ndst {
         // Save the ROM.
         public void Save(string filePath) {
             
+            // New file.
+            using (FileStream s = new FileStream(filePath, FileMode.OpenOrCreate)) {
+
+                // Writer setup.
+                s.SetLength(0);
+                BinaryWriter w = new BinaryWriter(s);
+
+                // Write header.
+                w.WriteFixedLen(GameTitle, 0xC);
+                w.WriteFixedLen(GameCode, 0x4);
+                w.WriteFixedLen(MakerCode, 0x2);
+                w.Write((byte)UnitCode);
+                w.Write(EncryptionSeedSelect);
+                w.Write(DeviceCapacity);
+                w.Write0s(7);
+                w.Write(Revision);
+                w.Write(Version);
+                w.Write(Flags);
+                w.SaveOffset("arm9Offset");
+                w.Write(Arm9EntryAddress);
+                w.Write(Arm9LoadAddress);
+                w.Write((uint)Arm9.Length);
+                w.SaveOffset("arm7Offset");
+                w.Write(Arm7EntryAddress);
+                w.Write(Arm7LoadAddress);
+                w.Write((uint)Arm7.Length);
+                w.SaveOffset("fntOffset");
+                w.SaveOffset("fntSize");
+                w.SaveOffset("fatOffset");
+                w.SaveOffset("fatSize");
+                w.SaveOffset("arm9OverlayOffset");
+                w.Write((uint)(Arm9Overlays.Count * 0x20));
+                w.SaveOffset("arm7OverlayOffset");
+                w.Write((uint)(Arm7Overlays.Count * 0x20));
+                w.Write(NormalCardControlRegisterSettings);
+                w.Write(SecureCardControlRegisterSettings);
+                w.SaveOffset("iconBannerOffset");
+                w.Write(SecureAreaCRC);
+                w.Write(SecureTransferTimeout);
+                w.Write(Arm9Autoload);
+                w.Write(Arm7Autoload);
+                w.Write(SecureDisable);
+                w.SaveOffset("romSize");
+                w.Write(HeaderSize);
+                w.Write0s(0xC0 - (uint)w.BaseStream.Position);
+
+                // Write logo and CRCs.
+                w.Write(NintendoLogo);
+                w.Write(CalcCRC(NintendoLogo));
+                BinaryReader r = new BinaryReader(s);
+                long bakPos = w.BaseStream.Position;
+                r.BaseStream.Position = 0;
+                ushort crc = CalcCRC(r.ReadBytes((int)bakPos));
+                w.BaseStream.Position = bakPos;
+                w.Write(crc);
+                w.Align(HeaderSize);
+
+                // Write Arm9.
+                w.WriteOffset("arm9Offset");
+                w.Write(Arm9);
+                w.Align(0x200);
+
+                // Arm9 overlay table.
+                List<Tuple<long, uint, Overlay>> arm9OverlayOffs = new List<Tuple<long, uint, Overlay>>();
+                if (Arm9Overlays.Count > 0) {
+                    w.WriteOffset("arm9OverlayOffset");
+                    Overlay.WriteOverlays(w, Arm9Overlays);
+                    w.Align(0x200);
+                    foreach (var o in Arm9Overlays) {
+                        arm9OverlayOffs.Add(new Tuple<long, uint, Overlay>(w.BaseStream.Position, (uint)o.Data.Length, o));
+                        w.Write(o.Data);
+                        w.Align(0x200);
+                    }
+                } else {
+                    w.WriteOffset("arm9OverlayOffset", 0, 0);
+                }
+
+                // Write Arm7.
+                w.WriteOffset("arm7Offset");
+                w.Write(Arm7);
+                w.Align(0x200);
+
+                // Arm7 overlay table.
+                List<Tuple<long, uint, Overlay>> arm7OverlayOffs = new List<Tuple<long, uint, Overlay>>();
+                if (Arm7Overlays.Count > 0) {
+                    w.WriteOffset("arm7OverlayOffset");
+                    Overlay.WriteOverlays(w, Arm7Overlays);
+                    w.Align(0x200);
+                    foreach (var o in Arm7Overlays) {
+                        arm7OverlayOffs.Add(new Tuple<long, uint, Overlay>(w.BaseStream.Position, (uint)o.Data.Length, o));
+                        w.Write(o.Data);
+                        w.Align(0x200);
+                    }
+                } else {
+                    w.WriteOffset("arm7OverlayOffset", 0, 0);
+                }
+
+                // Write filesystem.
+                Filesystem.WriteFilesystem(w, arm9OverlayOffs, arm7OverlayOffs, Banner);
+
+            }
+
         }
 
         // Calculate the CRC.

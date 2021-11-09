@@ -50,6 +50,21 @@ namespace Ndst {
             }
             return ret;
         }
+
+        // Write an overlay table.
+        public static void WriteOverlays(BinaryWriter w, List<Overlay> ovs) {
+            foreach (var o in ovs) {
+                w.Write(o.Id);
+                w.Write(o.RAMAddress);
+                w.Write(o.Data.Length);
+                w.Write(o.BSSSize);
+                w.Write(o.StaticInitStart);
+                w.Write(o.StaticInitEnd);
+                w.Write(o.FileId);
+                w.Write((ushort)0);
+                w.Write(o.Flags);
+            }
+        }
         
     }
 

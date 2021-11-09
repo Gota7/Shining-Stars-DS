@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
@@ -6,6 +7,7 @@ namespace Ndst {
 
     // Extension method helper.
     public static class Helper {
+        static Dictionary<string, long> Offsets = new Dictionary<string, long>();
 
         // Read a null terminated string.
         public static string ReadNullTerminated(this BinaryReader r) {
@@ -25,11 +27,49 @@ namespace Ndst {
                 char c = r.ReadChar();
                 if (c != 0) {
                     ret += c;
-                } else {
-                    return ret;
                 }
             }
             return ret;
+        }
+
+        // Write a fixed length string.
+        public static void WriteFixedLen(this BinaryWriter w, string str, uint len) {
+            uint numToWrite = Math.Min((uint)str.Length, len);
+            for (uint i = 0; i < numToWrite; i++) {
+                w.Write(str[(int)i]);
+            }
+            w.Write0s(len - numToWrite);
+        }
+
+        // Save an offset.
+        public static void SaveOffset(this BinaryWriter w, string name) {
+            Offsets.Add(name, w.BaseStream.Position);
+            w.Write0s(4);
+        }
+
+        // Write an offset.
+        public static void WriteOffset(this BinaryWriter w, string name, long offsetBase = 0, uint valOverride = uint.MaxValue) {
+            long bak = w.BaseStream.Position;
+            w.BaseStream.Position = Offsets[name];
+            Offsets.Remove(name);
+            if (valOverride == uint.MaxValue) {
+                w.Write((uint)(bak - offsetBase));
+            } else {
+                w.Write(valOverride);
+            }
+            w.BaseStream.Position = bak;
+        }
+
+        // Write 0s.
+        public static void Write0s(this BinaryWriter w, uint num) {
+            w.Write(new byte[num]);
+        }
+
+        // Align writer.
+        public static void Align(this BinaryWriter w, uint alignment, long baseOff = 0) {
+            while ((w.BaseStream.Position - baseOff) % alignment != 0) {
+                w.Write((byte)0);
+            }
         }
         
     }
