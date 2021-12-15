@@ -1122,7 +1122,7 @@
   {
     "Id": 112,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0x1e4",
+    "RAMSize": "0x8c4",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",
