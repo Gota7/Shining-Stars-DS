@@ -9,8 +9,8 @@ bin
 Tools/KingWhomp/Src
 
 # CPP
+newcode.bin
 build
-*.bin
 *.elf
 *.sym
 
