@@ -17,3 +17,15 @@ build
 # Ninja stuff.
 .ninja_deps
 .ninja_log
+
+# Things I have around.
+Ndst
+Ndst.exe
+MOM.xdelta
+
+# Illegal or unwanted folders.
+Base
+MOM
+ConvertBase
+ConvertShininger
+Shininger

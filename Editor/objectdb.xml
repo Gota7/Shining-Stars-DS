@@ -4363,5 +4363,1093 @@ F - Same as 3?
 		<bankreq>none</bankreq>
 	</object>
 
-</database>
+	<object id='512'>
+		<category>1</category>
+		<name>Galaxy Shrinking Platform</name>
+		<internalname>@CUSTOM%MG/000_galaxyShrinkPlatformFrame.bmd</internalname>
+		<actorid>512</actorid>
+		<description>A platform that shrinks when the player lands on it, but respawns after the player is a certain range away.
 
+Created by: Gota7</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='513'>
+		<category>1</category>
+		<name>Silver Coin</name>
+		<internalname>@CUSTOM%MG/003_silverCoin.bmd</internalname>
+		<actorid>513</actorid>
+		<description>Acts just like a stationary coin, except that it does not increment the player's health. There are no parameters, unlike a coin.
+
+Created by: Gota7</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='514'>
+		<category>1</category>
+		<name>Invisible Wall</name>
+		<internalname>@CUSTOM%MG/004_invisibleWall.bmd</internalname>
+		<actorid>514</actorid>
+		<description>An invisible wall useful for door spaces.
+		
+		Created by: Gota7</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='515'>
+		<category>1</category>
+		<name>Berry</name>
+		<internalname>@CUSTOM%MG/007_berryStem.bmd</internalname>
+		<actorid>515</actorid>
+		<description>A berry that Yoshi can eat and gain coins from after a certain amount.
+Parameter 1:
+CCCC
+
+CCCC - Color in RGB555.
+
+Created by: Josh65536
+Ported by: Gota7
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='516'>
+		<category>1</category>
+		<name>Rideable Yoshi</name>
+		<internalname>@CUSTOM%data/player/yoshi_model.bmd</internalname>
+		<actorid>516</actorid>
+		<description>A yoshi that the player can ride (not yoshi).
+
+Created by: Josh65536
+Ported by: Gota7</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='517'>
+		<category>1</category>
+		<name>Object Lighting Modifier</name>
+		<internalname>OBJECT_LIGHTING_MODIFIER</internalname>
+		<actorid>517</actorid>
+		<description>Changes the lighting of objects in the stage.
+
+Parameter 1:
+IIRR
+
+Parameter 2:
+GGBB
+
+I - Light ID (0 if unsure)
+R - Red Component
+G - Green Component
+B - Blue Component
+
+Created by: Gota7
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='518'>
+		<category>1</category>
+		<name>2D Level</name>
+		<internalname>2D_LEVEL</internalname>
+		<actorid>518</actorid>
+		<description>Makes the level 2D.
+
+Parameter 1:
+ZZZZ
+
+Parameter 2:
+FFFF
+
+Parameter 3:
+DDDD:
+
+Z - Distance in hex FXU * 10000 (2400 if 0).
+F - FOV (30 if 0).
+D - Direction (0 for camera in positive Z, 1 for camera in negative Z).
+
+Created by: Pants64
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='519'>
+		<category>1</category>
+		<name>2D Camera Limiter</name>
+		<internalname>CAMERA_LIMITER</internalname>
+		<actorid>519</actorid>
+		<description>Limits the bounds of the camera (for 2D levels).
+
+Parameter 1:
+XXXT
+
+T - 0 for upper bound, 1 for lower bound, 2 for left bound, 3 for right bound.
+
+Created by: Gota7
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='520'>
+		<category>1</category>
+		<name>Small Colored Goomba</name>
+		<internalname>@CUSTOM%MG/009_coloredGoomba.bmd</internalname>
+		<actorid>520</actorid>
+		<description>A goomba that has different colors and behaviors.
+
+Parameter 1: 
+TWEC
+
+T: Goomba type.
+0 - Jump (Red)
+1 - Jump And Spin (Green)
+2 - Double Damage (Yellow)
+3 - Speed (Blue)
+4 - Fire And Spin (Orange)
+5 - Insta Kill (Purple)
+6+ - Normal (Brown)
+
+W: Determines [w]hen the cap should be spawned
+0, F - Never
+1 - If the character already unlocked
+2 - Even if character not unlocked 
+
+E: Extra contents
+0, 2+ - None
+1 - A Silver Star.
+
+C: Cap to spawn.
+0 - Mario
+1 - Luigi
+2 - Wario
+F - None
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='521'>
+		<category>1</category>
+		<name>Colored Goomba</name>
+		<internalname>@CUSTOM%MG/009_coloredGoomba.bmd</internalname>
+		<actorid>521</actorid>
+		<description>A goomba that has different colors and behaviors.
+
+Parameter 1: 
+TWEC
+
+T: Goomba type.
+0 - Jump (Red)
+1 - Jump And Spin (Green)
+2 - Double Damage (Yellow)
+3 - Speed (Blue)
+4 - Fire And Spin (Orange)
+5 - Insta Kill (Purple)
+6+ - Normal (Brown)
+
+W: Determines [w]hen the cap should be spawned
+0, F - Never
+1 - If the character already unlocked
+2 - Even if character not unlocked 
+
+E: Extra contents
+0, 2+ - None
+1 - A Silver Star.
+
+C: Cap to spawn.
+0 - Mario
+1 - Luigi
+2 - Wario
+F - None
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='522'>
+		<category>1</category>
+		<name>Large Colored Goomba</name>
+		<internalname>@CUSTOM%MG/009_coloredGoomba.bmd</internalname>
+		<actorid>522</actorid>
+		<description>A goomba that has different colors and behaviors.
+
+Parameter 1: 
+TWEC
+
+T: Goomba type.
+0 - Jump (Red)
+1 - Jump And Spin (Green)
+2 - Double Damage (Yellow)
+3 - Speed (Blue)
+4 - Fire And Spin (Orange)
+5 - Insta Kill (Purple)
+6+ - Normal (Brown)
+
+W: Determines [w]hen the cap should be spawned
+0, F - Never
+1 - If the character already unlocked
+2 - Even if character not unlocked 
+
+E: Extra contents
+0, 2+ - None
+1 - A Silver Star.
+
+C: Cap to spawn.
+0 - Mario
+1 - Luigi
+2 - Wario
+F - None
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='523'>
+		<category>1</category>
+		<name>Toxic Level</name>
+		<internalname>TOXIC_LEVEL</internalname>
+		<actorid>523</actorid>
+		<description>Make the entire level toxic.
+
+Parameter 1:
+RRRR
+
+R - Number of frames to let pass before hurting the player.
+
+Created by: Gota7
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='524'>
+		<category>1</category>
+		<name>Noteblock</name>
+		<internalname>@CUSTOM%MG/011_noteBlock.bmd</internalname>
+		<actorid>524</actorid>
+		<description>Noteblock that bounces the player up when they jump.
+
+Parameter 1:
+VVVV
+
+V - Velocity to launch the player at.
+
+Created by: Gota7
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='525'>
+		<category>1</category>
+		<name>Shy Guy</name>
+		<internalname>@CUSTOM%MG/013_shyGuy.bmd</internalname>
+		<actorid>525</actorid>
+		<description>The shy guy enemy from SMB2, but in 3d.
+
+Parameter 1:
+PPPP
+
+Parameter 2:
+XXTF
+
+Parameter 3:
+XBBBBBGGGGGRRRRR (bits)
+
+P: Path ID
+FFFF - None (Blue)
+Other - Follow Path (Red)
+
+F: Behavior Along Path
+0 - Normal
+1 - Back And Forth
+
+T: Has Custom Color?
+0 - No
+1 - Yes
+
+B,G,R: Color
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='526'>
+		<category>1</category>
+		<name>Launch Star</name>
+		<internalname>@CUSTOM%MG/018_lstar.bmd</internalname>
+		<actorid>526</actorid>
+		<description>Launch star from Mario Galaxy.
+
+Parameter 1:
+EEPP
+
+Parameter 2:
+SSSS
+
+Parameter 3:
+XXXH
+
+E: Event ID
+P: Path ID
+S: Launch Speed
+H: Looks Up (0: no, 1: yes)
+
+Created by: Josh65536
+Ported by: Gota7
+RE help by: Overblade
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='527'>
+		<category>1</category>
+		<name>Kamek Shot</name>
+		<internalname>KAMEK_SHOT</internalname>
+		<actorid>527</actorid>
+		<description>Shot Kamek and Kamella fire.
+Do not place this in a level!
+
+Parameter 1:
+IIII
+
+Parameter 2:
+XXXX
+
+Parameter 3:
+ZZZZ
+
+I: Unique ID
+X: X Angle
+Z: Z Angle
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+Assets by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='528'>
+		<category>1</category>
+		<name>Magikoopa</name>
+		<internalname>@CUSTOM%MG/021_magikoopa.bmd</internalname>
+		<actorid>528</actorid>
+		<description>A magikoopa that teleports and fires magic at you.
+NOTE: if a magikoopa spawns an object, make sure there is at least one unkilled copy of the object a shot will spawn.
+
+Parameter 1:
+EEPP
+
+Parameter 2:
+OOOO
+
+Parameter 3:
+XXXX
+
+E: Event To Trigger
+P: Path ID
+O: Actor ID To Spawn From Shot
+X: Spawned Object Parameters
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='529'>
+		<category>1</category>
+		<name>Kamella</name>
+		<internalname>@CUSTOM%MG/022_kamella.bmd</internalname>
+		<actorid>529</actorid>
+		<description>A boss magikoopa.
+NOTE: if a magikoopa spawns an object, make sure there is at least one unkilled copy of the object a shot will spawn.
+
+Parameter 1:
+EEPP
+
+Parameter 2:
+SOOO
+
+Parameter 3:
+XXXX
+
+E: Event To Trigger
+P: Path ID
+S: Star ID
+O: Actor ID To Spawn From Shot
+X: Spawned Object Parameters
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='530'>
+		<category>1</category>
+		<name>Skybox Rotator</name>
+		<internalname>SKYBOX_ROTATOR</internalname>
+		<actorid>530</actorid>
+		<description>Rotate the skybox.
+
+Parameter 1:
+XXXX
+
+Parameter 2:
+YYYY
+
+Parameter 3:
+ZZZZ
+
+X: Speed to move along X axis.
+Y: Speed to move along Y axis.
+Z: Speed to move along Z axis.
+
+Created by: Gota7 and Pants64
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='531'>
+		<category>1</category>
+		<name>Falling Icicle</name>
+		<internalname>@CUSTOM%MG/032_icicle.bmd</internalname>
+		<actorid>531</actorid>
+		<description>An icicle that falls and can hurt the player.
+
+Created by: Gota7
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='532'>
+		<category>1</category>
+		<name>Gravity Modifier</name>
+		<internalname>GRAVITY_MODIFIER</internalname>
+		<actorid>532</actorid>
+		<description>Change gravity!
+
+Parameter 1:
+MMMM
+
+Parameter 2:
+FFDD
+
+Parameter 3:
+BBSS
+
+M: Gravity Multiplier (0x1000 Is Game's Default)
+
+F: What To Multiply Fall Damage Values By (0x10 Raised To Value Power)
+
+D: Direction Of Gravity
+0 - Downwards
+1 - Upwards (REALLY GLITCHY!)
+
+B: Fall Damage Big (Times Multiplier, 0xBB8000 Default)
+0 - Normal
+Other - Value Times Multiplier
+FF - None
+
+S: Fall Damage Small (Times Multiplier, 0x47E000 Default)
+0 - Normal
+Other - Value Times Multiplier
+FF - None
+
+Created by: Pants64
+Ported by: Gota7
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='533'>
+		<category>1</category>
+		<name>Small Colored Goomba 2</name>
+		<internalname>@CUSTOM%MG/009_coloredGoomba.bmd</internalname>
+		<actorid>533</actorid>
+		<description>A goomba that has different colors and behaviors.
+
+Parameter 1: 
+TWEC
+
+T: Goomba type.
+0 - Jump (Red)
+1 - Jump And Spin (Green)
+2 - Double Damage (Yellow)
+3 - Speed (Blue)
+4 - Fire And Spin (Orange)
+5 - Insta Kill (Purple)
+6+ - Normal (Brown)
+
+W: Determines [w]hen the cap should be spawned
+0, F - Never
+1 - If the character already unlocked
+2 - Even if character not unlocked 
+
+E: Extra contents
+0, 2+ - None
+1 - A Silver Star.
+
+C: Cap to spawn.
+0 - Mario
+1 - Luigi
+2 - Wario
+F - None
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='534'>
+		<category>1</category>
+		<name>Colored Goomba 2</name>
+		<internalname>@CUSTOM%MG/009_coloredGoomba.bmd</internalname>
+		<actorid>534</actorid>
+		<description>A goomba that has different colors and behaviors.
+
+Parameter 1: 
+TWEC
+
+T: Goomba type.
+0 - Jump (Red)
+1 - Jump And Spin (Green)
+2 - Double Damage (Yellow)
+3 - Speed (Blue)
+4 - Fire And Spin (Orange)
+5 - Insta Kill (Purple)
+6+ - Normal (Brown)
+
+W: Determines [w]hen the cap should be spawned
+0, F - Never
+1 - If the character already unlocked
+2 - Even if character not unlocked 
+
+E: Extra contents
+0, 2+ - None
+1 - A Silver Star.
+
+C: Cap to spawn.
+0 - Mario
+1 - Luigi
+2 - Wario
+F - None
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='535'>
+		<category>1</category>
+		<name>Large Colored Goomba 2</name>
+		<internalname>@CUSTOM%MG/009_coloredGoomba.bmd</internalname>
+		<actorid>535</actorid>
+		<description>A goomba that has different colors and behaviors.
+
+Parameter 1: 
+TWEC
+
+T: Goomba type.
+0 - Jump (Red)
+1 - Jump And Spin (Green)
+2 - Double Damage (Yellow)
+3 - Speed (Blue)
+4 - Fire And Spin (Orange)
+5 - Insta Kill (Purple)
+6+ - Normal (Brown)
+
+W: Determines [w]hen the cap should be spawned
+0, F - Never
+1 - If the character already unlocked
+2 - Even if character not unlocked 
+
+E: Extra contents
+0, 2+ - None
+1 - A Silver Star.
+
+C: Cap to spawn.
+0 - Mario
+1 - Luigi
+2 - Wario
+F - None
+
+Created by: Josh65536
+Ported by: Gota7
+Modified by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='536'>
+		<category>1</category>
+		<name>Yoshi NPC</name>
+		<internalname>@CUSTOM%MG/033_yoshiNPC.bmd</internalname>
+		<actorid>536</actorid>
+		<description>A Yoshi that stands around and can talk to the player.
+Note: Power Star only spawns after the event is triggered (unless the event is set to F)
+
+Parameter 1: SMMM
+
+S: Star ID (F = no star)
+M: Message ID of initial message
+
+Parameter 2: EMMM
+
+E: Event ID (F = no event)
+M: Message ID of final message
+
+Parameter 3: TBBBBBGGGGGRRRRR (bits)
+
+T: 1 if this Yoshi should talk
+B,G,R: Color
+
+Created by: Josh65536
+Ported by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='537'>
+		<category>1</category>
+		<name>Colored Warp Pipe</name>
+		<internalname>@CUSTOM%MG/035_coloredPipe.bmd</internalname>
+		<actorid>537</actorid>
+		<description>The good old Warp Pipe with a customizable color.
+Does nothing if placed alone. For it to act as an entrance or an exit, the corresponding objects must be placed inside it.
+
+NOTE: using a warp with X rotation 0 will NOT play the Warp Pipe sound effect, use 359,995 instead.
+
+Parameter 1:
+XBBBBBGGGGGRRRRR (bits)
+
+Parameter 2:
+YYYY
+
+Parameter 3:
+ZZZZ
+
+B,G,R: Color
+
+Y: X Rotation
+
+Z: Z Rotation
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='538'>
+		<category>1</category>
+		<name>Character Block</name>
+		<internalname>@CUSTOM%MG/037_characterBlockMario.bmd</internalname>
+		<actorid>538</actorid>
+		<description>Permanently switches character without having to go to the character door or having to use caps.
+
+Parameter 1:
+XSOC
+
+C: Character ID
+0 - Mario
+1 - Luigi
+2 - Wario
+3 - Yoshi
+
+O: Condition
+0 - Character needs to be unlocked
+1 - Character doesn't need to be unlocked
+
+S: Starting Character
+0 - Yoshi
+1 - Mario
+2 - Luigi
+3 - Wario
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='539'>
+		<category>1</category>
+		<name>Tree Shadow</name>
+		<internalname>TREE_SHADOW</internalname>
+		<actorid>539</actorid>
+		<description>A shadow for the Tree objects.
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='540'>
+		<category>1</category>
+		<name>Save Block</name>
+		<internalname>@CUSTOM%MG/048_saveBlock.bmd</internalname>
+		<actorid>540</actorid>
+		<description>Saves the game.
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='541'>
+		<category>1</category>
+		<name>Star Chip</name>
+		<internalname>@CUSTOM%MG/051_starChip.bmd</internalname>
+		<actorid>541</actorid>
+		<description>The Star Chips from Super Mario Galaxy, collect 5 to spawn a Launch Star.
+
+Parameter 1:
+XXEE
+
+E: Event ID
+
+Created by: Splatterboy
+Assets by Josh65536
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='542'>
+		<category>1</category>
+		<name>Door Blocker</name>
+		<internalname>@CUSTOM%MG/052_doorBlocker.bmd</internalname>
+		<actorid>542</actorid>
+		<description>A wooden blockage that can be used to block doors.
+
+Parameter 1:
+XXEE
+
+E: Event ID
+
+Created by: Splatterboy
+Assets by Josh65536
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='543'>
+		<category>1</category>
+		<name>Colored Coin</name>
+		<internalname>@CUSTOM%MG/054_coloredCoin.bmd</internalname>
+		<actorid>543</actorid>
+		<description>A Coin that you can fully customize: you can change it's color, coin value and even it's heal value.
+
+Parameter 1: XBBBBBGGGGGRRRRR (bits)
+
+B,G,R: Color
+
+Parameter 2: OHVV
+
+0: Heal or Hurt (0: Heal, 1: Hurt)
+H: Heal/Hurt Value
+V: Coin Value
+
+Parameter 3: SFFF
+
+S: Star ID
+F: Amount of frames between damage
+Note: set parameter 3 to 0 if you do not wish to place a Death Coin
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='544'>
+		<category>1</category>
+		<name>Colored Toad</name>
+		<internalname>@CUSTOM%MG/055_coloredToad.bmd</internalname>
+		<actorid>544</actorid>
+		<description>A Toad that can have 1 of 5 different colors and a message before and after an event.
+Note: Power Star only spawns after the event is triggered (unless the event is set to F)
+
+Parameter 1: SMMM
+
+S: Star ID (F = no star)
+M: Message ID of initial message
+
+Parameter 2: ETTT
+
+E: Event ID (F = no event)
+T: Message ID of final message
+
+Parameter 3:
+XXXC
+
+C: Color
+0, 6+ - Red
+1 - Yellow
+2 - Green
+3 - Blue
+4 - Purple
+5 - Red and White
+
+Created by: Splatterboy
+Assets by: Josh65536 and Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='545'>
+		<category>1</category>
+		<name>Peach NPC</name>
+		<internalname>@CUSTOM%MG/059_peachNPC.bmd</internalname>
+		<actorid>545</actorid>
+		<description>A custom Peach NPC that can have a message before and after an event.
+Note: Power Star only spawns after the event is triggered (unless the event is set to F)
+
+Parameter 1: SMMM
+
+S: Star ID (F = no star)
+M: Message ID of initial message
+
+Parameter 2: ETTT
+
+E: Event ID (F = no event)
+T: Message ID of final message
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='546'>
+		<category>1</category>
+		<name>Blue Ice Block</name>
+		<internalname>@CUSTOM%MG/062_blueIceBlock.bmd</internalname>
+		<actorid>546</actorid>
+		<description>An indestructible block made of blue ice.
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='547'>
+		<category>1</category>
+		<name>Mega Block</name>
+		<internalname>@CUSTOM%MG/064_megaBlock.bmd</internalname>
+		<actorid>547</actorid>
+		<description>A big block with a star symbol on it's sides. This block can be destroyed by using a Mega Mushroom.
+
+Parameter 1:
+XXXS
+
+S: Star ID
+
+Created by: Josh65536
+Ported by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='548'>
+		<category>1</category>
+		<name>Cutscene Loader</name>
+		<internalname>CUTSCENE_LOADER</internalname>
+		<actorid>548</actorid>
+		<description>Loads a cutscene.
+
+Parameter 1:
+FFFF
+
+Parameter 2:
+TTEE
+
+F: Ov0 File ID
+
+T: Trigger
+0 - On level start if no stars have been collected in the level
+1 - On level start
+2 - On level start if Mario key hasn't been collected
+3 - On level start if Luigi key hasn't been collected
+4 - On level start if Wario key hasn't been collected
+5 - On level start if Bowser key 1 hasn't been collected
+6 - On level start if Bowser key 2 hasn't been collected
+7 - On level start if HUB Star 7 hasn't been collected
+8 - When event is triggered
+9 - At the start of the game
+A+ - Never
+
+E: Event ID
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='549'>
+		<category>1</category>
+		<name>Custom Block</name>
+		<internalname>@CUSTOM%MG/066_customBlockYellow.bmd</internalname>
+		<actorid>549</actorid>
+		<description>A block that you can customise.
+
+Parameter 1:
+TCCC
+
+Parameter 2:
+SPEE
+
+T: Type
+0 - Yellow
+1 - Red (needs to be unlocked)
+
+C: Content
+0 - Nothing
+1 - Power Star
+2 - Silver Star
+3 - 1 Up Mushroom
+4 - Mega Mushroom
+5 - Wing Feathers
+6 - Power Flower
+7 - Shiny Shell
+8 - Bowser Key
+9 - Bowser Key
+A - Mario Key
+B - Luigi Key
+C - Wario Key
+D - Star Key
+
+S: Star ID
+
+P: Player
+0 - All
+1 - Mario Only
+2 - Luigi Only
+3 - Wario Only
+4 - Yoshi Only
+
+E: Event ID
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='550'>
+		<category>1</category>
+		<name>Treasure Chest</name>
+		<internalname>@CUSTOM%MG/071_treasureChest.bmd</internalname>
+		<actorid>550</actorid>
+		<description>A treasure chest.
+
+Parameter 1:
+XXYY where:
+
+XX - The Star ID, for the first chests this is FF, for the final chest this should be the Star ID and match the Star ID of a Star Marker
+YY - The order of the current chest.
+
+Created by: Josh65536
+Ported by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='551'>
+		<category>1</category>
+		<name>Thwomp</name>
+		<internalname>@CUSTOM%MG/073_thwomp.bmd</internalname>
+		<actorid>551</actorid>
+		<description>An angry stone that smashes the ground, then returns to it's initial position. Can be smashed to bits by Mega Players.
+
+Created by: Josh65536
+Ported by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='552'>
+		<category>1</category>
+		<name>Magma Thwomp</name>
+		<internalname>@CUSTOM%MG/076_thwompMagma.bmd</internalname>
+		<actorid>552</actorid>
+		<description>A Thwomp that's so hot, you get burned if you get close to it.
+
+Created by: Josh65536
+Modified by: Splatterboy
+Idea from: Hailbot
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='553'>
+		<category>1</category>
+		<name>Giga Thwomp</name>
+		<internalname>@CUSTOM%MG/077_thwompGiga.bmd</internalname>
+		<actorid>553</actorid>
+		<description>Giga Thwomp.
+Still WIP, do not place this in a level!
+
+Parameter 1:
+SSSS
+
+S: Star ID
+
+Created by: Splatterboy
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<!--<object id='554'>
+		<category>1</category>
+		<name>Anti-Gravity Tox Box</name>
+		<internalname>@CUSTOM%MG/080_toxBox.bmd</internalname>
+		<actorid>554</actorid>
+		<description>A Tox Box that can defy gravity.
+
+Created by: Josh65536
+Ported by: Splatterboy and Pants64
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='555'>
+		<category>1</category>
+		<name>Player Tox Box</name>
+		<internalname>@CUSTOM%MG/084_toxBoxPlayer.bmd</internalname>
+		<actorid>555</actorid>
+		<description>Used by the Tox Box Flower.
+Do not place this in a level!
+
+Created by: Josh65536
+Ported by: Splatterboy and Pants64
+		</description>
+		<bankreq>none</bankreq>
+	</object>
+
+	<object id='556'>
+		<category>1</category>
+		<name>Tox Box Flower</name>
+		<internalname>@CUSTOM%MG/086_toxBoxFlower.bmd</internalname>
+		<actorid>556</actorid>
+		<description>A custom power up that transforms you into a Tox Box.
+
+Created by: Josh65536
+Ported by: Splatterboy and Pants64
+		</description>
+		<bankreq>none</bankreq>
+	</object>-->
+
+</database>
