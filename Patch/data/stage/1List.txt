@@ -1,3 +1,4 @@
 battan_king_map - Piranha Skygarden
 bombhei_map - Chomp Fields
+snow_mt - Icefire Caverns
 teresa_house - Stormy Skyway
