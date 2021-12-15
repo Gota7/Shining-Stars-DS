@@ -1,0 +1,4457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--SM64DS Editor ULTIMATE v2.4.0 Dec 02, 2021-->
+<SM64DS_Texts>
+  <Text index="0" id="0000">Dear Mario:
+Please come to the
+castle. I've baked
+a cake for you.
+Yours truly--
+Princess Toadstool </Text>
+  <Text index="1" id="0001">Yoshi,
+Yoshi...</Text>
+  <Text index="2" id="0002">Listen...</Text>
+  <Text index="3" id="0003">Mario hasn't
+returned yet...</Text>
+  <Text index="4" id="0004">Yoshi!</Text>
+  <Text index="5" id="0005">The power of the Stars 
+is restored to the castle...</Text>
+  <Text index="6" id="0006">...and it's all thanks to you!</Text>
+  <Text index="7" id="0007">Thank you!</Text>
+  <Text index="8" id="0008">We have to do something special for you...</Text>
+  <Text index="9" id="0009">Listen...</Text>
+  <Text index="10" id="000A">Let's bake a delicious cake...</Text>
+  <Text index="11" id="000B">...for Yoshi...</Text>
+  <Text index="12" id="000C">Yoshi!</Text>
+  <Text index="13" id="000D">Oh!</Text>
+  <Text index="14" id="000E">The power of the Stars is 
+restored to the castle...</Text>
+  <Text index="15" id="000F">...and it's all thanks to you!</Text>
+  <Text index="16" id="0010">Thank you all!</Text>
+  <Text index="17" id="0011">We have to do something special for you...</Text>
+  <Text index="18" id="0012">Listen...</Text>
+  <Text index="19" id="0013">Welcome to the
+Stormy Skyway!
+
+This used to be an
+irport, but a storm
+cloud came, and scared
+everyone way!
+Then some stars were
+scattered,and enemies
+ppeared! 
+
+Well, I'm the nly one left.
+Find the7[\r]ss!
+
+Also, there is a pipe that
+will help.</Text>
+  <Text index="20" id="0014">...for my heroes...</Text>
+  <Text index="21" id="0015">C'mon, everybody!</Text>
+  <Text index="22" id="0016">Oh!</Text>
+  <Text index="23" id="0017">You need a key to 
+open this door.</Text>
+  <Text index="24" id="0018">You don't have the 
+right key to unlock
+this door!</Text>
+  <Text index="25" id="0019">You need Star Power 
+to open this door. 
+
+Recover a Power Star 
+from an enemy in a 
+castle painting.</Text>
+  <Text index="26" id="001A">It takes the power of
+3 Stars to open 
+this door. 
+You need [\r]FE070100000003 more.</Text>
+  <Text index="27" id="001B">It takes the power 
+of 8 Stars to open 
+this door. 
+You need [\r]FE070100000008 more.</Text>
+  <Text index="28" id="001C">It takes the power of
+12 Stars to open this
+door. 
+You need [\r]FE07010000000C more.</Text>
+  <Text index="29" id="001D">It takes the power of
+30 Stars to open 
+this door. 
+You need [\r]FE07010000001E more.</Text>
+  <Text index="30" id="001E">It takes the power of
+50 Stars to open 
+this door. 
+You need [\r]FE070100000032 more.</Text>
+  <Text index="31" id="001F">In order to solve the
+mystery of the 
+endless stairs, 
+you need 80 Stars.
+You still need [\r]FE070100000050
+more... Bwa ha ha!</Text>
+  <Text index="32" id="0020">It's locked...
+Someone is shouting
+on the other side.
+
+He keeps saying:
+Magma Mountains.</Text>
+  <Text index="33" id="0021">It's locked...
+Someone is shrieking
+on the other side.
+
+He keeps saying:
+Stormy Skyway.</Text>
+  <Text index="34" id="0022">It's locked...
+Someone is growling
+on the other side.
+
+He keeps saying:
+Icefire Caverns.</Text>
+  <Text index="35" id="0023">It's locked...
+Everything is quiet
+on the other side.</Text>
+  <Text index="36" id="0024">Grr.
+Even though I've lost 
+this many Power Stars,
+Mario is the only one 
+I can call my rival.
+No one else matters.
+Now scram!
+Gwa ha ha!!</Text>
+  <Text index="37" id="0025">Mario, over here...
+Help...</Text>
+  <Text index="38" id="0026">Mario ran away like his
+overalls were on fire!
+Gwahahahaha!
+
+I have no business with
+you small fries! Bring
+me Mario at all costs!
+Gwahahaha!</Text>
+  <Text index="39" id="0027">What're you doing,
+messing up MY castle!
+I worked hard for it!
+But hey, I'm a sweet
+guy... I'll just let it
+slide this time...
+But bring me that
+Mario! My little
+beasties have a big
+surprise planned for
+him! Gwahahaha!</Text>
+  <Text index="40" id="0028">It looks like that glowing
+rabbit stole the key.
+How many rabbits left?
+[\r]FE070100000208! That's the clue!</Text>
+  <Text index="41" id="0029">The Power Stars have 
+broken the lock Bowser
+put on the Star Door.
+Now anyone can enter
+the door.</Text>
+  <Text index="42" id="002A">Don't worry!
+If you fall, you'll land
+safely in the Stormy
+Skyway.
+There are two stars
+hidden in the clouds
+up here. Can you find
+them?</Text>
+  <Text index="43" id="002B">Here's a piece of advice
+for the green fellow 
+without a mustache.
+When playing in Standard
+Mode: 
+If you're feeling 
+hungry, press [\r]FE05030001 to 
+stick out your tongue 
+and swallow an enemy. 
+
+Press [\r]FE05030001 again to 
+spit it out.
+Or, you can lay an egg
+by crouching while your 
+mouth is still full.
+Press [\r]FE05030001 again 
+to throw the egg. 
+
+
+
+Remember, some enemies 
+won't turn into eggs 
+even if you swallow 
+them.</Text>
+  <Text index="44" id="002C">Press SELECT to display
+all 3 controller modes. 
+Touch a mode to display
+its button functions on
+the top screen.
+When playing in Standard
+Mode, center the 
+camera behind you by 
+pressing [\r]FE05030005. 
+
+Use the arrows on the 
+Touch Screen to change 
+the camera angle.
+Zoom the camera in and 
+out by pressing [\r]FE05030003. 
+Zoom the camera in for a
+first-person view. Use 
+the [\r]FE05030000 or the
+Touch Screen to 
+look around.</Text>
+  <Text index="45" id="002D">Cheaters don't deserve
+shining stars...</Text>
+  <Text index="46" id="002E">When Mario gets Wings from
+a ? Block, he'll be able 
+to fly. Perform a triple 
+jump to take off. 
+
+
+In Standard Mode, once 
+Mario's in the air, press 
+the [\r]FE05030000 Down to ascend 
+and press it Up to descend.
+Press [\r]FE05030006 to stop flying!</Text>
+  <Text index="47" id="002F">To read a sign or talk
+to a character, turn 
+toward it and press 
+[\r]FE05030001 like you just did.</Text>
+  <Text index="48" id="0030">Stuck?
+Just stand in this rock!
+You'll go back up in no-time!</Text>
+  <Text index="49" id="0031">Stuck?
+Just stand in front
+of this block!
+You'll go back up in no-time!</Text>
+  <Text index="50" id="0032">Stuck?
+Just stand behind
+this sign!
+You'll go back up in no-time!</Text>
+  <Text index="51" id="0033">I'm sleeping because...
+...I'm sleepy. I don't like
+being disturbed. Please 
+walk quietly. And please
+don't throw eggs at me!</Text>
+  <Text index="52" id="0034">OBSERVATION PLATFORM
+Press [\r]FE05030003 to switch 
+to first-person view 
+and take a look around.
+Don't miss anything!</Text>
+  <Text index="53" id="0035">Due to narrow passages here,
+the camera can get stuck.
+
+
+Luckily, you can hit [\r]X
+a couple times to fix it.</Text>
+  <Text index="54" id="0036">Welcome to the Stormy
+Skyway! This used to be
+an airport, but a storm
+cloud came, and
+scared everyone away!
+Then, some stars were
+scattered, and enemies
+appeared!
+
+
+Well, I'm the only one
+left. Find the 7 [\r]ss!
+Also, there is a pipe
+that will help.</Text>
+  <Text index="55" id="0037">Welcome to the Stormy
+Skyway! This used to be
+an airport, but a storm
+cloud came, and
+scared everyone away!
+Then, some stars were
+scattered, and enemies
+appeared!
+
+
+Well, I'm the only one
+left. Find the 7 [\r]ss!
+Also, there is a pipe
+that will help.</Text>
+  <Text index="56" id="0038">Welcome to the Stormy
+Skyway! This used to be
+an airport, but a storm
+cloud came, and
+scared everyone away!
+Then, some stars were
+scattered, and enemies
+appeared!
+
+
+Well, I'm the only one
+left. Find the 7 [\r]ss!
+Also, there is a pipe
+that will help.</Text>
+  <Text index="57" id="0039">Welcome to the Stormy
+Skyway! This used to be
+an airport, but a storm
+cloud came, and
+scared everyone away!
+Then, some stars were
+scattered, and enemies
+appeared!
+
+
+Well, I'm the only one
+left. Find the 7 [\r]ss!
+Also, there is a pipe
+that will help.</Text>
+  <Text index="58" id="003A">Hi! I bring a message
+from the protector of
+the stars, Rosalina.
+
+Mario....
+You have been brave
+in your attempt to
+collect all of the stars.
+There are 8 difficult
+stars to get here.
+Good Luck, and enjoy
+the last level!
+
+
+You are now officially a
+protector of the stars.</Text>
+  <Text index="59" id="003B">Warning!
+Cold, Cold Crevasse 
+Below!</Text>
+  <Text index="60" id="003C">Welcome to the Stormy
+Skyway! This used to be
+an airport, but a storm
+cloud came, and scared
+everyone away! Then
+some stars were scattered,
+and enemies appeared!
+
+
+Well, I'm the only one
+left. Find the 7 [\r]s!
+Also, there is a pipe
+that will help.</Text>
+  <Text index="61" id="003D">Lakitu wants to see
+your face sometimes!
+Turn the camera
+towards your face
+to help with your
+jumps.</Text>
+  <Text index="62" id="003E">You don't stand a ghost
+of a chance in this 
+house. If you make it 
+out alive, you deserve...
+...a Ghoul Medal...</Text>
+  <Text index="63" id="003F">This is the world-renouned
+Sky Garden! Sadly, no
+visitors have come since
+the Piranhas appeared.
+This house you see was
+our gift shop, but we
+empied it before the
+Piranhas came and
+overgrew the gress.
+Some say there may be
+stuff still inside...</Text>
+  <Text index="64" id="0040">This is the world-renouned
+Sky Garden! Sadly, no
+visitors have come since
+the Piranhas appeared.
+This house you see was
+our gift shop, but we
+empied it before the
+Piranhas came and
+overgrew the gress.
+Some say there may be
+stuff still inside...</Text>
+  <Text index="65" id="0041">This is the world-renouned
+Sky Garden! Sadly, no
+visitors have come since
+the Piranhas appeared.
+This house you see was
+our gift shop, but we
+empied it before the
+Piranhas came and
+overgrew the gress.
+Some say there may be
+stuff still inside...</Text>
+  <Text index="66" id="0042">This is the world-renouned
+Sky Garden! Sadly, no
+visitors have come since
+the Piranhas appeared.
+This house you see was
+our gift shop, but we
+empied it before the
+Piranhas came and
+overgrew the gress.
+Some say there may be
+stuff still inside...</Text>
+  <Text index="67" id="0043">The Black Hole
+Right: Work Elevator
+       Hazy Maze
+Left: Underground Lake</Text>
+  <Text index="68" id="0044">Welcome to Shine City!
+This place was rebuilt
+not too long ago by
+the caring Princess I
+don't remember her
+name. I think it was a
+name of a fruit or
+something and
+with the help of the
+beautiful protector of
+the cosmos, Rosalina.
+They dedicated this
+place to the Grand
+Shining Star, but
+Bowser came here
+and opened the portals
+to the Shining Stars. His
+goal is to collect them
+and flood the entire
+kingdom with lava. He
+plans to use the power
+of the Shining Stars
+because they have the
+odd tendency to suck
+in nearby lava. He has
+gathered some of the
+stars in his various
+towers and  fortresses.
+You have to collect all
+stars to revive the
+Grand Shining Star.
+Good luck!
+- Some random sign</Text>
+  <Text index="69" id="0045">Work Elevator
+Danger!!
+Read instructions
+thoroughly!
+
+Step on an arrow to
+move the elevator in 
+that direction. 
+
+
+Once you hop off the
+elevator, it will return
+to its original location.</Text>
+  <Text index="70" id="0046">I can't seem to
+hook up these
+blue coins to a
+star, so try getting
+them all for fun.
+
+I've done it,
+it's possible.
+- Gota7</Text>
+  <Text index="71" id="0047">Underground Lake
+Right: Metal Cave
+Left: Abandoned Mine
+      Closed!
+
+A gentle sea dragon 
+lives here. Ground-pound
+his back to make him 
+lower his head.
+Don't become his lunch.</Text>
+  <Text index="72" id="0048">The Power Flower gives
+strength according to
+the personality of the
+person who plucked it.
+Iron man Wario will turn
+into a metal man!
+He won't be burned or 
+hurt by enemy attacks.
+He doesn't even have to
+breathe while wearing it.
+The only problem:
+he can't swim in it.</Text>
+  <Text index="73" id="0049">Elevator 2
+Down: Underground Lake
+Left: Black Hole
+Right: Hazy Maze
+       Closed!</Text>
+  <Text index="74" id="004A">Above:
+Automatic Elevator
+Elevator begins
+automatically and 
+follows a set course.
+
+It disappears
+automatically, too.</Text>
+  <Text index="75" id="004B">Elevator Area
+Right: Hazy Maze
+       Entrance
+Left: Black Hole
+      Elevator 1
+Arrow: You are here</Text>
+  <Text index="76" id="004C">It's Lethal Lava Land!
+If you catch fire or 
+fall into a pool of
+flames, you'll be 
+hopping mad.
+You can still control
+your character. Just 
+don't lose your cool!</Text>
+  <Text index="77" id="004D">Watch out! Don't let
+yourself be swallowed 
+by quicksand.
+
+
+If you sink into the 
+sand, you can't jump 
+out, and if your head
+goes under, you'll be
+smothered.
+The dark areas are
+bottomless pits.</Text>
+  <Text index="78" id="004E">Upon four towers
+one must alight...
+Then at the peak
+shall shine the light...</Text>
+  <Text index="79" id="004F"></Text>
+  <Text index="80" id="0050">BRRR! Frostbite Danger!
+Do not swim here.
+I'm serious.
+  --The Penguin</Text>
+  <Text index="81" id="0051">Snowman Mountain ahead.
+Keep out! And don't 
+try to triple jump 
+over the ice-block 
+shooter.
+If you fall into the
+freezing pond, your 
+power decreases quickly
+and won't recover 
+automatically.
+    --The Snowman</Text>
+  <Text index="82" id="0052">The mystery is of Wet
+or Dry. And where 
+does the solution lie?
+
+
+
+The city welcomes 
+visitors with the 
+depth they bring as 
+they enter.</Text>
+  <Text index="83" id="0053">STRONG WIND!
+Hold on to your hat!
+Even if you lose your
+cap here, you'll find it
+on this mountain.</Text>
+  <Text index="84" id="0054">It's not our problem
+if you run around this
+spike and get dizzy.</Text>
+  <Text index="85" id="0055">Look what I found!
+I'll give this star
+for free!
+
+Don't let Bowser roast
+everything, like I will
+to you.
+
+You're ugly. Take that.</Text>
+  <Text index="86" id="0056">Look what I found!
+I'll give this star
+for free!
+
+Don't let Bowser roast
+everything, like I will
+to you.
+
+You're ugly. Take that.</Text>
+  <Text index="87" id="0057">Look what I found!
+I'll give this star
+for free!
+
+Don't let Bowser roast
+everything, like I will
+to you.
+
+You're ugly. Take that.</Text>
+  <Text index="88" id="0058">Look what I found!
+I'll give this star
+for free!
+
+Don't let Bowser roast
+everything, like I will
+to you.
+
+You're ugly. Take that.</Text>
+  <Text index="89" id="0059">Welcome to the Chaotic
+Clock Tower, although
+there seems to be
+something strange
+with some of the pipes
+here.
+The coins also fell off.
+Why is that?</Text>
+  <Text index="90" id="005A">Metal Cavern
+Right: To ground
+Left: ????</Text>
+  <Text index="91" id="005B">Big Boo's Haunt
+Eee hee hee...
+There are no exits.
+You may as well wander
+in here forever...
+Listen carefully.
+Can you hear me?
+If you find me, 
+you're history.
+Eee hee hee...</Text>
+  <Text index="92" id="005C">Princess Toadstool's 
+Castle Ahead!
+We want to extend a 
+warm welcome to Mario
+and his crew! As
+for Bowser, GO HOME!
+You'll initially start 
+in Standard Mode. You 
+can access all 3 modes
+by pressing SELECT. 
+In Standard Mode, the
+basic controls are:
+[\r]FE05030002: Jump
+Hold [\r]FE05030002 as Yoshi: 
+Flutter kick
+[\r]FE05030006: Crouch
+
+
+[\r]FE05030001: Swallow items, 
+pick up items, or punch
+depending on which 
+character you are. 
+
+
+Press [\r]FE05030001 again while 
+holding something to 
+spit it out or throw it.
+[\r]FE05030004: Hold it down while
+moving to dash.</Text>
+  <Text index="93" id="005D">Swimming Lessons!
+You can't breathe under 
+the water! Here's how
+to swim in Standard Mode. 
+
+Hold [\r]FE05030002 to swim and tap 
+it steadily to speed up.
+Press Up on the [\r]FE05030000 
+while swimming to dive.
+
+To head for the surface 
+or jump out of the water,
+hold Down on the [\r]FE05030000,
+then press [\r]FE05030002.
+Piece of cake, right?</Text>
+  <Text index="94" id="005E">You have to master two
+important jumping 
+techniques if you want 
+to succeed.
+
+To triple jump, run and
+then jump three times 
+in a row. If you time it
+right, you'll hop, skip, 
+then jump really high.
+Next, go for distance
+with the long jump. Run,
+crouch, and then jump 
+to leap far.
+
+Got that? Triple jump,
+long jump.
+You don't stand a 
+chance without them.</Text>
+  <Text index="95" id="005F">You can return to the
+castle's main hall at 
+any time from the 
+painting worlds.
+
+Just press START to 
+pause the game, then 
+select Exit Course.
+
+
+You don't have to 
+collect all the 
+Power Stars in one
+course before going 
+on to the next.
+Return when you're 
+more experienced
+to pick up other 
+Stars.</Text>
+  <Text index="96" id="0060">Sometimes you'll bump
+into invisible walls at
+the edges of painting
+worlds.
+
+If you hit a wall 
+while flying, you'll 
+bounce backward.</Text>
+  <Text index="97" id="0061">My castle is in great 
+peril!! I know it's 
+because of Bowser 
+again. Will he never tire
+of terrorizing us?
+He stole the castle's
+Power Stars and 
+disappeared into the 
+walls along with us!
+
+Retrieve all of the
+Power Stars from the 
+walls and the paintings
+in the castle. 
+
+Here is a hint:
+there are secret
+paths in this room,
+and one of them leads
+to a Secret Star! 
+Find the Secret Star!
+It will help you on
+your quest.</Text>
+  <Text index="98" id="0062">You can do a backward
+somersault by
+jumping while crouched.
+
+Jump while making a 
+sharp U-turn to do a 
+side somersault. Catch 
+big air with both jumps.</Text>
+  <Text index="99" id="0063">It is decreed that 
+one shall pound 
+the pillars.</Text>
+  <Text index="100" id="0064">Shhh! Please walk
+quietly in the 
+hallway!</Text>
+  <Text index="101" id="0065">Activate the ? Switch 
+in the castle's mystical
+Rainbow Tower to make
+all the ? Blocks solid.
+
+
+Break the ? Blocks to
+get special items 
+like Power Flowers.
+
+
+
+These bewitching 
+blossoms strengthen 
+each character in a 
+different way.
+
+
+Depending on their 
+dispositions, characters
+can float, turn into
+metal, disappear, 
+or breathe fire.
+
+In addition to Power
+Flowers, ? Blocks can
+also give you Wings to
+fly. But only if you 
+are the original 
+plumber. </Text>
+  <Text index="102" id="0066">Pssst! The Boos are 
+super shy. If you look
+them in the eyes, they
+fade away.
+They reappear when 
+you turn your back, 
+so don't let them 
+sneak up on you!
+It's no use trying to 
+hit them when they're 
+fading away. 
+
+Instead, sneak up
+from behind and punch
+them.
+
+You can't swallow 
+Boos, so this is where 
+you'll need a mustached
+hero to save the day. </Text>
+  <Text index="103" id="0067">Hop on the shiny shell
+and ride wherever you
+want to go! Shred 
+those enemies!</Text>
+  <Text index="104" id="0068">You can fly if you're 
+wearing the red Wing cap!
+Put the cap on, then 
+triple jump to take off.
+You can fly even higher
+if you blast out of a
+cannon wearing the
+Wing cap!</Text>
+  <Text index="105" id="0069">In Standard Mode, 
+jump and hold [\r]FE05030002 
+to hang on to some 
+objects overhead.
+Use this move to 
+hitch a ride with a 
+flying bird.</Text>
+  <Text index="106" id="006A">Slide down a slope 
+by crouching.
+Or, crouch in the air to
+pound the ground.
+If you stop, crouch, 
+then jump, you'll do a
+backward somersault!
+Got that? There's more.
+Crouch and then jump 
+while running to do a 
+long jump! 
+Or crouch and walk to...
+Never mind. It's a 
+secret.</Text>
+  <Text index="107" id="006B">Climbing's easy! When you
+jump at trees, poles, or
+pillars, you'll grab them
+automatically. 
+In Standard Mode:
+Press the [\r]FE05030000 Up or 
+Down to climb.
+Crouch to stop climbing.
+
+
+To rotate around the 
+object, press Right or 
+Left on the [\r]FE05030000.
+
+
+Leap toward the
+character's back to jump
+off in that direction.
+
+
+When you reach the top,
+press Up on the [\r]FE05030000 to
+do a handstand! Jump off
+from the handstand for a
+high, stylin' dismount.</Text>
+  <Text index="108" id="006C">If you pass through a
+coin ring or find a 
+secret point in a
+course, sometimes a 
+red number will appear.
+
+If you trigger five 
+red numbers, a 
+Secret Star
+will show up.</Text>
+  <Text index="109" id="006D">Welcome to the slide!
+Hop on and take a ride! 
+
+
+When sliding in Standard
+Mode, press Up on 
+[\r]FE05030000 to accelerate. 
+
+To decelerate, press Down
+on [\r]FE05030000. Use the Touch 
+Screen to turn more 
+smoothly than the [\r]FE05030000.</Text>
+  <Text index="110" id="006E">Running around in circles 
+makes some bad guys roll
+their eyes.
+Use the Touch Screen to
+run smoothly.</Text>
+  <Text index="111" id="006F">Get a running start 
+up the slope with the 
+long jump!
+Remember how to do it?
+Just run, crouch, 
+then jump!</Text>
+  <Text index="112" id="0070">Jumping Technique 1
+To triple jump, run 
+and then jump 3 
+times in a row. 
+
+If you time them 
+right, you'll hop, skip,
+then jump really high.
+
+
+Jumping Technique 2
+You can do a backward
+somersault if you jump
+while crouching!
+
+Jumping Technique 3
+You can jump far with
+the long jump if you 
+run fast, crouch, and 
+then jump.</Text>
+  <Text index="113" id="0071">With the legendary wall 
+kick, you can access 
+high places. 
+To wall kick, jump at a
+wall, then jump again 
+when you hit the wall.
+Keep in mind that the 
+only person who can 
+pull this move off is...
+The superhero with the 
+red cap! </Text>
+  <Text index="114" id="0072">You can run and dive 
+at enemies with a slide
+attack. To do this 
+move in Standard Mode,
+run and then press [\r]FE05030001.
+To jump out of the 
+slide and land back on 
+your feet, press either
+[\r]FE05030001 or [\r]FE05030002.
+
+Only mustached players
+can pull this move off.
+Don't even think of 
+trying it if you don't
+have a mustache!</Text>
+  <Text index="115" id="0073">The shadowy star in 
+front of you is a 
+Star Marker. When 
+you collect all 8 red
+coins, a Star will 
+appear here.</Text>
+  <Text index="116" id="0074">When you step on the 
+strange ? Switch
+hidden in the castle, 
+the ? Blocks will 
+become solid. 
+
+Some of these blocks 
+have useful items inside.
+Get the items by 
+breaking the blocks. 
+But beware! Some 
+blocks are duds.</Text>
+  <Text index="117" id="0075">Danger! Strong Gusts!
+But the wind makes a
+comfy ride.</Text>
+  <Text index="118" id="0076">The clear ball you
+see in front of you
+is a Star Sphere.
+
+When you get all 5 
+Silver Stars, the Power
+Star will appear 
+inside the Star Sphere.</Text>
+  <Text index="119" id="0077">In front of you is a 
+Star Switch. Step on it
+to make a Star appear
+in the course. Hurry to
+collect the Star before
+it disappears!
+Don't forget that you 
+can check the Star's
+location on the Touch 
+Screen map.</Text>
+  <Text index="120" id="0078">The very hard-looking 
+block in front of you 
+really IS hard.
+Hitting it is not advised.
+But if you're shaped like
+a rock--and have rocks 
+for brains--you'll 
+probably do it anyway. </Text>
+  <Text index="121" id="0079"></Text>
+  <Text index="122" id="007A">Hop onto high places 
+with the wall kick. 
+Just jump at a wall, 
+then jump again when 
+you hit the wall.
+Keep in mind that only 
+the superhero with the 
+red cap can pull this
+move off. </Text>
+  <Text index="123" id="007B">Certain people have a 
+natural agility and 
+lightness. These 
+slender wisps can run 
+on water for a bit...
+But only if they 
+sprint towards it!
+I wonder why they have
+that power...
+
+Maybe it's those 
+green caps they wear 
+that make them as 
+light and flexible as 
+blades of grass.
+They are delicate and 
+sensitive creatures, so
+be nice when you see 
+them.</Text>
+  <Text index="124" id="007C">Some of our heroes 
+have enormous strength 
+and can lift and throw 
+just about anything!
+In Standard Mode, swing 
+an item around with
+the [\r]FE05030000 and press [\r]FE05030001 
+to throw it. 
+The faster you swing 
+the item around, the 
+farther it will fly.</Text>
+  <Text index="125" id="007D">The Power Flower 
+strengthens characters 
+based on their
+personality types. 
+
+When Mario gets a Power 
+Flower, he'll turn into a
+balloon and be able to 
+reach high places by 
+floating. 
+Jump repeatedly to make 
+him float up.</Text>
+  <Text index="126" id="007E">The Power Flower 
+strengthens characters 
+based on their 
+personality types.
+
+Eating nasty enemies has 
+given Yoshi a bad case of
+heartburn! When he plucks
+a Power Flower, he'll be 
+able to breathe fire!</Text>
+  <Text index="127" id="007F">You can choose which mode
+to play in by pressing 
+SELECT.
+
+The top screen will show 
+the functions of the 
+controls in each of the
+3 modes.
+Choose whichever mode you
+like best.
+Standard Mode is ideal 
+for first-timers.
+Pick Touch Mode to move 
+with the Touch Screen. The
+thumb pad on the Wrist 
+Strap is ideal for this mode.
+To walk and run with the 
+stylus, choose 
+Dual-Hand Mode.</Text>
+  <Text index="128" id="0080">HIGH WIND WARNING!
+You'll be blown away unless
+you put on some weight!</Text>
+  <Text index="129" id="0081">When using the Touch
+Screen, it's easy to walk
+or run.
+You can even calmly and
+coolly navigate your way
+across narrow ledges.
+Use the thumb pad on the
+wrist strap for smoother 
+control than your finger.</Text>
+  <Text index="130" id="0082">In Standard Mode, press 
+[\r]FE05030005 to center the
+camera behind you. 
+Even when it's hard to 
+see what's around you, 
+relax and press [\r]FE05030005.
+A word of advice:
+keep going but don't rush.</Text>
+  <Text index="131" id="0083">You there, with the 
+mustache!
+You're just in time.
+I never thought I'd 
+say this, but... 
+I'm banking on your 
+mustache to save us!
+The Big Bob-omb on the
+mountaintop has 
+taken the Power Star.
+He's turned our meadow
+into a battlefield. 
+We need you to retrieve
+it!
+
+You see, the evil Big 
+Bob-omb has a sharp 
+gray mustache. But we 
+Bob-omb Buddies are 
+silky smooth. 
+Maybe you'll appeal to 
+his furrier--I mean, 
+friendlier--side. And 
+you've got hands to 
+throw him around.
+We, sadly, do not.
+Help us!</Text>
+  <Text index="132" id="0084">You there, with the 
+mustache!
+Actually, your mustache
+isn't all that impressive
+up close. 
+But I've got nothing to
+lose, so I'll ask you 
+anyway.
+
+
+Please retrieve the 
+Power Star from the 
+Big Bob-omb on the top
+of the mountain. 
+
+See, he has a scary, 
+sharp mustache, while 
+we Bob-omb Buddies are
+smooth. He'd poke us 
+to death!
+But now it looks like 
+you and your scrawny 
+mustache won't stand
+a chance.
+Oh well. 
+Good luck anyways!!</Text>
+  <Text index="133" id="0085">Welcome to New Shine City!
+This place was rebuilt
+ot too long ago by he caringPrincess I don't emember
+her name. I hink it was a name
+of  fruit or something nd with 
+the help f the beautiful
+rotector of the osmos,
+
+Rosalina.They dedicated this
+lace to the Grand [\r]Shining Star,
+butBowser came here and pened
+the portals o the Shining Stars
+is goal is to collectthem and flood
+the ntire kingdom with lava.He plans to use the ower of the
+Shining [\r]Stars because theyhave
+the odd tendency o suck in
+nearby lava.He has gathered some
+f the stars in his arious towers and 
+fortresses. You have to ollect all
+stars o revive the GrandShining Star.
+Good luck!-Some random sign</Text>
+  <Text index="134" id="0086">You there, sir.
+Watch out! Wander 
+around here and you 
+might get plastered by
+a water bomb!
+This meadow has become
+a battlefield ever since
+the Big Bob-omb got 
+his paws on the 
+Power Star.
+Just a little while ago,
+a mustached man with 
+a red cap just wouldn't
+listen and left for the
+mountain.
+Come to think of it, 
+that mustached man 
+hasn't returned.
+I wonder whatever 
+happened to him...</Text>
+  <Text index="135" id="0087">Hmmm. Your name sounds
+familiar. Oh yeah, 
+someone named Yoshi was
+looking for you. 
+Did you find him?</Text>
+  <Text index="136" id="0088">You there, sir.
+Watch out! It's dangerous
+for you to be wandering
+around here. You're in 
+the Bob-omb Battlefield!!
+Hmm...
+You sure don't look 
+dependable. You'd better 
+go home. Your knees are
+shaking!</Text>
+  <Text index="137" id="0089">Star Temple Clue 4:
+The warp is in
+a level with
+tons of boxes.</Text>
+  <Text index="138" id="008A">The Star Temple
+doesn't exist in
+this demo. Try
+getting all the [\r]ss
+though!</Text>
+  <Text index="139" id="008B">Thank you! The Big 
+Bob-omb is nothing but
+a big dud now! 
+But the battle for the
+castle has just begun.
+Other enemies have
+the rest of the Power
+Stars. Recover more 
+Stars to open doors to
+new worlds!
+My Bob-omb Buddies are
+waiting for you. Be 
+sure to talk to them. 
+They'll set up cannons
+for you.</Text>
+  <Text index="140" id="008C">Thank you! The Big 
+Bob-omb is nothing but
+a big dud now! 
+But the battle for the
+castle has just begun.
+Other enemies have
+the rest of the Power
+Stars. Recover more 
+Stars to open doors to
+new worlds!
+My Bob-omb Buddies are
+waiting for you. Be 
+sure to talk to them. 
+They'll set up cannons
+for you.</Text>
+  <Text index="141" id="008D">Thank you! The Big 
+Bob-omb is nothing but
+a big dud now! 
+But the battle for the
+castle has just begun.
+Other enemies have
+the rest of the Power
+Stars. Recover more 
+Stars to open doors to
+new worlds!
+My Bob-omb Buddies are
+waiting for you. Be 
+sure to talk to them. 
+They'll set up cannons
+for you.</Text>
+  <Text index="142" id="008E">Thank you! The Big 
+Bob-omb is nothing but
+a big dud now! 
+But the battle for the
+castle has just begun.
+Other enemies have
+the rest of the Power
+Stars. Recover more 
+Stars to open doors to
+new worlds!
+My Bob-omb Buddies are
+waiting for you. Be 
+sure to talk to them. 
+They'll set up cannons
+for you.</Text>
+  <Text index="143" id="008F">We're peace-loving 
+Bob-ombs, so we don't 
+use cannons. 
+But if you'd like to 
+blast off, we don't mind.
+Help yourself.
+We'll prepare all of 
+the cannons in this 
+course for you to use.
+Bon voyage.</Text>
+  <Text index="144" id="0090">Star Temple Clue 5:
+You can get to the
+warp using the wing
+cap.</Text>
+  <Text index="145" id="0091">Hey Mario!
+This is an odd place.
+Perfect adrenaline rush!
+Let's have a race.
+Ready...
+
+[\r]FE05020000[\r]FE05020003 Go!          
+[\r]FE05020003 Don't go</Text>
+  <Text index="146" id="0092">Wow, I'm surprised!
+As a trophy for winning,
+take this medal.
+I don't need it.
+For some reason,
+it attracts lava...</Text>
+  <Text index="147" id="0093">The king refuses to be
+dejected by a single
+defeat. I'm back with a
+new Star from Bowser!
+I've also restyled my 
+mustache. 
+I'm unstoppable!
+If you want the Power
+Star, you'll have to 
+knock it out of me! 
+
+
+But the only way to 
+do that is to pick me 
+up from behind and 
+fling me down. And 
+that will never happen!
+Bring it, shorty!</Text>
+  <Text index="148" id="0094">You must fight with 
+honor! It's against the 
+rules to throw the king
+out of the ring! </Text>
+  <Text index="149" id="0095">Ow! That hurt!
+Your sneaking skills need
+help, but you're pretty 
+strong. 
+
+I've always wanted a 
+servant like you. Here is
+your Star, as I 
+promised.
+Take it. Farewell.</Text>
+  <Text index="150" id="0096">I'm the Big Bob-omb, 
+baron of all blasting 
+matter, king of 
+ka-booms worldwide!
+...And you just
+interrupted my yoga.
+Here's the power
+star, just let me
+workout in peace!</Text>
+  <Text index="151" id="0097">I'm the Big Bob-omb, 
+baron of all blasting 
+matter, king of 
+ka-booms worldwide!
+...And you just
+interrupted my yoga.
+Here's the power
+star, just let me
+workout in peace!</Text>
+  <Text index="152" id="0098">I'm the Big Bob-omb, 
+baron of all blasting 
+matter, king of 
+ka-booms worldwide!
+...And you just
+interrupted my yoga.
+Here's the power
+star, just let me
+workout in peace!</Text>
+  <Text index="153" id="0099">I'm the Big Bob-omb, 
+baron of all blasting 
+matter, king of 
+ka-booms worldwide!
+...And you just
+interrupted my yoga.
+Here's the power
+star, just let me
+workout in peace!</Text>
+  <Text index="154" id="009A">Ow! That hurts!
+Your throwing aim is 
+still way off, but 
+you're pretty strong.
+
+I've always wanted a 
+servant like you...</Text>
+  <Text index="155" id="009B">Ooh! Ouch!
+You don't look like 
+much, but you are 
+pretty tough. Just 
+wait until I restyle 
+my mustache! 
+I'll make you my 
+servant. 
+See you soon...</Text>
+  <Text index="156" id="009C">Ooh! Ouch!
+Could it be that, with 
+a noble mustache like 
+yours, you're stronger
+than me? 
+I'll be back when my
+mustache grows 
+sharper.
+Just you wait!</Text>
+  <Text index="157" id="009D">Ow! That hurts! How did
+I lose to a bald-faced
+fellow like you? 
+Let's just keep this 
+between you and me.
+I'll give you my 
+precious Power Star 
+in exchange.
+
+
+If you want to see me
+again, just select this
+Star from the menu. </Text>
+  <Text index="158" id="009E">Howdy!
+Do you know where Mario 
+is? I've been looking but
+he's nowhere to be found.
+You don't look like you're
+busy. If you don't mind, 
+would you bring Mario 
+here? Thanks.</Text>
+  <Text index="159" id="009F">Huh?
+Where is Mario?
+...
+
+
+Aha.
+He must have wimped out
+knowing my speed.
+Looks like Super Mario 
+isn't so super after all!</Text>
+  <Text index="160" id="00A0">It's been a while since 
+I had a race like this.
+I got a great workout.
+If you want to race me
+again, come back later.
+All you have to do is 
+press START to pause 
+and then select 
+Exit Course.</Text>
+  <Text index="161" id="00A1">That was such a good 
+race, I think I'll do it 
+again. You don't look busy.
+If you don't mind, could 
+you give a message 
+to Mario?
+If he wants to race me 
+again, tell him to come 
+back another time.
+All he has to do is press
+START to pause and 
+select Exit Course.</Text>
+  <Text index="162" id="00A2">Whooo's there? Whooo 
+woke me up? It's still
+daylight--I should be 
+sleeping! Hey, as 
+long as I'm awake...
+Why not take a short 
+flight with me?
+In Standard Mode, 
+press [\r]FE05030002 to hold on.
+Release [\r]FE05030002 to let go.
+I'll take you wherever
+you want to go, as 
+long as my wings hold
+out. Watch my shadow, 
+and grab on!</Text>
+  <Text index="163" id="00A3">Whew! I'm just about
+flapped out. You 
+should lay off the 
+pasta!
+That's it for now. 
+Release [\r]FE05030002 to 
+let go. 
+Okay, bye-byyyee!</Text>
+  <Text index="164" id="00A4">I can't BELIEVE you
+found me again! I
+will now proceed to
+KILL YOU!
+Then we we'll see
+who's crushed--
+FOR GOOD!</Text>
+  <Text index="165" id="00A5">Sorry Bowser!
+I have failed you.
+Just wait Mario,
+I will return.</Text>
+  <Text index="166" id="00A6"></Text>
+  <Text index="167" id="00A7">I'm the world-champion 
+sledder!!!
+I may be bulky, but 
+I'm very fast! How 
+about a race?
+Ready...
+
+[\r]FE05020000[\r]FE05020003 Go!!
+[\r]FE05020003 No thanks</Text>
+  <Text index="168" id="00A8">You brr-oke my record!
+Unbelievable! I heard
+you were the coolest.
+Now you've proven
+that you're also the
+fastest!
+I can't give you a gold
+medal, but here, take 
+this Star instead. 
+You've earned it!</Text>
+  <Text index="169" id="00A9">Whoa, pal, you aren't 
+trying to cheat, right?
+Shortcuts aren't 
+allowed. 
+Now, I know that you 
+know better. 
+You're disqualified! 
+Next time, play fair!</Text>
+  <Text index="170" id="00AA">I win! You lose! 
+Ha ha ha ha!
+You're no slouch, but 
+I'm a better sledder!
+Better luck next time!</Text>
+  <Text index="171" id="00AB">What's up, pal?
+I haven't been on the 
+slide lately, so I'm 
+out of shape.
+Still, I'm always up 
+for a good race...
+Especially against an 
+old sleddin' buddy!
+Whaddya say?
+
+
+
+Ready...set...
+
+[\r]FE05020000[\r]FE05020003 Go!
+[\r]FE05020003 No thanks</Text>
+  <Text index="172" id="00AC">Egad! My baby!! Have 
+you seen my baby??? 
+She's the most precious
+baby in the whole world.
+They say she has my
+beak... I just can't
+remember where I left
+her.
+Let's see...I stopped
+for herring and ice 
+cubes, then I...oohh! I 
+just don't know!</Text>
+  <Text index="173" id="00AD">You found my precious,
+precious baby! Where
+have you been? How 
+can I ever thank you?
+
+Oh, I do have this 
+Star. Here, take it 
+with my eternal 
+gratitude.</Text>
+  <Text index="174" id="00AE">That's not my baby! 
+She looks nothing 
+like me!
+Her parents must be
+worried sick!</Text>
+  <Text index="175" id="00AF">Oooooh nooooo!
+Talk about out-of-body
+experiences--my body
+has melted away!
+Have you run into any
+headhunters lately??
+I could sure use a 
+new body!
+Brrr! My face might
+freeze like this!</Text>
+  <Text index="176" id="00B0">I need a good head on
+my shoulders. 
+
+Do you know of 
+anybody in need of a 
+good body?
+Please! I'll follow
+you if you do!</Text>
+  <Text index="177" id="00B1">Perfect! What a great
+new body! 
+
+Here--this is a present
+for you. It's sure to 
+warm you up.</Text>
+  <Text index="178" id="00B2">Ayiiieee! Please don't 
+eat me. I promise that
+I don't taste good. 
+Plus, I'll give you 
+cavities.</Text>
+  <Text index="179" id="00B3">So it IS true that 
+there's a monster that
+eats naughty kids...</Text>
+  <Text index="180" id="00B4">Ghosts...don't...
+...DIE!
+Heh, heh, heh! Can you
+get out of here...
+...alive?</Text>
+  <Text index="181" id="00B5">Boooooo-m! Here comes
+the master of mischief,
+the titan of terror,
+the Big Boo!
+Ha ha ha ha...</Text>
+  <Text index="182" id="00B6"></Text>
+  <Text index="183" id="00B7"></Text>
+  <Text index="184" id="00B8">Who...walk...here?
+Who...break...seal?
+Wake...ancient...ones?
+We no like light...
+Rrrrummbbble...
+We no like...intruders!
+Now battle...
+...hand...to...hand!</Text>
+  <Text index="185" id="00B9">Grrrrumbbble!
+What...happen?
+We...crushed like pebble.
+You so strong! You 
+rule ancient pyramid!
+For today...
+Now, take Star of 
+Power.
+We...sleep...darkness.</Text>
+  <Text index="186" id="00BA"></Text>
+  <Text index="187" id="00BB">Hey! 
+Who's there?
+What's climbing on me?
+Is it an ice ant?
+A snow flea?
+Whatever it is, it's
+bugging me! I think 
+I'll blow it away!</Text>
+  <Text index="188" id="00BC"></Text>
+  <Text index="189" id="00BD">Eeeh hee hee hee!</Text>
+  <Text index="190" id="00BE">Ukkiki...wakkiki...kee kee!
+Ha! I snagged it!
+It's mine! Heeheeheeee!</Text>
+  <Text index="191" id="00BF">Ackk! Let...go...
+You're...choking...me...
+Grak...I've been framed!
+This cap? Oh, all 
+right, take it. 
+It's a cool cap, but 
+I'll give it back. Just
+remember that it looks
+better on me than you.
+Eeee! Kee keeeee!</Text>
+  <Text index="192" id="00C0">Owwwuu! Let me go!
+Uukee-kee! I was only
+teasing! Can't you take
+a joke?
+
+I'll tell you what, 
+let's trade. If you let
+me go, I'll give you 
+something really good.
+
+So, how about it?
+
+[\r]FE05020000[\r]FE05020003 Free him
+[\r]FE05020003 Hold on</Text>
+  <Text index="193" id="00C1">Uukee-kee!
+No! Don't eat me!
+Uukee-kee!
+I was just monkeying 
+around. 
+Can't you take a joke? 
+If you let me go, I'll 
+give you something 
+really good.
+
+So, how about it?
+
+[\r]FE05020000[\r]FE05020003 Free him
+[\r]FE05020003 Hold on</Text>
+  <Text index="194" id="00C2">Uukee-kee! Don't eat 
+me! I won't taste 
+good, and I'll give you
+a terrible stomachache!
+I'll give you back the
+cap, okay? Uukee-kee!</Text>
+  <Text index="195" id="00C3">Uukee-kee! Don't eat 
+me. I won't taste 
+good, and I'll give you
+a terrible stomachache!
+Help me! Uukee-kee!</Text>
+  <Text index="196" id="00C4">Long time no see! Wow,
+have you gotten fast!
+Have you been training
+on the sly, or is it 
+the power of the Stars?
+I've been feeling down
+about losing the last
+race. This is my home
+course--how about a
+rematch?
+The goal is in
+Windswept Valley.
+
+
+
+Ready?
+
+[\r]FE05020000[\r]FE05020003 Go
+[\r]FE05020003 Don't go</Text>
+  <Text index="197" id="00C5">I can't believe you 
+beat me again! 
+
+And I just spent all my
+cash on these new Supa
+Koopa Sprint sneakers.
+I guess I have to hand
+over this Star to the
+winner of the race. </Text>
+  <Text index="198" id="00C6">Waaaa! You've flooded 
+my house! Wh-why?? 
+Look at this mess! 
+What am I going to do
+now?
+The ceiling's ruined, 
+the floor is soaked... 
+What to do, what to do?
+Huff...huff...it makes me
+so...MAD!!!
+Everything's been going
+wrong ever since I got
+this Star... It's so 
+shiny, but it makes me 
+feel strange...</Text>
+  <Text index="199" id="00C7">I can't take this
+anymore! 
+First you get
+me all wet, then you
+stomp on me!
+Now I'm really, really,
+REALLY mad!
+Waaaaaaaaaaaaaaa!!!</Text>
+  <Text index="200" id="00C8">Hey! Knock it off! 
+That's the second time
+you've nailed me. 
+
+Now you're really 
+asking for it, 
+linguine breath!</Text>
+  <Text index="201" id="00C9">Owwch! Uncle! Uncle!
+Okay, I give up! 
+Take this Star!
+Whew! 
+I feel better now.
+I don't really need it
+anymore, anyway--
+I can see the stars 
+through my ceiling at 
+night. 
+They make me feel...
+peaceful. 
+Please, come back and 
+visit anytime.</Text>
+  <Text index="202" id="00CA"></Text>
+  <Text index="203" id="00CB"></Text>
+  <Text index="204" id="00CC">Tough luck! 
+Looks like Princess 
+Toadstool isn't here...
+Gwa ha ha!! 
+Go ahead--just try to
+grab me by the tail! 
+You'll never be able 
+to swing ME around! 
+A wimp like you could 
+never throw me out by
+circling the Touch
+Screen. Never!
+Gwa ha ha!!</Text>
+  <Text index="205" id="00CD">Grrr! I was a bit 
+careless. 
+This is not what I had
+planned...
+But I still hold the 
+power of the Stars...
+AND I still have Peach.
+Gwa ha ha! 
+You'll get no more 
+Stars from me! I'm not
+done with you yet, but
+I'll let you go for now.
+You'll pay for this...
+later!
+Gwa ha ha!</Text>
+  <Text index="206" id="00CE">Pestering me again, are
+you? Can't you see 
+that I'm having a merry
+old time, making mischief
+with my minions?
+Now, return the Stars!
+I stole them first, and
+my troops in the walls
+need them! 
+Gwa ha ha!</Text>
+  <Text index="207" id="00CF">Ooowaah! Can it be 
+that I've lost?! The 
+power of the Stars 
+has failed me...this time.
+Consider this a draw.
+Next time, I'll be in
+perfect condition.
+
+Now, if you want to 
+see your precious 
+princess, come to the 
+top of the tower.
+I'll be waiting!
+Gwa ha ha ha!</Text>
+  <Text index="208" id="00D0">That's just fine--I've
+been looking for 
+something to fry with 
+my fire breath!
+Your Star Power is 
+useless against me! 
+Your friends are all 
+trapped in the walls...
+And you'll never see 
+the princess again!
+Gwa ha ha ha!</Text>
+  <Text index="209" id="00D1">Nooo! It can't be!
+You've really beaten 
+me, Mario?!! I gave 
+those troops power, but
+now it's fading away!
+Arrgghh! I can see 
+peace returning to the
+world! I can't stand it!
+But it's not over yet...
+
+C'mon, troops! Let's 
+watch the ending 
+together!
+Gwa ha ha!</Text>
+  <Text index="210" id="00D2">Noooo! You've really 
+beaten me this time, 
+Mario! I can't stand 
+always losing to you!
+
+My troops...worthless!
+They've turned over 
+all the Power Stars! 
+
+
+Wait, say that again. 
+There are 150 Stars 
+in all??? What?! There
+were some in the castle
+that I missed??!!
+Now I see peace
+returning to the world...
+I really hate that! 
+It's so horrible I can't
+watch. I'm outta here!
+Just you wait until 
+next time. Until then, 
+keep that Touch Screen
+smokin'!
+Gwa ha haaaaaaa!</Text>
+  <Text index="211" id="00D3">You're Mario!!!
+What are you doing 
+here?! My underlings locked
+you up in that room.
+Never mind.
+I'll deal with you myself!
+Now I will trample you 
+as you have trampled us!</Text>
+  <Text index="212" id="00D4">Whaaa?! You're...
+Ma-Mari...
+...
+Huh?
+Oooh, you're just that 
+Luigi fellow. I confused 
+you with Mario. Your 
+mustaches look so similar.
+Pshaw! I'll deal with you 
+specially.
+Now, bring it on!</Text>
+  <Text index="213" id="00D5">I have my sights set on
+Mario. You're hardly even
+worth the energy it would
+take to trample you.
+But I do so love to 
+stomp on those who 
+have spent all eternity 
+stomping my clan.
+And since you've come
+all this way...
+Bring it on!</Text>
+  <Text index="214" id="00D6">Bwa ha ha!
+I'm no ordinary Goomba...
+I am Goomboss, the 
+great Goomba, the grand
+pooh-bah Goomba.
+That Mario always stomps
+on us. But now the 
+tables have turned!
+I locked him up in a
+room.
+I bet he's crying like 
+a baby.
+I have no business with 
+you, so scram! 
+
+There's no way a 
+prehistoric wimp like you
+could beat my stupendous
+stomps!</Text>
+  <Text index="215" id="00D7">Aaaaauuuuuuurrghhh!
+I am so angry I am 
+cooking in my own 
+succulent juices!
+The Goombas have lost...
+Again?!
+Is this our destiny?! To
+be trampled by 
+oppressive feet for all 
+eternity?
+No, we will definitely 
+triumph next time! Yes, 
+next time! The Goombas'
+fate is not defeat,
+but perseverance! </Text>
+  <Text index="216" id="00D8">This is unbelievable.
+I...lost to that 
+pip-squeak Luigi!
+This must be some kind
+of mistake! 
+I'll keep my guard
+up next time we battle.
+Just you wait...</Text>
+  <Text index="217" id="00D9">I can't believe you just
+beat me like that... 
+N-not too shabby. I 
+figured you were a fighter
+with that mean mustache.
+I'll battle you again when
+I have free time.
+You should thank your 
+lucky stars that I've got
+such a packed schedule.</Text>
+  <Text index="218" id="00DA">Beaten by a pip-squeak 
+like you...
+How did that happen?
+
+Is it just the Goombas' 
+fate to lose? 
+I have Mario locked up 
+in a room, you know. 
+This key will open the 
+door to his room! 
+I still can't believe you
+beat me.</Text>
+  <Text index="219" id="00DB">Eee hee hee!
+I am Big Boo, the spookiest
+of all the spirits!
+I locked up the wimpy 
+green mustache man. And 
+I'll do the same to you!
+Eee hee hee!
+Since I'm a ghost, I can 
+turn invisible in the 
+mirror's reflection. You'll 
+have to attack me from 
+behind to defeat me. 
+But you'll die of fright
+before that ever 
+happens! And then you'll
+be one of us!</Text>
+  <Text index="220" id="00DC">Eee hee hee!
+I am Big Boo, the 
+ghastliest of all ghosts!
+What the...? I thought I 
+locked you up...
+Well, never mind.
+Now I'll really creep you
+out! You can't escape...
+Eee hee hee!</Text>
+  <Text index="221" id="00DD">Eee hee hee!
+I am Big Boo, the scariest
+of the spirits.
+Eek! What's this?! Your 
+face... It would even 
+scare a ghost. 
+How horrible!
+You've got it backwards...
+
+I do the scaring around 
+here!
+
+All right, now I'll put 
+some real fear in that 
+frightening face of yours!
+Eee hee hee!</Text>
+  <Text index="222" id="00DE"></Text>
+  <Text index="223" id="00DF">Eee hee hee!
+You can never really kill 
+a ghost! We always come 
+back! See you again.
+Eee hee hee!</Text>
+  <Text index="224" id="00E0">Eee hee hee!
+We ghosts always rise 
+from the dead.
+
+I just love the look of 
+terror on your face!
+In fact, I live for it!
+Eee hee hee!
+See you soon!</Text>
+  <Text index="225" id="00E1">Augh! The scariest one 
+wins, and your face is 
+flesh-creepingly 
+frightening.
+Good thing I don't have 
+any flesh! Eee hee hee!
+This is not the end.
+See you again.</Text>
+  <Text index="226" id="00E2"></Text>
+  <Text index="227" id="00E3">You there with a mustache!
+I am the king of cold, 
+Chief Chilly. I lock up 
+anyone who challenges 
+the greatness of my 
+mustache. 
+I am the mustache master!
+In fact, I locked up a
+rude fellow just the 
+other day. 
+
+
+Hmph!! The nerve of him,
+coming to my realm looking
+like that.
+Your mustache is not 
+altogether bad. Not as 
+grand as mine, of course. 
+But what insolence in 
+trying to show me up!
+I shall shave that fuzz
+right off your face.
+Here I come!</Text>
+  <Text index="228" id="00E4">You there with a mustache!
+I am the king of cold, 
+Chief Chilly.
+I lock up anyone who 
+challenges the superiority
+of my 'stache. 
+In fact, I locked up one 
+such fellow just the
+other day.
+Hmm. What a sad, mangy 
+mustache you've got there.
+
+It hardly seems worth it 
+to destroy you. With a 
+'stache like that, you're 
+clearly the sidekick, not 
+the star. 
+
+But I'm between meetings 
+now, so I might as well.
+In the battle for the best
+mustache, I'll win, 
+hairs down.
+Ha ha ha! 
+Bring it on, peach fuzz!</Text>
+  <Text index="229" id="00E5">You there with a mustache!
+I am the king of cold, 
+Chief Chilly. I imprison 
+those who challenge 
+the greatness 
+of my mustache.
+In fact, I locked a man 
+up just the other...
+What's this? You look just
+like the impertinent 
+mustached man I locked up
+the other day.
+Has everyone been taking 
+mustache grower?
+There's only one way to 
+settle this once and for 
+all. 
+
+We'll battle man-to-man 
+to see who has the best 
+mustache!
+Let's rumble!</Text>
+  <Text index="230" id="00E6">Hmm? I see you have no 
+mustache. Poor, bald, little
+creature.
+It's not a fair fight for
+you, but luckily, I'm not a
+fair fighter. Let's go!</Text>
+  <Text index="231" id="00E7">Dang!!
+There's someone with a 
+greater mustache than 
+mine? Ridiculous!
+Does this mean you're 
+cooler than me, too?
+You might be gifted 
+follically, but you better
+watch out once I get my
+mustache styled.</Text>
+  <Text index="232" id="00E8">No way!
+I lost to such a scrawny
+guy like that...?
+Hmmmm, did I not groom 
+my mustache well enough?
+
+I must hurry home and
+condition it...
+Farewell!</Text>
+  <Text index="233" id="00E9">Oh noooooo! I lost!
+Augh!
+My mustache... My pride and
+joy, my reason for living!
+Now I suppose I'll have to
+explore new pursuits.</Text>
+  <Text index="234" id="00EA">I simply cannot believe 
+that I lost to a hairless 
+pip-squeak like you! 
+My mustache was my only 
+joy. Now what am I 
+going to do?</Text>
+  <Text index="235" id="00EB">Eee hee hee...
+I am Big Boo, the spookiest
+of all the spirits. I love
+scaring wimpy humans.
+
+Eee hee hee...
+You'll never sneak behind
+me!</Text>
+  <Text index="236" id="00EC">Mario! Am I glad to see
+you! I hadn't seen you 
+in so long that I was 
+getting worried!
+
+Looks like you met up 
+with Yoshi all right, 
+huh?
+You better get back to 
+finding the Power Stars.
+Princess Toadstool is 
+depending on you! 
+You are our only hope.</Text>
+  <Text index="237" id="00ED">Huh...? Who are you?
+Oh, yes... Luigi, right?
+You're always in Mario's 
+shadow, so I didn't  
+recognize you at first. 
+
+Princess Toadstool is 
+still trapped in the walls.
+Won't you please retrieve
+the Power Stars, Luigi?
+But don't get in Mario's
+way or anything.</Text>
+  <Text index="238" id="00EE">Eek! Oh, i-it's you, Wario.
+You're looking as bad as
+ever. 
+S-sorry. Sorry!
+
+Don't give me that dirty
+look.
+A-actually, now that I 
+look closer, you look 
+horrible. 
+Erm, horribly healthy, 
+that is. I'm not just 
+saying that. Have you
+been working out?
+
+Princess Toadstool is 
+still trapped in the walls.
+We're all counting on your
+muscle to defeat Bowser
+and get the Power Stars.
+Wait a minute.
+You wouldn't sneak one 
+out of the castle, right?
+Eek!
+J-just kidding!</Text>
+  <Text index="239" id="00EF">Thank heavens you 
+came too, Yoshi! 
+Bowser has locked 
+Princess Toadstool and
+all of us inside the 
+walls. 
+He stole our Power 
+Stars and is using their
+magic to create an evil
+land of monsters in 
+the castle walls and 
+paintings.
+Mario and his buddies 
+went to retrieve the 
+Stars, but they 
+haven't come back. 
+
+
+Last I saw them, they 
+were heading to the 
+room on the left with 
+the painting of the 
+Bob-ombs.
+
+Where are they?! Are 
+they taking a nap 
+somewhere? 
+So now it's up to you,
+Yoshi, to find them and
+retrieve the Stars! 
+We all are depending 
+on you!</Text>
+  <Text index="240" id="00F0">Being imprisoned in these
+walls can drive a 
+fungus crazy. When I 
+really start to freak 
+out, I think to myself,
+”Well, I'm going to be 
+here for a while, so I
+might as well stare at
+the fish. They are 
+oddly hypnotic.”
+Then I actually start
+to like being captured...
+...
+...
+...
+Aaauugh! IT'S MADNESS!
+I've got to snap out of
+this! You have to free
+us before we're all 
+completely brainwashed!
+...
+But for now, why don't
+you gaze at the fish 
+with me. You look tense.
+Come relax.</Text>
+  <Text index="241" id="00F1">Sometimes when I'm 
+staring at the fish, I 
+think I wouldn't mind 
+staying here forever.
+It helps me forget 
+about my horrible fate.
+Would you like to join
+me and watch 
+them together?
+It'll soothe you.</Text>
+  <Text index="242" id="00F2">Wario?! Eek!
+There are no valuables
+in here, so please 
+don't hurt me.
+I'm serious!
+Why don't you just sit
+down and stare at the
+fish with me?</Text>
+  <Text index="243" id="00F3">The Star you chose at
+the beginning of the 
+course appears on the 
+map below.
+The name of the Star
+is also a clue. 
+
+
+You can also collect 
+Stars that don't 
+appear on the map. 
+
+Get the Stars in any
+order you like.
+Keep in mind, though... 
+
+Some Stars only 
+appear when you choose
+specific missions, 
+enemies, and items. 
+Once you've retrieved 
+some Stars, move on 
+to the door to the 
+next course. 
+Everyone's waiting for
+you to save us!</Text>
+  <Text index="244" id="00F4">Mario, why don't you 
+triple jump into the 
+painting? It's such a 
+stylish move! 
+I'll watch it from here.</Text>
+  <Text index="245" id="00F5">What?! You're Luigi? The
+world's most inept and 
+least charismatic 
+brother? Wow! Can you 
+introduce me to Mario? 
+Huh? Did we meet the 
+other day? I totally 
+forgot. You're not 
+very memorable. 
+
+I guess your brother got
+all the charisma in the 
+family, huh!</Text>
+  <Text index="246" id="00F6">Your reputation's bad, 
+Wario, but it's only 
+because your mustache
+is mean looking.
+If you ask me, it's a 
+good look. It'll scare the
+enemies into forking over
+the stolen Power Stars!</Text>
+  <Text index="247" id="00F7">Bowser took all the 
+Stars I tried to hide 
+here. There are 7 
+Stars in each course.
+
+You'll need your buddies
+to get some of them. 
+Teamwork goes a long 
+way when you're going
+up against Bowser.</Text>
+  <Text index="248" id="00F8">Wow! You've already 
+recovered that many 
+Stars? Way to go! 
+
+You'll have us out
+of here in no time!
+Be careful, though.
+
+Bowser and his band
+wrote the book on bad.
+Take my advice: 
+
+When you fall from
+a high place, it'll hurt
+less if you ground-pound
+near the ground.
+If you go back to your
+room, you can switch 
+places with Yoshi. 
+
+Everyone deserves
+a chance to shine.</Text>
+  <Text index="249" id="00F9">Wow! You've recovered 
+that many Stars? Way 
+to go, Mario!
+...
+What? You're Luigi?
+I don't believe it.
+Luigi couldn't have 
+pulled off such an 
+impressive feat!
+Stop trying to fool me,
+Mario! You might be 
+wearing green clothes...
+But don't think I can't
+tell you two apart.
+Fine. If you're really 
+Luigi, you'll be able to
+spin in the air after a
+backward somersault. 
+You'll also have 
+amazing agility and be 
+able to run on water 
+for a second. 
+
+
+You'll also be able to 
+scuttle in Standard Mode
+by holding down [\r]FE05030002. 
+When I see you do all 
+that, maybe then I'll 
+believe you're Luigi!</Text>
+  <Text index="250" id="00FA">I can tell that you are
+obsessed with money.
+But since coins help you 
+recover from injuries, we
+should all be so greedy.
+
+I hear red coins refill 2
+pieces of the Power Meter
+and blue coins refill 5.
+That's incredible!</Text>
+  <Text index="251" id="00FB">Wow! You've recovered 
+that many Stars? Way to
+go, Yoshi! I knew I could
+count on you. You'll have
+us out of here in no time!
+Be careful, though.
+Bowser and his band are 
+getting desperate.
+Here's a tip to help you 
+out:
+When you fall from a 
+high place, you can avoid
+getting hurt if you pound
+the ground before you 
+land.</Text>
+  <Text index="252" id="00FC">Thanks! The castle is 
+recovering its energy 
+as you retrieve Power
+Stars. 
+
+You've chased Bowser 
+right out of here, on 
+to some area ahead.
+Oh, by the way, are 
+you collecting coins? 
+Special Stars appear 
+when you collect 100 
+coins in each of the 
+15 courses!</Text>
+  <Text index="253" id="00FD">Hey, Luigi! I'm your 
+biggest fan! You're the
+best ”supporting actor”
+the world's ever seen!
+The work you've done 
+guarding Mario is great!
+I think if you were a 
+bit more shrewd and 
+assertive, you could 
+definitely move into a
+leading role!
+
+By the way, are you
+collecting coins? Special
+Stars appear when you
+collect 100 coins in 
+each of the 15 courses!</Text>
+  <Text index="254" id="00FE">Thank you, Wario!
+The Power Stars are
+returning one by one.
+I feel terrible that I
+misjudged you.
+
+I assumed you came to
+the castle to steal 
+treasures...
+It's just that you have
+such a nasty-looking 
+face, so I thought...
+Oh, no, that's not 
+what I meant to say! 
+Your face is very tough
+looking, very rugged. 
+Perfect for scaring 
+enemies. Ahem. 
+Oh, yes. You like coins,
+right? Special Stars 
+appear when you collect
+100 coins in each of 
+the 15 courses!</Text>
+  <Text index="255" id="00FF">Thank you, Yoshi!
+The Power Stars are
+returning one by one.
+You've chased
+Bowser right out of 
+here!
+Oh, by the way, are you
+collecting coins? Special
+Stars appear when you
+collect 100 coins in 
+each of the 15 courses!</Text>
+  <Text index="256" id="0100">Even if caps all look the
+same, the one you've been
+wearing for years is 
+special. Without it, your
+luck turns sour!
+Hitting ? Blocks without
+a cap can be downright
+dangerous! Don't try it!
+
+
+If you lose your cap, 
+you'll find it in the 
+course where you lost it.
+Oh, and take this with 
+you. I had it hidden.</Text>
+  <Text index="257" id="0101">A piece of advice for the
+hapless Luigi: Even if the
+caps look the same, the
+one you've been wearing 
+for years is special.
+
+It is said when you lose
+your cap, your luck runs
+out, too. When you're that
+unlucky, you shouldn't hit
+a ? Block... Who knows
+what might happen?
+If you lose your cap, 
+you'll find it in the 
+course where you lost it.
+Oh! Take this with you.
+I had it hidden.</Text>
+  <Text index="258" id="0102">Hey, Wario!
+Even if all the caps look
+the same, the one you've 
+been wearing for years is
+special. Your luck runs 
+out when you lose it.
+Wario, although you have 
+devilishly good luck, even
+you'd be in trouble, too. 
+See, without your cap, 
+hitting a ? Block is
+dangerous.
+But don't worry. If you 
+lose your cap, you'll find
+it in the course where 
+you lost it.
+Oh! Take this with you.
+I had it hidden.</Text>
+  <Text index="259" id="0103">You don't normally wear
+a cap, huh, Yoshi?
+You should. I think one 
+would look really 
+good on you.
+
+Plus, my advice is only 
+for the fashion forward.
+That said, let me give 
+you this. 
+I had it hidden for you.</Text>
+  <Text index="260" id="0104">Even if all the caps look
+the same, the one you've 
+been wearing for years is
+special. Your luck will run
+out if you lose it.
+When you lose your cap, 
+hitting a ? Block is very
+unlucky. But don't worry.
+
+
+You can find your cap in 
+the course where you lost
+it. It should appear on 
+the map below.</Text>
+  <Text index="261" id="0105">Luigi, even if all caps look
+the same, the one you've
+been wearing for years 
+is special. Don't lose it 
+or your luck will run out.
+If you lose your cap, 
+hitting a ? Block will 
+spell disaster!
+
+
+But don't worry too much.
+If you lose your cap, 
+you'll find it in the 
+course where you lost it--
+just look at the map below.</Text>
+  <Text index="262" id="0106">Wario, just because the 
+caps look the same, 
+remember that the one 
+you've been wearing for
+years is lucky. Your luck
+will turn bad without it.
+Don't count on your 
+devilishly good luck 
+to bail you out of this 
+one, Wario. Without your 
+cap, you'll only get 
+trouble from the ? Block.
+You can find your lost 
+cap in the course where
+you lost it. It should 
+appear on the map below.</Text>
+  <Text index="263" id="0107">That dinosaur-skin look 
+is so aeons ago. You 
+know, even a cap would 
+really spice up your 
+look. 
+
+Come back when you get
+one, because I have 
+advice for the 
+fashionably dressed.</Text>
+  <Text index="264" id="0108">Thanks to the power of
+the Stars, life is
+returning to the castle.
+Please, you have to 
+give Bowser the boot!
+Here, let me tell you a
+little something about 
+the castle:
+
+
+In the room with the 
+mirrors, look carefully
+for anything that's not
+reflected in the mirror.
+
+You'll also find a friend
+in that room who has 
+seen the invisible man...
+Which is weird because,
+well, he's invisible.
+And when you go to the
+water town, you can 
+flood it with a high 
+jump into the painting.
+Oh, and I found this.</Text>
+  <Text index="265" id="0109">You're really whaling on
+Bowser, Luigi!
+We'll have to call you
+the Luigi Brothers soon!
+I'll tell you a secret
+that will help you out.
+In the room with the 
+mirrors, look carefully
+for anything that's not
+reflected in the mirror.
+
+
+And when you go to the
+water town, you can 
+flood it with a high 
+jump into the painting.
+Oh, I found this!</Text>
+  <Text index="266" id="010A">Wario, I'm so touched.
+You may be mean looking,
+but you must have a good
+heart if you've retrieved
+this many Power Stars. 
+You've proven yourself, 
+which is why I trust you
+with one of the castle's
+secrets. 
+
+In the room with the 
+mirrors, look carefully 
+for anything that's not 
+reflected in the mirror.
+
+And when you go to the
+water town, flood it by
+high jumping into the 
+painting.
+Oh, and I found this!</Text>
+  <Text index="267" id="010B">Wow! Look at all those
+Power Stars! You HAVE
+to beat that Bowser! 
+Let me give you a little
+hint about the castle. 
+In the room with the 
+mirrors, look carefully
+for anything that's not
+reflected in the mirror,
+and an ally with info.
+And when you go to the
+water town, you can 
+flood it with a high 
+jump into the painting.
+Oh, and I found this.</Text>
+  <Text index="268" id="010C">Thanks to the power of
+the Stars, life is
+returning to the castle.
+Please, you have to 
+give Bowser the boot!
+Here, let me give you a
+hint about the castle. 
+
+
+
+In the room with the 
+mirrors, look carefully
+for anything not 
+reflected in the mirror,
+and an ally with info.
+And when you go to the
+water town, you can 
+flood it with a high 
+jump into the painting.</Text>
+  <Text index="269" id="010D">You're really whaling on
+Bowser, Luigi!
+We'll have to call you
+the Luigi Brothers soon!
+I'll tell you a secret
+that will help you out.
+In the room with the 
+mirrors, look carefully
+for anything that's not
+reflected in the mirror,
+and an ally with info.
+
+And when you go to the
+water town, you can 
+flood it with a high 
+jump into the painting.</Text>
+  <Text index="270" id="010E">I guess I was wrong 
+about you, Wario!
+You can't be all bad 
+if you've retrieved 
+this many Power Stars.
+I'll trust you with 
+some castle secrets: 
+
+
+
+In the room with the 
+mirrors, look carefully
+for anything not 
+reflected in the mirror,
+and an ally with info.
+And when you go to the
+water town, you can 
+flood it with a high 
+jump into the painting.</Text>
+  <Text index="271" id="010F">Wow! Look at all those
+Power Stars! Please,
+give Bowser the boot!
+Here, let me give you
+hints about the castle.
+In the room with the
+mirrors, look carefully
+for anything that's not
+reflected in the mirror,
+and an ally with info.
+And when you go to the
+water town, you can
+flood it with a high 
+jump into the painting.</Text>
+  <Text index="272" id="0110">You've finally made it
+this far, Mario. 
+Bowser is waiting 
+on the top floor.
+Please rescue Peach.
+Oh, I almost forgot!
+There's something odd
+about that clock. As
+you jump in, watch the
+position of the big 
+hand.
+Oh, look what I found!
+Here, Mario, catch!</Text>
+  <Text index="273" id="0111">You've finally made it
+this far, Luigi.
+Bowser is waiting on the
+top floor. Please go 
+rescue Princess Toadstool.
+
+Oh, I almost forgot!
+There's something strange
+about that clock. As you
+jump inside, watch the
+position of the big hand.
+
+Oh, look what I found!
+Here, Luigi, catch!</Text>
+  <Text index="274" id="0112">Wow! Look at all those
+Power Stars!
+Guess you're good at 
+collecting things besides
+money, huh?
+Oh, yeah. The world 
+inside the clock is very
+peculiar. When you jump
+inside it, watch the 
+position of the big hand!
+Oh, and I got this for
+you. Here, catch! </Text>
+  <Text index="275" id="0113">You've finally cornered
+Bowser, Yoshi!
+I don't want to think 
+about what would have 
+happened without you...
+I noticed something weird
+in the world inside the 
+clock. When you jump 
+inside, watch the position
+of the big hand!
+I retrieved something
+for you. Here, catch!</Text>
+  <Text index="276" id="0114">You've made it this 
+far, Mario. Bowser is 
+waiting on the top 
+floor. You must go 
+rescue the princess.
+I'll stay here and, um,
+keep a look out. 
+But before you go, keep
+in mind that the world 
+inside the clock is weird!
+When you jump inside, 
+watch the position 
+of the big hand!</Text>
+  <Text index="277" id="0115">You've made it this far,
+Luigi! I guess Mario's 
+not the only one who's
+super. But remember 
+this before you go!
+
+The world inside the 
+clock is very strange!
+When you jump inside, 
+watch the position of 
+the big hand!</Text>
+  <Text index="278" id="0116">Wow! Look at all those
+Power Stars! Guess 
+you're good at other 
+things besides 
+stealing money, huh.
+Oh yeah. Don't forget 
+that the world inside 
+the clock is very 
+strange! 
+
+When you jump inside, 
+watch the position of
+the big hand!</Text>
+  <Text index="279" id="0117">You've got Bowser
+cornered, Yoshi!
+If you hadn't been 
+around, it would've been
+disastrous!
+Also, there's something 
+strange about that 
+clock. As you jump 
+inside, watch the position
+of the big hand.</Text>
+  <Text index="280" id="0118"></Text>
+  <Text index="281" id="0119"></Text>
+  <Text index="282" id="011A"></Text>
+  <Text index="283" id="011B">Ouch! Put me down! 
+There's no need for 
+violence, you big brute!
+I picked up the key, so 
+it's mine. I don't see 
+YOUR name on it.
+But I'll hand it over if
+you let me go. 
+Here!</Text>
+  <Text index="284" id="011C">I can't believe you 
+caught me! Outrun by a
+human! 
+This is the worst day 
+of my life.
+Here, take the key. </Text>
+  <Text index="285" id="011D">How'd you catch up to 
+me with those stubby 
+legs?!
+Do I have to call you 
+boss from now on?
+If you put me down, I'll
+give you this key.
+Here!</Text>
+  <Text index="286" id="011E">Noooo! Don't eat me! I'm
+really tough from all the
+running I do. Seriously. 
+I'd taste horrible. Let me
+go and I'll give you this.</Text>
+  <Text index="287" id="011F">Owww! Put me down, you
+horrible rabbit grabber!
+
+I already gave you back
+the key I sto--I 
+mean, found!</Text>
+  <Text index="288" id="0120">Oh, no. I can't believe I
+got caught again.
+And by such a nobody! 
+This is really starting to
+damage my self-esteem.</Text>
+  <Text index="289" id="0121">Not bad, ”boss.”
+How do you run so fast
+with those stubby legs?
+Guess you can't judge a
+book by its cover, huh.</Text>
+  <Text index="290" id="0122">What part of ”I'm not 
+your lunch” do you not 
+understand? I already 
+gave you the key!
+Put me down!</Text>
+  <Text index="291" id="0123">Are you by any chance 
+the famous Super Mario?
+The one who stomps on 
+anything in his path?
+Eek!
+Please don't stomp on 
+me! If you don't, I'll 
+give you this key. Here!</Text>
+  <Text index="292" id="0124">What?! Mangy mustache 
+man caught me? I really
+have to train harder.
+All right, you can have 
+this key. Here, take it!</Text>
+  <Text index="293" id="0125">You caught up to me 
+with those stubby legs?!
+No fair!
+Fine, take my key. 
+Here!</Text>
+  <Text index="294" id="0126">Aaaargh!
+Oh no, please don't 
+eat me. It's a fact 
+that Goombas taste 
+much better.
+I'll give you something
+nice in return if you 
+let me go.
+You'd take that, right?</Text>
+  <Text index="295" id="0127">You caught me yet again!
+You're really amazing.
+I guess that's why they
+call you Super Mario.
+But I believe I already
+gave you the key.</Text>
+  <Text index="296" id="0128">Good grief!
+This scrawny beanpole 
+caught me yet again! 
+I'm hoppin' mad!
+You know I gave you 
+the key a while ago.
+Come on, let me go 
+and leave me alone!</Text>
+  <Text index="297" id="0129">You caught me again.
+Yeah, yeah, we all know
+you're the best.
+But your legs are still
+stubby, so there!</Text>
+  <Text index="298" id="012A">I already gave you the
+key a little while ago.
+Get it straight!
+I'm not your food!</Text>
+  <Text index="299" id="012B">Aiyeeeee!
+I thought I was going 
+to die! My entire life 
+flashed before my eyes.
+Here, take the key and
+leave me alone!</Text>
+  <Text index="300" id="012C">Ayieeeeeeeeeee!
+I almost had a heart 
+attack! Here, take the 
+key and go. 
+
+I'm just going to sit 
+here until my heart 
+stops racing.</Text>
+  <Text index="301" id="012D">I'm not chow. How many 
+times do I have to tell
+you that? I know I'm 
+irresistibly cute, but
+try to restrain yourself!</Text>
+  <Text index="302" id="012E">You liar!
+You promised not to 
+eat me...
+Are you really that 
+hungry?</Text>
+  <Text index="303" id="012F">Oh, no! Oh, no! I can't 
+believe I lost the keys 
+to Princess Toadstool's 
+secret drawer!
+She's going to chew me 
+out big-time!
+Will you find the keys
+for me, Mario?
+This is just between you
+and me, but you can open
+the drawer when you have
+a key.
+The drawer leads to the 
+Rec Room, where Princess 
+Toadstool used to play 
+games as a child. 
+
+
+After you've found a
+key, you can go inside 
+and play more mini-games.
+Just select Rec Room 
+from the Title Screen 
+to play.</Text>
+  <Text index="304" id="0130">Oh, no! Oh, no!
+I lost the keys to 
+Princess Toadstool's 
+secret drawer!
+She's going to chew me 
+out big-time!
+Will you find the keys
+for me, Luigi?
+This is just between you
+and me, but you can open
+the drawer when you have
+a key.
+The drawer leads to the
+Rec Room, where Princess
+Toadstool used to play 
+games as a child. 
+
+
+When you've found a
+key, you can go inside 
+and play more mini-games.
+Just select Rec Room 
+from the Title Screen 
+to play.</Text>
+  <Text index="305" id="0131">Oh, no! Oh, no!
+I lost the keys to 
+Princess Toadstool's 
+secret drawer! She's 
+going to chew me 
+out big-time!
+Will you find the keys
+for me, Wario?
+Just between you and me,
+you can open the drawer
+when you have a key.
+
+The drawer leads to the
+Rec Room, where Princess
+Toadstool used to play 
+games as a child. 
+
+
+After you've found a
+key, you can go inside 
+and play more mini-games.
+Just select Rec Room 
+from the Title Screen 
+to play.</Text>
+  <Text index="306" id="0132">Oh, no! Oh, no!
+I lost the keys to 
+Princess Toadstool's 
+secret drawer! She's 
+going to chew me 
+out big-time!
+Will you find the keys
+for me, Yoshi?
+This is just between you
+and me, but you can open
+the drawer when you have
+a key.
+The drawer leads to the
+Rec Room, where Princess
+Toadstool used to play 
+games as a child. 
+
+
+When you've found a
+key, you can go inside 
+and play more mini-games. 
+Just select Rec Room 
+from the Title Screen 
+to play.</Text>
+  <Text index="307" id="0133">Whew! That's a key to
+Princess Toadstool's 
+secret drawer.
+You found it for me.
+Thank you!
+When you want to play 
+mini-games, just select 
+Rec Room from the 
+Title Screen.
+
+You can also consult
+the drawer to see
+how many keys you have.</Text>
+  <Text index="308" id="0134">Awesome!
+All the keys are back.
+Princess Toadstool won't
+get mad now.
+How can I ever thank
+you...? Please play the 
+mini-games in the drawer
+to your heart's content!</Text>
+  <Text index="309" id="0135">Here's the number of 
+keys you have to the 
+drawer: [\r]FE070100000100 
+
+[\r]FE05020000[\r]FE05020003 Continue with adventure
+[\r]FE05020003 Save and play mini-games</Text>
+  <Text index="310" id="0136">Mario, I found this cap 
+in front of the castle 
+a little while ago. You 
+look really good in it, 
+so here you go!</Text>
+  <Text index="311" id="0137">Luigi, I found this cap 
+in front of the castle 
+a little while ago. You 
+must have dropped it.
+
+
+If you want to become 
+a full-fledged hero like
+your brother, you can't 
+be so careless!</Text>
+  <Text index="312" id="0138">Wario, I found this cap 
+in front of the castle 
+a little while ago. I 
+knew it was yours 
+because of its 
+distinctive...erm...aroma.
+Actually, it reeked 
+pret-ty bad. I can't 
+believe I touched it. You
+really should wash that
+thing more often.
+Anyways, here you go.</Text>
+  <Text index="313" id="0139">Please let me go.
+I promise I won't play
+a prank on you...
+At least, I won't for a
+while.
+
+My buddies are pros at
+hiding. You'll have a hard
+time finding us by yourself.
+Let someone else look
+for a change.</Text>
+  <Text index="314" id="013A">C'mon, help a bunny 
+out. I promise not to
+pull any pranks...
+...For now.</Text>
+  <Text index="315" id="013B">Aaaaargh!
+No, don't eat me! All 
+I did was tease you a
+little. C'mon, let 
+me go.</Text>
+  <Text index="316" id="013C">Aiyeeeee!
+I thought it was the
+end for little old me...
+My entire life flashed
+before my eyes.
+Talk about scary!
+Anyway, here, take the
+key. It's just slowing
+me down.</Text>
+  <Text index="317" id="013D">Give me a break. I 
+already gave
+you back the key.</Text>
+  <Text index="318" id="013E">Mario, Yoshi jumped in
+that picture chasing
+you. Did he find you?
+The mountain in that
+picture looks like a
+great place to relax.
+I bet it's a peaceful
+land, with no strife.</Text>
+  <Text index="319" id="013F">Luigi, I heard that
+you can run on water
+for brief periods.
+That's just incredible!
+I have a new respect
+for you, seriously.
+Oh! I know! Can you
+show me a backward
+somesault?
+Spin, spin, SUPERSPIN!</Text>
+  <Text index="320" id="0140">Wario, it's impolite to
+shuffle noisily around
+the castle, you know.
+No matter how tough
+you look...it's...umm...
+prohibited.</Text>
+  <Text index="321" id="0141">Yoshi! Mario and the
+others just jumped
+into that picture.
+But...they haven't
+come back out, despite
+the castle's plight.
+Despite all that, it's
+really rude to act
+like a maniac.
+Use the Touch Screen
+to run and walk, even
+across narrow ledges.</Text>
+  <Text index="322" id="0142">Owowowowowow!
+Not so rough, OK?
+I don't have anything!
+It's true! Awww...
+I just can't believe
+I got caught...
+I mean, I'm the
+second fastest of my
+eight brothers!
+And we're ALL fast!
+
+
+Don't even think
+you're going to be
+able to catch all
+of us, you hear?</Text>
+  <Text index="323" id="0143">Owowow! Watch it,
+buddy! I can't
+believe you caught
+my brothers AND me...
+I'm the fastest
+one in my family!
+You must be some
+big deal, huh?
+Fine, then. You
+can have this key
+I found... Here!</Text>
+  <Text index="324" id="0144">Aaargh! Don't eat
+me! Don't eat me!
+I taste real bad!
+I bet my older
+brother tastes
+good! Eat him!</Text>
+  <Text index="325" id="0145">Waaaah! Wait, wait!
+I ain't no good
+for eatin'! It's
+true! I'm sure my
+younger brothers
+would taste better!
+It's true! If you're
+feelin' peckish,
+sink your molars
+into one o' them!
+Just lemme go!
+You will...right?</Text>
+  <Text index="326" id="0146">Uuuugh... I thought
+I was a goner for
+sure! And I ain't
+even got nothin'
+to give ya!
+I can't believe you
+caught me! I'm the
+second fastest of
+my eight brothers,
+I tell ya!
+But don't even get
+any ideas about
+catching all of us,
+OK, bub? It's
+impossible!</Text>
+  <Text index="327" id="0147">Yaaargh! You caught
+my brothers AND me?!
+That ain't right!
+That tongue of yours
+sure is something!
+
+You need to teach me
+that trick sometime!
+So, anyway, I guess
+I owe you that key
+I've got. Here!
+</Text>
+  <Text index="328" id="0148">You caught a glowing
+rabbit! But you still 
+have [\r]FE070100000208 more to 
+catch!
+
+
+Would you like
+to save your progress?
+
+[\r]FE05020000[\r]FE05020003 Yes 
+[\r]FE05020003 No</Text>
+  <Text index="329" id="0149">You got the key to
+the empty room!
+Do you want to save
+your progress?
+[\r]FE05020000[\r]FE05020003 Yes 
+[\r]FE05020003 No</Text>
+  <Text index="330" id="014A">Hi! I'll prepare the
+cannon for you!</Text>
+  <Text index="331" id="014B">Ready for blastoff! 
+Come on, hop into 
+the cannon!</Text>
+  <Text index="332" id="014C">Hey!!! Don't try to 
+scam ME. You've gotta
+run the whole course.
+Look me up when you 
+want to race for real.</Text>
+  <Text index="333" id="014D">I win! You lose!
+Ha ha ha!
+That's what you get 
+for messin' with 
+Koopa the Quick.
+Better luck next time!</Text>
+  <Text index="334" id="014E">I never would have 
+thought that you were 
+such a fashion plate.
+I see red caps just 
+like that around here 
+a lot lately.</Text>
+  <Text index="335" id="014F">Looks like red caps 
+are really chic.
+I keep seeing them 
+around here lately.</Text>
+  <Text index="336" id="0150">Red caps are the 
+season's hottest
+fashion trend!
+Lately, I see them 
+around here all the 
+time!</Text>
+  <Text index="337" id="0151">Looks like red caps 
+are really chic.
+I keep seeing them 
+around here lately.</Text>
+  <Text index="338" id="0152">Green caps are all the
+rage now. I see them 
+everywhere!
+In fact, I think I 
+just saw one!</Text>
+  <Text index="339" id="0153">That's a pretty snazzy
+green cap. I've seen 
+caps just like yours 
+around here a lot 
+lately. 
+In fact, I just 
+saw one.</Text>
+  <Text index="340" id="0154">Green caps are all the
+rage now. I see them 
+everywhere!
+In fact, I'm pretty sure
+I just saw one!</Text>
+  <Text index="341" id="0155">Green caps are all the
+rage now. I see them 
+everywhere!
+In fact, I think I just 
+saw one!</Text>
+  <Text index="342" id="0156">Fashion trends are so 
+fickle! Now it's yellow
+caps that are in! 
+
+I just saw one around
+here. Go find it!</Text>
+  <Text index="343" id="0157">I can't keep up with 
+these changing trends!
+So it's yellow caps that 
+are fashionable now.
+I think I saw one just
+a few moments ago.
+Go find it.</Text>
+  <Text index="344" id="0158">Your yellow cap is super 
+cool! You must be a trend 
+starter because I see them 
+a lot around here lately.
+In fact, I thought I just 
+saw one. Where was it?</Text>
+  <Text index="345" id="0159">Yellow caps are really
+spreading like wildfire!
+I just saw one.
+Where, you ask?
+
+Well, why don't you
+go look for it.
+You don't want to wear
+green all the time,
+do you?</Text>
+  <Text index="346" id="015A">You...can't...EAT...ghosts!
+Eee hee hee!</Text>
+  <Text index="347" id="015B">We're peace-loving red 
+Bob-ombs, the Bob-omb
+Buddies. We don't like
+explosions at all. We
+aren't blast-happy like
+the black Bob-ombs!
+We just can't help how
+we look. Some of us can
+sense where red coins
+are. See, look at the 
+map below. Isn't that
+something? Mm hmmm!
+When you're looking for
+Stars with ”red coins”
+in their names, our 
+buddies will be
+waiting somewhere. 
+Please talk to them.</Text>
+  <Text index="348" id="015C">Hello!
+Please take a look
+at the map below.
+Memorized it?
+If you are lost,
+please talk to
+me again.</Text>
+  <Text index="349" id="015D">Whoa!
+You've collected
+quite a few red coins,
+huh? Well done!
+
+Please take a look
+at the map below.</Text>
+  <Text index="350" id="015E">That's great!
+You only have 1 red
+coin left!
+Please take a good
+look at the map below.</Text>
+  <Text index="351" id="015F">Awesome!
+You've collected all
+8 red coins...
+You don't look it, but you
+sure are a quick learner.
+There's nothing left for 
+me to help you with. But
+I'm always up for a 
+pleasant chat.</Text>
+  <Text index="352" id="0160">1 AND 2 AND
+3 AND 4 AND
+5 AND 6 AND
+7 AND 8 AND...</Text>
+  <Text index="353" id="0161">Did you know Yoshi
+can punch by holding
+[\r]Y and [\r]B and
+pressing [\r]A?</Text>
+  <Text index="354" id="0162"></Text>
+  <Text index="355" id="0163">Snow Mountain Summit
+Watch for slippery
+conditions! Please enter
+the cottage first.</Text>
+  <Text index="356" id="0164">Come on in here...
+...heh, heh, heh...</Text>
+  <Text index="357" id="0165">Eh he he...
+You're mine now, hee hee!
+I'll pass right through
+this wall. Can you do
+that? Heh, heh, heh!</Text>
+  <Text index="358" id="0166">Luigi... Luigi...</Text>
+  <Text index="359" id="0167"></Text>
+  <Text index="360" id="0168">Don't be a pushover!
+If anyone tries to shove
+you around, push back!
+It's one-on-one, with a
+fiery end for the loser!</Text>
+  <Text index="361" id="0169"></Text>
+  <Text index="362" id="016A"></Text>
+  <Text index="363" id="016B"></Text>
+  <Text index="364" id="016C"></Text>
+  <Text index="365" id="016D"></Text>
+  <Text index="366" id="016E"></Text>
+  <Text index="367" id="016F"></Text>
+  <Text index="368" id="0170"></Text>
+  <Text index="369" id="0171">Bwa ha ha ha!
+You've stepped right into
+my trap, just as I knew
+you would! I warn you,
+friend, watch your step!</Text>
+  <Text index="370" id="0172"></Text>
+  <Text index="371" id="0173">Welcome to the ? 
+Switches of Rainbow
+Tower! Step on the ?
+Switch at the top, inside
+the rainbow ring.
+When you trigger the
+switch, all of the ?
+Blocks you find will
+become solid. 
+
+You'll have to hit them
+to see what's inside!</Text>
+  <Text index="372" id="0174"></Text>
+  <Text index="373" id="0175">Controlling Yoshi is a 
+piece of cake. In Standard
+Mode, press [\r]FE05030002 to jump 
+and [\r]FE05030001 to attack.
+Don't forget to read 
+the signs. 
+Use the [\r]FE05030000 to move
+Yoshi around. 
+You can move him even 
+more easily by using the 
+Touch Screen.
+Now, head for the castle!</Text>
+  <Text index="374" id="0176">On behalf of KNN, it's 
+the Lakitu Brothers here 
+to give you a special 
+report, Yoshi.
+
+Look at the Touch Screen
+below. The map shows 
+what's around you. If you
+get lost, take a look 
+at it.
+The red arrows on the 
+Touch Screen are the 
+Camera Icons.
+Touch them in the direction
+that you want to face.
+Press [\r]FE05030005 to center the 
+camera behind you, Yoshi.
+Zoom the camera in and 
+out by pressing [\r]FE05030003.
+
+That's all! This is the 
+Lakitu Brothers signing 
+off.
+Take care!</Text>
+  <Text index="375" id="0177">Welcome.
+No one's home!
+Now scram--
+and don't come back!
+Gwa ha ha ha!</Text>
+  <Text index="376" id="0178">You've recovered 1 of
+the stolen Power Stars!
+Now you can open some 
+of the sealed doors in 
+the castle.
+Try the princess's room
+on the second floor and
+the room with 
+Whomp's Fortress on the
+first floor.
+But there are still no 
+signs of Mario! Hurry
+and find him, Yoshi!</Text>
+  <Text index="377" id="0179">You've recovered 3
+Power Stars! Now you 
+can open any door with
+a 3 on it. 
+
+
+You can also come and
+go between all the 
+worlds on the first floor.
+But where is Mario?
+Does Yoshi have to save
+him, too?
+In any case, the 
+adventure continues!</Text>
+  <Text index="378" id="017A">You've retrieved 8 
+Stars!
+You can now open the 
+door with an 8 on it!
+
+The door in the back of
+Princess Toadstool's 
+Rec Room will open.
+What looms in the back 
+of the secret room?
+And you haven't 
+forgotten about Mario, 
+have you?</Text>
+  <Text index="379" id="017B">You've recovered 12
+Power Stars!
+Now you can open the 
+door with the big Star! 
+But Bowser is just 
+ahead... And is that the
+sound of the princess 
+calling for help? </Text>
+  <Text index="380" id="017C">You've recovered 30 
+Power Stars! Now you
+can open the door with
+the big Star! But
+before you move on...
+Let's just check some
+things. Did you rescue
+poor, frightened Luigi?
+Did you pound 
+the 2 columns down?
+I heard that Bowser
+snuck out of the sea
+and went underground.
+Looks like you finally
+cornered him!</Text>
+  <Text index="381" id="017D">You've recovered 50 
+Power Stars! That's
+enough to open the Star
+Door on the third floor.
+Bowser's closer... Eek!
+But before you move 
+on, make sure you
+found the ? Switch 
+and hit the ? Blocks.
+Hurry along, now.
+The third floor is just
+ahead.</Text>
+  <Text index="382" id="017E">You've found 80 Power
+Stars! The mystery of
+the endless stairs is
+solved, thanks to you.
+Is Bowser ever upset!
+Now, on to the final
+showdown!</Text>
+  <Text index="383" id="017F">You've rescued Mario!
+Now he can smash Bowser 
+in style. Red caps are 
+everywhere. Grab one to
+turn into Mario.
+Thwart Bowser's sinister
+plans with super moves!</Text>
+  <Text index="384" id="0180">You've rescued Luigi!
+Now he can pummel the 
+enemies with panache!
+
+
+You'll see green caps 
+everywhere. If you grab
+one in the course, you
+can turn into Luigi
+on the spot.
+As Luigi, you can run 
+over water and slip 
+through wire fences 
+with agility.</Text>
+  <Text index="385" id="0181">You've rescued Wario!
+Now he can smash 
+up bad guys in style.
+
+
+Select Wario when you 
+enter a course and set 
+off on an adventure. 
+You finally have all 
+four heroes assembled!
+Now only Princess 
+Toadstool remains!</Text>
+  <Text index="386" id="0182">Uh-oh. Looks like the
+doors are locked, huh?
+Hmmm. I just saw a rabbit
+taking off with a key in 
+his mouth.
+Why don't you look for
+him on the Touch Screen
+map, Yoshi?</Text>
+  <Text index="387" id="0183">You stepped on the 
+? Switch. The ? Blocks
+have become solid.
+Hit them to see what 
+comes out.
+
+Do you want to save?
+[\r]FE05020000[\r]FE05020003 Yes
+[\r]FE05020003 No</Text>
+  <Text index="388" id="0184"></Text>
+  <Text index="389" id="0185"></Text>
+  <Text index="390" id="0186">You've collected 100
+coins! You gain more
+power from the castle.
+
+Do you want to save?
+
+[\r]FE05020000[\r]FE05020003 Yes
+[\r]FE05020003 No</Text>
+  <Text index="391" id="0187">Wow! Another Power 
+Star! You're getting 
+stronger from the 
+power of the castle.
+
+Do you want to save?
+
+[\r]FE05020000[\r]FE05020003 You bet
+[\r]FE05020003 Not now</Text>
+  <Text index="392" id="0188">Reacting to the Star
+Power, the door slowly
+opens.</Text>
+  <Text index="393" id="0189">You retrieved a key to
+the drawer of Princess
+Toadstool's Rec Room!
+Now you can play new
+mini-games.
+Do you want to save?
+
+[\r]FE05020000[\r]FE05020002 Save and continue
+[\r]FE05020002 Save and play mini-games
+[\r]FE05020002 Continue, don't save</Text>
+  <Text index="394" id="018A">Save and return to 
+Title Screen?
+
+[\r]FE05020000[\r]FE05020003 Yes
+[\r]FE05020003 No</Text>
+  <Text index="395" id="018B">Save now?
+
+[\r]FE05020000[\r]FE05020002 Save and continue
+[\r]FE05020002 Save and play mini-games
+[\r]FE05020002 Continue, don't save</Text>
+  <Text index="396" id="018C">You've retrieved the 
+key to the castle from 
+the rabbit! Now you're
+ready to go inside the
+castle.
+
+Mario and his buddies 
+went to the castle 
+ages ago, and they 
+still haven't returned.
+
+
+Save now?
+
+[\r]FE05020000[\r]FE05020003 Save and continue
+[\r]FE05020003 Continue, don't save</Text>
+  <Text index="397" id="018D">With Wings on his cap, 
+Mario can take to the 
+skies! Triple jump to
+take off and crouch to
+land. 
+
+In Standard Mode, press 
+the [\r]FE05030000 Up to 
+descend and Down to 
+ascend. 
+Ready for takeoff?</Text>
+  <Text index="398" id="018E">With the Power Flower, 
+Mario can float like a 
+balloon. In Standard Mode,
+press [\r]FE05030002 repeatedly to
+make Mario float up, and
+crouch to land. 
+Change his direction with
+the [\r]FE05030000. Try it out!</Text>
+  <Text index="399" id="018F">The Power Flower turned
+Luigi invisible. Now 
+he'll be able to elude
+enemies and walk 
+through many things.
+Try it out! </Text>
+  <Text index="400" id="0190">The Power Flower turned
+Wario into a metal
+machine! When he's metal,
+he can walk underwater!
+Try it!</Text>
+  <Text index="401" id="0191">Yoshi has a bad case of
+heartburn from gobbling 
+enemies. With the Power 
+Flower, he can breathe fire!
+Try it out in Standard Mode
+by pressing [\r]FE05030001!
+I've heard barbecued
+Goomba is a delicacy.</Text>
+  <Text index="402" id="0192">A voice from above is 
+saying, 
+”Hey... Mario...”</Text>
+  <Text index="403" id="0193">While searching for the 
+Power Stars, you found a 
+red cap. Put it on and, 
+voila! You suddenly look 
+just like Mario! 
+While playing as Mario in
+Standard Mode, you can 
+punch, grab, and throw 
+objects and enemies by 
+pressing [\r]FE05030001. 
+You can also perform the 
+famous wall kick! Just 
+press [\r]FE05030001 to jump against 
+a wall, then press [\r]FE05030001 
+again to jump high.
+Princess Peach is counting 
+on you.
+Don't give up!</Text>
+  <Text index="404" id="0194">While searching for Power 
+Stars, you found a magical 
+green cap. When you wear it,
+you suddenly look and act 
+just like Luigi.
+You can spin in the air after
+performing a backward 
+somersault and you can also
+run on the water for a few
+moments.</Text>
+  <Text index="405" id="0195">While searching for Power 
+Stars, you found a strange 
+yellow cap. When you wear it,
+you suddenly look and act 
+just like Wario!
+Unfortunately, you also smell
+just like him. Plus, your
+stubby legs make you a slow
+walker.
+
+But, you are also very
+powerful. You can break
+hard objects just by 
+punching them!
+
+Now, go retrieve more 
+Power Stars!</Text>
+  <Text index="406" id="0196"> 1 CHOMP FIELDS</Text>
+  <Text index="407" id="0197"> 2 PIRANHA SKYGARDEN</Text>
+  <Text index="408" id="0198"> 3 STORMY SKYWAY</Text>
+  <Text index="409" id="0199"> 4 ICEFIRE CAVERNS</Text>
+  <Text index="410" id="019A"> 5 MT. LAVALAVA</Text>
+  <Text index="411" id="019B"> 6 DESOLATE DRYLINE</Text>
+  <Text index="412" id="019C"> 7 STARSHINE COVE</Text>
+  <Text index="413" id="019D"> 8 WINTRY WASTELAND</Text>
+  <Text index="414" id="019E"> 9 MAGMA MOUNTAINS</Text>
+  <Text index="415" id="019F">10 THE ABYSS</Text>
+  <Text index="416" id="01A0">11 TWIN PEAKS</Text>
+  <Text index="417" id="01A1">12 HYDROFIRE CHASM</Text>
+  <Text index="418" id="01A2">13 CHAOTIC CLOCK TOWER</Text>
+  <Text index="419" id="01A3">14 SUFFOCATING MOON TEMPLE</Text>
+  <Text index="420" id="01A4">15 SEARING SUN TEMPLE</Text>
+  <Text index="421" id="01A5">   BOWSER IN THE TOWER OF TERROR</Text>
+  <Text index="422" id="01A6">   BOWSER IN THE MAGMA MINE</Text>
+  <Text index="423" id="01A7">   BOWSER IN THE SOLAR FORTRESS</Text>
+  <Text index="424" id="01A8">   SKY TOWER</Text>
+  <Text index="425" id="01A9">   DUST DRAIN</Text>
+  <Text index="426" id="01AA">   SHIVERSEAR CAVE</Text>
+  <Text index="427" id="01AB">   SIZZLING SIDE SECRET</Text>
+  <Text index="428" id="01AC">   LAKESIDE MANOR</Text>
+  <Text index="429" id="01AD">   GLITCH CITY</Text>
+  <Text index="430" id="01AE">   SUNSET BAYSIDE</Text>
+  <Text index="431" id="01AF">   NEW SHINE CITY</Text>
+  <Text index="432" id="01B0">   THE STAR TEMPLE</Text>
+  <Text index="433" id="01B1">   RETRO CHALLENGES</Text>
+  <Text index="434" id="01B2">   TRIPLET PEAKS</Text>
+  <Text index="435" id="01B3">   SHINE CITY'S SECRET STARS</Text>
+  <Text index="436" id="01B4">LAND OF THE KING</Text>
+  <Text index="437" id="01B5">5 SHINING STARS</Text>
+  <Text index="438" id="01B6">CHOMP'S CAVE</Text>
+  <Text index="439" id="01B7">8 RED COINS</Text>
+  <Text index="440" id="01B8">MOUNTAIN CLIMB</Text>
+  <Text index="441" id="01B9">THE MOUNTAINSIDE</Text>
+  <Text index="442" id="01BA">CHOMP'S TREASURE</Text>
+  <Text index="443" id="01BB">OF FLOWERS AND OVERGROWTH</Text>
+  <Text index="444" id="01BC">THE HILLS HAVE STARS</Text>
+  <Text index="445" id="01BD">THE 5 ARCHES</Text>
+  <Text index="446" id="01BE">SKY RUSH</Text>
+  <Text index="447" id="01BF">LUIGI'S MAGIC TELEPORTAL ROOM</Text>
+  <Text index="448" id="01C0">THE PERFECT JUMP</Text>
+  <Text index="449" id="01C1">PIRANHA'S TREASURE</Text>
+  <Text index="450" id="01C2">THE STORM CLOUDS</Text>
+  <Text index="451" id="01C3">HIGH IN THE SKY</Text>
+  <Text index="452" id="01C4">AN A-MAZE-ING TIME</Text>
+  <Text index="453" id="01C5">STORMY RED COINS</Text>
+  <Text index="454" id="01C6">JUST PASSING THROUGH</Text>
+  <Text index="455" id="01C7">TRICKIER TRIANGLES</Text>
+  <Text index="456" id="01C8">RUSHING STORM</Text>
+  <Text index="457" id="01C9">CHILLY BOSS FIGHT</Text>
+  <Text index="458" id="01CA">THE FROZEN ISLANDS</Text>
+  <Text index="459" id="01CB">ICEFIRE'S MOLTEN SIDE</Text>
+  <Text index="460" id="01CC">WARIO'S ANTIFREEZE</Text>
+  <Text index="461" id="01CD">ICEFIRE'S RED COINS</Text>
+  <Text index="462" id="01CE">LAVA AND ICE COLLIDE</Text>
+  <Text index="463" id="01CF">5 TRICKY STARS</Text>
+  <Text index="464" id="01D0">THE LAVA PIRANHAS</Text>
+  <Text index="465" id="01D1">THE LAVA PIRANHA'S TREASURE</Text>
+  <Text index="466" id="01D2">LAVA SHELL RIDE</Text>
+  <Text index="467" id="01D3">DEEP LAVA FLOW</Text>
+  <Text index="468" id="01D4">HOT RED COINS OF SKILL</Text>
+  <Text index="469" id="01D5">TO THE SUMMIT</Text>
+  <Text index="470" id="01D6">WHOMP KING'S FLOATING ISLAND</Text>
+  <Text index="471" id="01D7">SANDY SHELL RIDE</Text>
+  <Text index="472" id="01D8">SANDY SLIDE</Text>
+  <Text index="473" id="01D9">THE RUINS</Text>
+  <Text index="474" id="01DA">DESERT RAIN</Text>
+  <Text index="475" id="01DB">RED COINS OF THE DESERT</Text>
+  <Text index="476" id="01DC">THE PIT OF THE ANCIENTS</Text>
+  <Text index="477" id="01DD">SECRET OF THE PIT</Text>
+  <Text index="478" id="01DE">BEACHSIDE CABIN</Text>
+  <Text index="479" id="01DF">HOT AIR BALLOON FLY-IN</Text>
+  <Text index="480" id="01E0">MINI VOLCANO</Text>
+  <Text index="481" id="01E1">BEACHSIDE COINS</Text>
+  <Text index="482" id="01E2">SUNKEN STAR CHESTS</Text>
+  <Text index="483" id="01E3">UP A TREE</Text>
+  <Text index="484" id="01E4">HOLE IN THE BOTTOM OF THE SEA</Text>
+  <Text index="485" id="01E5">CLIMB THE GLACIER</Text>
+  <Text index="486" id="01E6">FROZEN MOUNTAIN</Text>
+  <Text index="487" id="01E7">THE OTHER FROZEN MOUNTAIN</Text>
+  <Text index="488" id="01E8">BREAKABLE BOXES, BURNING ICE</Text>
+  <Text index="489" id="01E9">RED COINS OF THE TUNDRA</Text>
+  <Text index="490" id="01EA">BLOCKS IN THE SKY</Text>
+  <Text index="491" id="01EB">MARIO'S BLOCK RISE</Text>
+  <Text index="492" id="01EC">BOARD BOWSER'S SUB</Text>
+  <Text index="493" id="01ED">CHESTS IN THE CURRENT</Text>
+  <Text index="494" id="01EE">POLE-JUMPING FOR RED COINS</Text>
+  <Text index="495" id="01EF">THROUGH THE JET STREAM</Text>
+  <Text index="496" id="01F0">KOOPA SURFIN' SWITCH STAR</Text>
+  <Text index="497" id="01F1">INSIDE THE CAGE</Text>
+  <Text index="498" id="01F2">THE MANTA RAY'S REWARD</Text>
+  <Text index="499" id="01F3">HEART OF THE TORNADO</Text>
+  <Text index="500" id="01F4">ICY FLIGHT SCHOOL</Text>
+  <Text index="501" id="01F5">FIRE CAVE FORTUNE</Text>
+  <Text index="502" id="01F6">CRYSTAL CAVES</Text>
+  <Text index="503" id="01F7">VOIDED RED COINS</Text>
+  <Text index="504" id="01F8">MR. I'S SECRET</Text>
+  <Text index="505" id="01F9">THE MAIN PLATFORM</Text>
+  <Text index="506" id="01FA">SCARY STAR WARP BATTLE</Text>
+  <Text index="507" id="01FB">FOLLOW MY EYES</Text>
+  <Text index="508" id="01FC">TOXIC POOL</Text>
+  <Text index="509" id="01FD">SKILL WITH THE SHELL</Text>
+  <Text index="510" id="01FE">HOW DO YOU WANT YOUR POISON?</Text>
+  <Text index="511" id="01FF">SKILLFUL RED COINS</Text>
+  <Text index="512" id="0200">GHOST GULAG</Text>
+  <Text index="513" id="0201">WIGGLER'S GROTTO</Text>
+  <Text index="514" id="0202">DEEP SEA DIVE</Text>
+  <Text index="515" id="0203">CHAMBER OF FIRE</Text>
+  <Text index="516" id="0204">INSIDE THE CLIFF</Text>
+  <Text index="517" id="0205">DEEPER SEA DIVE</Text>
+  <Text index="518" id="0206">HEATED COIN SEARCH</Text>
+  <Text index="519" id="0207">STORMY SKY-SLIDE</Text>
+  <Text index="520" id="0208">ROCK AROUND THE CLOCK</Text>
+  <Text index="521" id="0209">LEAPING UPSIDE-DOWN</Text>
+  <Text index="522" id="020A">SNEAKER OF THE WALL</Text>
+  <Text index="523" id="020B">LUIGI'S SLIP AND SLIDE</Text>
+  <Text index="524" id="020C">JUMPS OVER THE LAKE</Text>
+  <Text index="525" id="020D">LUIGI'S WARP UP TOP</Text>
+  <Text index="526" id="020E">BACK TO THE START</Text>
+  <Text index="527" id="020F">SUFFOCATING SMASH</Text>
+  <Text index="528" id="0210">BREATHLESS RACE</Text>
+  <Text index="529" id="0211">ROCK SLIDE RANGE</Text>
+  <Text index="530" id="0212">AIRLESS RED COINS</Text>
+  <Text index="531" id="0213">THE EXTERIOR WALL</Text>
+  <Text index="532" id="0214">THE ROCK SPIRE</Text>
+  <Text index="533" id="0215">MOONS ON THE MOON</Text>
+  <Text index="534" id="0216">CRUISER CROSSING THE RAINBOW</Text>
+  <Text index="535" id="0217">THE BIG HOUSE IN THE SKY</Text>
+  <Text index="536" id="0218">COINS AMASSED IN A MAZE</Text>
+  <Text index="537" id="0219">SWINGIN' IN THE BREEZE</Text>
+  <Text index="538" id="021A">TRICKY TRIANGLES!</Text>
+  <Text index="539" id="021B">SOMEWHERE OVER THE RAINBOW</Text>
+  <Text index="540" id="021C">SWITCH STAR OF THE MANOR</Text>
+  <Text index="541" id="021D">ONE OF NEW SHINE CITY'S SECRET STARS!</Text>
+  <Text index="542" id="021E">100-Coins Star</Text>
+  <Text index="543" id="021F">   FROSTY LANE</Text>
+  <Text index="544" id="0220">Two rooms, wet and cold, open!</Text>
+  <Text index="545" id="0221">The Big Star door opens!</Text>
+  <Text index="546" id="0222">The doors to Bowser open!</Text>
+  <Text index="547" id="0223">The door to the third floor opens!</Text>
+  <Text index="548" id="0224">Mario's Slides
+
+Guide Mario down the slides to
+the Star. Draw lines on the 
+Touch Screen to create new 
+routes for him. Collect 5 
+Stars to move up a stage.</Text>
+  <Text index="549" id="0225">Memory Match
+
+Pick two matching cards to
+make them disappear.
+Clear all the cards to win.</Text>
+  <Text index="550" id="0226">Bingo Ball
+
+Launch a ball into a 
+numbered slot on the Touch 
+Screen. That number will light
+up in the top screen. Get 3
+numbers in a row to score!</Text>
+  <Text index="551" id="0227">Wanted!
+
+It's easy to get lost in a
+crowd! Find the one who
+disappeared and touch him.
+There he is!</Text>
+  <Text index="552" id="0228">Bounce and Pounce
+
+Mario's in free fall, but he 
+can bounce back if you touch 
+him. Stomp the Fly Guys,
+but make sure he doesn't fall
+off the Touch Screen. </Text>
+  <Text index="553" id="0229">Picture Poker
+
+Get a better hand than Luigi
+to win! If you're confident
+your hand is best, increase
+the number of coins you 
+bet!</Text>
+  <Text index="554" id="022A">Snowball Slalom
+
+Rub the Touch Screen to roll
+the snowman's head to the 
+goal before time runs out! 
+Rocks will slow you down, 
+as will touching his head!</Text>
+  <Text index="555" id="022B">Boom Box
+
+Each time you open a
+treasure chest, you'll hear
+a sound. Open 2 chests with
+the same sound. Win by
+matching all the pairs!</Text>
+  <Text index="556" id="022C">Giant Snowball Slalom
+
+Roll the snowball over a 
+longer course!
+As before, avoid rocks 
+because they'll slow 
+you down.</Text>
+  <Text index="557" id="022D">Mushroom Roulette
+
+Guess where the ball will 
+land on the roulette wheel.
+Guess correctly to win 
+coins!</Text>
+  <Text index="558" id="022E">Bob-omb Squad
+
+The parachuting Bob-ombs are
+destroying your flowers! 
+Use your slingshot to knock 
+them out of the air. Hit 
+Lakitu to blow them all up.</Text>
+  <Text index="559" id="022F">Tox Box Shuffle
+
+Oh, no! Yoshi's trapped in a
+Tox Box!
+Find which one he's in to
+save him!</Text>
+  <Text index="560" id="0230">Trampoline Time
+
+Draw a line on the Touch 
+Screen to turn it into a 
+trampoline. You can draw up
+to 3 lines at a time. Help 
+Mario bounce to safety!</Text>
+  <Text index="561" id="0231">Pair-a-Gone
+
+Touch 2 identical cards that
+are connected vertically, 
+horizontally, or diagonally 
+to make them disappear. 
+Clear them all to win! </Text>
+  <Text index="562" id="0232">Coincentration
+
+Pay attention to where the 
+falling coins land. Touch the
+blocks to retrieve the coins.
+But if you choose the wrong
+block, your game will end.</Text>
+  <Text index="563" id="0233">Which Wiggler?
+
+Touch the Wiggler on the 
+Touch Screen that matches 
+the one on the top screen.
+Choose carefully, though;
+he has a terrible temper.</Text>
+  <Text index="564" id="0234">Shuffle Shell
+
+Use the paddle to push the
+Koopa shells to the target.
+The closer the shells land
+to the center of the target,
+the more points you will earn.</Text>
+  <Text index="565" id="0235">Mario Slot
+
+Touch the spinning slots to 
+stop them. Get 3 items in a
+row to earn coins! The 
+Superstar is wild.</Text>
+  <Text index="566" id="0236">Psyche Out!
+
+Are you psychic? Can you
+guess what's on the card's
+other side? Maybe if you
+stare at it long enough,
+a vision will come to you.</Text>
+  <Text index="567" id="0237">Hide and Boo Seek
+
+Rub the Touch Screen where 
+the Boos are hiding! For the 
+first 15 levels, you get 3 
+seconds to find them. After 
+that, you only get 2 seconds.</Text>
+  <Text index="568" id="0238">Sort or 'Splode
+
+Guide Bob-ombs to the black
+carpet and Bob-omb Buddies 
+to the red carpet. If you 
+bring in a wrong-colored
+Bob-omb, it will blow up!</Text>
+  <Text index="569" id="0239">Lucky Stars
+
+From a pair of cards, pick 
+the one with more Stars to
+win coins. 
+Beat Luigi at his own game!</Text>
+  <Text index="570" id="023A">Puzzle Panel
+
+Match the Touch Screen picture 
+to the top screen. Touch a 
+panel to turn over the 
+surrounding panels. Harder levels
+will take more turns to solve.</Text>
+  <Text index="571" id="023B">Loves me...?
+
+Play this mini-game for 
+advice on your love life!
+Pluck the petals to find 
+out how your crush feels 
+about you.</Text>
+  <Text index="572" id="023C">Screwy Slides
+
+These tough slides are for
+experts of the Silly Slide. 
+Guide all the characters to
+their destinations on the
+Touch Screen!</Text>
+  <Text index="573" id="023D">Pair-a-Gone And On
+
+This game of Pair-a-Gone
+goes on forever!
+Test your skill and see how
+many cards you can clear.
+Go for the record!</Text>
+  <Text index="574" id="023E">Super Shuffle Shell
+
+This mini-game gives you
+5 shells! Recommended if
+you're confident in your
+ability.</Text>
+  <Text index="575" id="023F">Mix-a-Mug
+
+Line up the slots on the 
+Touch Screen to form a face.
+Win more coins by matching the
+center face in the slots to 
+the one on the top screen.</Text>
+  <Text index="576" id="0240">Bounce and Trounce
+
+Mario's surrounded by Fly 
+Guys to trounce. Touch him
+on his left, right,
+or center to make him
+bounce in that direction.</Text>
+  <Text index="577" id="0241">Memory Master
+
+If Memory Match was a
+piece of cake for you, try
+out this harder version.
+You now have more cards to
+play with. </Text>
+  <Text index="578" id="0242">Psychic Sage
+
+Now that you're a psychic,
+you should be able to see 
+through the cards.</Text>
+  <Text index="579" id="0243">Doom Box
+
+This mini-game is a lot more
+difficult than Boom Box. 
+Listen hard and pick the
+matching sounds.</Text>
+  <Text index="580" id="0244">Trampoline Terror
+
+Only players with superb 
+stylus skills will be able to
+make Mario bounce through
+the rings!</Text>
+  <Text index="581" id="0245">Luckiest Stars
+
+You're in luck to play this
+”big or small” game.
+Now, beat Luigi and
+beat him often!</Text>
+  <Text index="582" id="0246">Slots Shot
+
+The bars swing open when a 
+ball goes in a Piranha Plant.
+Sink the ball into the pipe to 
+trigger the slots Switch. Get 
+3 items in a row for a bonus!</Text>
+  <Text index="583" id="0247">Puzzle Panic
+
+This mini-game takes the
+Puzzle Panel to a whole
+new level. Put on your
+thinking cap. You're
+going to need it. </Text>
+  <Text index="584" id="0248">Snowball Swell
+
+Compete against time as you
+make the snowball as big as
+possible. Show off your
+dazzling stylus skills as you
+dodge rocks!</Text>
+  <Text index="585" id="0249">Intense Coincentration
+
+There aren't as many falling
+coins this time around, but 
+that won't stop Wario. Watch
+the coins carefully!</Text>
+  <Text index="586" id="024A">Lakitu Launch
+
+Shoot as many balls as
+you can into the tubs
+within the allotted
+time.</Text>
+  <Text index="587" id="024B">Super Mario Slot
+
+Touch the spinning slots to 
+stop them. Get 3 items in a
+row to earn coins! The 
+Superstar is wild. Are you
+feeling super lucky?</Text>
+  <Text index="588" id="024C">Connect the Characters
+
+Draw lines to match the 
+characters' heads to their
+bodies. Press ”GO!” when
+you're finished to see 
+how you fared!</Text>
+  <Text index="589" id="024D">Shell Smash
+
+Hit Koopa shells together to
+score points. Hit many in a
+row for even more points. 
+Score even higher points by 
+smashing green shells together.</Text>
+  <Text index="590" id="024E">PRODUCER &amp; SUPERVISING DIRECTOR
+
+SHIGERU MIYAMOTO</Text>
+  <Text index="591" id="024F">DIRECTOR
+
+SHINICHI IKEMATSU</Text>
+  <Text index="592" id="0250">PLAYER DIRECTOR
+
+HIROSHI MATSUNAGA</Text>
+  <Text index="593" id="0251">MAP &amp; LEVEL DESIGN DIRECTOR
+
+MAKOTO MIYANAGA</Text>
+  <Text index="594" id="0252">SCRIPT &amp; MINI-GAME DIRECTOR
+
+MOTOI OKAMOTO</Text>
+  <Text index="595" id="0253">SEQUENCE DIRECTOR
+
+KENTARO TOMINAGA</Text>
+  <Text index="596" id="0254">MAP &amp; LEVEL DESIGN
+
+JUN TAKAMURA
+SHINKO TAKESHITA
+EIJI MUKAO</Text>
+  <Text index="597" id="0255">MAP DESIGN
+
+TAKAFUMI KIUCHI
+HANAKO HISADA
+MICHIKO IWASAWA</Text>
+  <Text index="598" id="0256">ENEMY &amp; MINI-GAME
+DESIGN DIRECTOR
+
+DAISUKE KAGEYAMA</Text>
+  <Text index="599" id="0257">CHARACTER &amp; ENEMY DESIGN
+
+MICHIHO HAYASHI
+KENJI SHINMOTO</Text>
+  <Text index="600" id="0258">EFFECTS DESIGN
+
+KEIJIRO INOUE
+MOTOAKI FUKUDA</Text>
+  <Text index="601" id="0259">SCREEN DESIGN
+
+EMI TOMITA
+YASUYO IWAWAKI</Text>
+  <Text index="602" id="025A">MINI-GAME SCREEN DESIGN
+
+HIROKO TSUJI
+HIDEKAZU OHTA</Text>
+  <Text index="603" id="025B">DEMO DESIGN &amp; DEBUG SUPPORT
+
+ARISA HOSAKA</Text>
+  <Text index="604" id="025C">MUSIC
+
+KENTA NAGATA</Text>
+  <Text index="605" id="025D">SOUND PROGRAMMING
+
+TORU ASAKAWA
+MITSUHIRO HIKINO
+ATSUSHI MASAKI
+SANAE SUSAKI</Text>
+  <Text index="606" id="025E">PROGRAMMING DIRECTOR
+
+TOSHIHIKO NAKAGO</Text>
+  <Text index="607" id="025F">MAIN SYSTEM PROGRAMMING
+
+TOSHIO IWAWAKI</Text>
+  <Text index="608" id="0260">SYSTEM PROGRAMMING
+
+KENZO HAYAKAWA
+YUICHI YAMAMOTO
+KENJI MATSUTANI
+HIROSHI UMEMIYA</Text>
+  <Text index="609" id="0261">PLAYER PROGRAMMING
+
+KEIGO NAKANISHI</Text>
+  <Text index="610" id="0262">ENEMY PROGRAMMING
+
+TAKAMITSU KUZUHARA
+TOSHINORI KAWAI
+TAKAFUMI NOMA
+MASAYUKI KUWAJIMA</Text>
+  <Text index="611" id="0263">SCREEN PROGRAMMING
+
+SHIGEHIRO KASAMATSU</Text>
+  <Text index="612" id="0264">MINI-GAME PROGRAMMING
+
+YUJI SAWATANI
+YUKARI SUZUKI
+YOSHITAKA TAKESHITA
+EIJI NISHIKAWA</Text>
+  <Text index="613" id="0265">3-D ENGINE PROGRAMMING
+
+HIROKI SOTOIKE</Text>
+  <Text index="614" id="0266">TOUCH DRAW PROGRAMMING
+
+TAKUHIRO DOHTA</Text>
+  <Text index="615" id="0267">VOICE
+
+CHARLES MARTINET
+LESLIE SWAN
+KAZUMI TOTAKA
+JEN TAYLOR</Text>
+  <Text index="616" id="0268">PROGRESS MANAGEMENT
+
+KEIZO KATO</Text>
+  <Text index="617" id="0269">NORTH AMERICAN LOCALIZATION
+
+NATE BIHLDORFF
+THOMAS CONNERY
+ANN LIN
+REIKO NINOMIYA
+LESLIE SWAN
+BILL TRINEN</Text>
+  <Text index="618" id="026A">TECHNICAL SUPPORT
+
+HIRONOBU KAKUI
+SHINGO OKAMOTO</Text>
+  <Text index="619" id="026B">CHARACTER DESIGN AND SUPERVISION
+
+SHINYA TAKAHASHI
+TSUYOSHI WATANABE
+YO OHNISHI
+KANAE KOBATA</Text>
+  <Text index="620" id="026C">OBJECT DESIGN SUPPORT
+
+KIMIHIRO OZAKI 
+KOZUE MUTO 
+MUTSUMI ODA 
+FUMIHIRO MATSUMOTO </Text>
+  <Text index="621" id="026D">PROGRAMMING SUPPORT
+
+MASATO KIMURA
+YASUHIRO KAWAGUCHI
+KENJI YAMAMOTO
+SATORU OSAKO
+TETSUYA NAKATA
+KEIZO OHTA
+HIROYUKI KONO
+SHINJI OKANE</Text>
+  <Text index="622" id="026E">DEVELOPMENT ENVIRONMENT SUPPORT
+
+AKIO TERUI
+HIROTO YADA
+JIN IKEDA
+KEIKO AKIYAMA
+KENJI NISHIDA
+KOJI YOSHIZAKI
+MAKOTO TAKANO</Text>
+  <Text index="623" id="026F">MASAMICHI SAKAINO
+MASASHI SEIKI
+MINORU HATAMOTO
+SHUNSAKU KITAMURA
+SHUNSUKE MAKITA
+TAKASHI ENDO
+TAKESHI SHIMADA
+TETSUYA MOMINOKI
+TOMOYOSHI YAMANE</Text>
+  <Text index="624" id="0270">TOSHIKAZU KITANI
+YASUKI TAWARAISHI
+YASUNARI NISHIDA
+YASUSHI IDA
+YASUYUKI TAHARA
+YOSHINORI TANIMOTO
+YOSHITAKA YASUMOTO
+YUKI MORIWAKI
+YUSUKE KURAHASHI</Text>
+  <Text index="625" id="0271">NOA PRODUCT TESTING
+
+YOSHINOBU MANTANI
+KYLE HUDSON
+ERIC BUSH
+SEAN EGAN
+RICH RICHARDSON
+TOM HERTZOG
+PATRICK TAYLOR
+MIKA KUROSAWA
+TERESA LILLYGREN</Text>
+  <Text index="626" id="0272">PRODUCT MANAGEMENT
+
+YOSHIKAZU YAMASHITA</Text>
+  <Text index="627" id="0273">SPECIAL THANKS
+
+SEIKI ISHIHARA
+YUTAKA ARATA
+NORIHISA ASHIDA
+ALL EAD
+SRD
+NINTENDO 64 SUPER MARIO 64
+ORIGINAL STAFF</Text>
+  <Text index="628" id="0274">EXECUTIVE PRODUCER
+
+SATORU IWATA</Text>
+  <Text index="629" id="0275">All Rights,
+including the copyrights of Game,
+Scenario, Music, and Program,
+reserved by NINTENDO.</Text>
+  <Text index="630" id="0276">CONTINUE</Text>
+  <Text index="631" id="0277">CONTINUE</Text>
+  <Text index="632" id="0278">EXIT COURSE</Text>
+  <Text index="633" id="0279">CONTROLLER MODES</Text>
+  <Text index="634" id="027A">SAVE &amp; CONTINUE</Text>
+  <Text index="635" id="027B">SAVE &amp; QUIT</Text>
+  <Text index="636" id="027C">CONTINUE</Text>
+  <Text index="637" id="027D">CONTINUE</Text>
+  <Text index="638" id="027E">QUIT</Text>
+  <Text index="639" id="027F"></Text>
+  <Text index="640" id="0280">STANDARD MODE</Text>
+  <Text index="641" id="0281">TOUCH MODE</Text>
+  <Text index="642" id="0282">DUAL-HAND MODE</Text>
+  <Text index="643" id="0283">OK</Text>
+  <Text index="644" id="0284">SURROUND</Text>
+  <Text index="645" id="0285">HEADPHONES</Text>
+  <Text index="646" id="0286">STEREO</Text>
+  <Text index="647" id="0287">ON</Text>
+  <Text index="648" id="0288">OFF</Text>
+  <Text index="649" id="0289">YES</Text>
+  <Text index="650" id="028A">NO</Text>
+  <Text index="651" id="028B">OPTIONS</Text>
+  <Text index="652" id="028C">CLEAR!</Text>
+  <Text index="653" id="028D">COURSE</Text>
+  <Text index="654" id="028E">SCORE</Text>
+  <Text index="655" id="028F">QUIT</Text>
+  <Text index="656" id="0290">SAVE</Text>
+  <Text index="657" id="0291">DON'T SAVE</Text>
+  <Text index="658" id="0292">CONTINUE</Text>
+  <Text index="659" id="0293">YES</Text>
+  <Text index="660" id="0294">NO</Text>
+  <Text index="661" id="0295">Saving file...</Text>
+  <Text index="662" id="0296">File saved.</Text>
+  <Text index="663" id="0297">Really quit without saving?</Text>
+  <Text index="664" id="0298">HIGH SCORE</Text>
+  <Text index="665" id="0299">FILE</Text>
+  <Text index="666" id="029A">Are you sure you want to 
+erase all data?</Text>
+  <Text index="667" id="029B">Once you erase data,
+you can't restore it.
+Are you sure you want to 
+erase?</Text>
+  <Text index="668" id="029C">Erasing all data...</Text>
+  <Text index="669" id="029D">All data erased.</Text>
+  <Text index="670" id="029E">Data is corrupted.
+Some data is lost.</Text>
+  <Text index="671" id="029F">Data is corrupted.
+Mini-game data is lost.</Text>
+  <Text index="672" id="02A0">No data found in file.</Text>
+  <Text index="673" id="02A1">OK to overwrite?</Text>
+  <Text index="674" id="02A2">Copying file...</Text>
+  <Text index="675" id="02A3">File copied.</Text>
+  <Text index="676" id="02A4">Really erase it?</Text>
+  <Text index="677" id="02A5">Erasing file...</Text>
+  <Text index="678" id="02A6">File erased.</Text>
+  <Text index="679" id="02A7">LINKING STARTS.
+OK?</Text>
+  <Text index="680" id="02A8">Practice alone?</Text>
+  <Text index="681" id="02A9">LINKING ERROR!
+
+GET CLOSER AND FACE THE
+LINK PARTNER AND TRY AGAIN.
+
+PLEASE PRESS ANY BUTTON.</Text>
+  <Text index="682" id="02AA">Wireless Communications Failed!
+
+Turn power OFF and ON to 
+reset system.
+Face your DS partner, move
+closer together, and try again.</Text>
+  <Text index="683" id="02AB">DOWNLOAD FAILED!
+
+GET CLOSER AND FACE THE LINK
+PARTNER AND TRY AGAIN.
+
+PLEASE PRESS ANY BUTTON.</Text>
+  <Text index="684" id="02AC">DS Download Play Failed!
+
+Turn power OFF and ON to 
+reset system.
+Face your DS partner, move
+closer together, and try again.</Text>
+  <Text index="685" id="02AD">Cancel wireless communications?</Text>
+  <Text index="686" id="02AE">Turn power OFF.</Text>
+  <Text index="687" id="02AF"></Text>
+  <Text index="688" id="02B0"></Text>
+  <Text index="689" id="02B1"></Text>
+  <Text index="690" id="02B2"></Text>
+  <Text index="691" id="02B3">COMPLETE!</Text>
+  <Text index="692" id="02B4"></Text>
+  <Text index="693" id="02B5">TOUCH TO START</Text>
+  <Text index="694" id="02B6">Return to Title Screen?</Text>
+  <Text index="695" id="02B7"></Text>
+  <Text index="696" id="02B8"></Text>
+  <Text index="697" id="02B9"></Text>
+  <Text index="698" id="02BA"></Text>
+  <Text index="699" id="02BB">All players have left the 
+game, so VS will end.</Text>
+  <Text index="700" id="02BC">[\r]FE05010001 left the 
+game, so VS will end.</Text>
+  <Text index="701" id="02BD">[\r]FE05010001 left the 
+game.</Text>
+  <Text index="702" id="02BE">Copy failed.
+You lost File A.</Text>
+  <Text index="703" id="02BF">Copy failed.
+You lost File B.</Text>
+  <Text index="704" id="02C0">Copy failed.
+You lost File C.</Text>
+  <Text index="705" id="02C1">One moment please...</Text>
+  <Text index="706" id="02C2">Scramble to get the Stars!
+The caps will help you out.</Text>
+  <Text index="707" id="02C3">CONTINUE</Text>
+  <Text index="708" id="02C4">[\r]FE05010001 WINS!</Text>
+  <Text index="709" id="02C5">SELECT: Controller Modes
+START: Options</Text>
+  <Text index="710" id="02C6">QUIT VS</Text>
+</SM64DS_Texts>
