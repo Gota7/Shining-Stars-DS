@@ -131,7 +131,7 @@ build build/__ROM__/Arm9/111.bin: copy C$:\users\gota\My$ Documents\ShiningStars
 build build/__ROM__/Arm9/112.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/__ROM__/Arm9/112.bin
 build build/__ROM__/Arm9/113.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/__ROM__/Arm9/113.bin
 build build/__ROM__/Arm9/114.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/__ROM__/Arm9/114.bin
-build build/__ROM__/Arm9/115.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/__ROM__/Arm9/115.bin
+build build/__ROM__/Arm9/115.bin: copy C$:\users\gota\My$ Documents\ShiningStars\Patch/__ROM__/Arm9/115.bin
 build build/__ROM__/Arm9/116.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/__ROM__/Arm9/116.bin
 build build/__ROM__/Arm9/117.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/__ROM__/Arm9/117.bin
 build build/__ROM__/Arm9/118.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/__ROM__/Arm9/118.bin
@@ -2655,11 +2655,11 @@ build build/data/stage/test_map/test_map_00_isc.bin.0: copy C$:\users\gota\My$ D
 build build/data/stage/test_map/test_map_00_isc.bin: ndst build/data/stage/test_map/test_map_00_isc.bin.0
   args = -t LZ
 build build/data/stage/test_map/test_map.kcl: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/test_map/test_map.kcl
-build build/data/stage/teresa_house/teresa_house_icl.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/teresa_house/teresa_house_icl.bin
-build build/data/stage/teresa_house/teresa_house_icg.bin.0: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/teresa_house/teresa_house_icg.bin
+build build/data/stage/teresa_house/teresa_house_icl.bin: copy C$:\users\gota\My$ Documents\ShiningStars\Patch/data/stage/teresa_house/teresa_house_icl.bin
+build build/data/stage/teresa_house/teresa_house_icg.bin.0: copy C$:\users\gota\My$ Documents\ShiningStars\Patch/data/stage/teresa_house/teresa_house_icg.bin
 build build/data/stage/teresa_house/teresa_house_icg.bin: ndst build/data/stage/teresa_house/teresa_house_icg.bin.0
   args = -t LZ
-build build/data/stage/teresa_house/teresa_house_all.bmd.0: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/teresa_house/teresa_house_all.bmd
+build build/data/stage/teresa_house/teresa_house_all.bmd.0: copy C$:\users\gota\My$ Documents\ShiningStars\Patch/data/stage/teresa_house/teresa_house_all.bmd
 build build/data/stage/teresa_house/teresa_house_all.bmd: ndst build/data/stage/teresa_house/teresa_house_all.bmd.0
   args = -t LZH
 build build/data/stage/teresa_house/teresa_house_04_isc.bin.0: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/teresa_house/teresa_house_04_isc.bin
@@ -2674,10 +2674,10 @@ build build/data/stage/teresa_house/teresa_house_02_isc.bin: ndst build/data/sta
 build build/data/stage/teresa_house/teresa_house_01_isc.bin.0: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/teresa_house/teresa_house_01_isc.bin
 build build/data/stage/teresa_house/teresa_house_01_isc.bin: ndst build/data/stage/teresa_house/teresa_house_01_isc.bin.0
   args = -t LZ
-build build/data/stage/teresa_house/teresa_house_00_isc.bin.0: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/teresa_house/teresa_house_00_isc.bin
+build build/data/stage/teresa_house/teresa_house_00_isc.bin.0: copy C$:\users\gota\My$ Documents\ShiningStars\Patch/data/stage/teresa_house/teresa_house_00_isc.bin
 build build/data/stage/teresa_house/teresa_house_00_isc.bin: ndst build/data/stage/teresa_house/teresa_house_00_isc.bin.0
   args = -t LZ
-build build/data/stage/teresa_house/teresa_house.kcl.0: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/teresa_house/teresa_house.kcl
+build build/data/stage/teresa_house/teresa_house.kcl.0: copy C$:\users\gota\My$ Documents\ShiningStars\Patch/data/stage/teresa_house/teresa_house.kcl
 build build/data/stage/teresa_house/teresa_house.kcl: ndst build/data/stage/teresa_house/teresa_house.kcl.0
   args = -t LZH
 build build/data/stage/suisou/suisou_icl.bin: copy C$:\users\gota\My$ Documents\ShiningStars\MOM/data/stage/suisou/suisou_icl.bin
