@@ -6,4 +6,5 @@
 113 - Icefire Caverns
 114 - Icefire Caverns Frothy Heights
 115 - Stormy Skyway
+123 - Wintry Wasteland 2D
 127 - Starshine Cove

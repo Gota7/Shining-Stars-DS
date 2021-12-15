@@ -2,6 +2,7 @@ battan_king_map - Piranha Skygarden
 bombhei_map - Chomp Fields
 kaizoku_irie - Mount Lavalava
 kaizoku_ship - Mount Lavalava 2D
+snow_kama - Wintry Wasteland 2D
 snow_mt - Icefire Caverns
 snow_slider - Icefire Caverns Frothy Heights
 teresa_house - Stormy Skyway
