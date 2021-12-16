@@ -1192,7 +1192,7 @@
   {
     "Id": 119,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0x2384",
+    "RAMSize": "0xd28",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",
@@ -1202,7 +1202,7 @@
   {
     "Id": 120,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0xe4c",
+    "RAMSize": "0x798",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",
@@ -1222,7 +1222,7 @@
   {
     "Id": 122,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0xb00",
+    "RAMSize": "0x1050",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",

@@ -10,6 +10,9 @@
 114 - Icefire Caverns Frothy Heights
 115 - Stormy Skyway
 116 - Twin Peaks
+119 - Desolate Dryline
+120 - Desolate Dryline 2
+122 - Wintry Wasteland
 123 - Wintry Wasteland 2D
 124 - The Abyss
 127 - Starshine Cove

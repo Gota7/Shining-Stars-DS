@@ -4,11 +4,14 @@ castle_1f - Shine City 1
 castle_b1 - Shine City 2
 cave - Twin Peaks
 clock_tower - Suffocating Moon Temple
+desert_land - Desolate Dryline
+desert_py - Desolate Dryline 2
 kaizoku_irie - Mount Lavalava
 kaizoku_ship - Mount Lavalava 2D
 main_castle - Gameover World
 main_garden - Skyhub
 snow_kama - Wintry Wasteland 2D
+snow_land - Wintry Wasteland
 snow_mt - Icefire Caverns
 snow_slider - Icefire Caverns Frothy Heights
 teresa_house - Stormy Skyway
