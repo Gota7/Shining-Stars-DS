@@ -1492,7 +1492,7 @@
   {
     "Id": 149,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0xbfc",
+    "RAMSize": "0x3d0",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",
@@ -1512,7 +1512,7 @@
   {
     "Id": 151,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0x25c0",
+    "RAMSize": "0x4bc",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",

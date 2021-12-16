@@ -17,3 +17,5 @@
 124 - The Abyss
 127 - Starshine Cove
 130 - Suffocating Moon Temple
+149 - Dust Drain
+151 - Shiversear Cave
