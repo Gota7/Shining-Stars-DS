@@ -8,6 +8,7 @@ desert_land - Desolate Dryline
 desert_py - Desolate Dryline 2
 ex_l_map - Dust Drain
 ex_w_map - Shiversear Cave
+fire_land - Magma Mountains
 kaizoku_irie - Mount Lavalava
 kaizoku_ship - Mount Lavalava 2D
 main_castle - Gameover World

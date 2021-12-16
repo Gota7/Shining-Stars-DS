@@ -10,6 +10,7 @@
 114 - Icefire Caverns Frothy Heights
 115 - Stormy Skyway
 116 - Twin Peaks
+117 - Magma Mountains
 119 - Desolate Dryline
 120 - Desolate Dryline 2
 122 - Wintry Wasteland
