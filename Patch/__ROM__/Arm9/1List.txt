@@ -13,6 +13,7 @@
 117 - Magma Mountains
 119 - Desolate Dryline
 120 - Desolate Dryline 2
+121 - Hydrofire Chasm
 122 - Wintry Wasteland
 123 - Wintry Wasteland 2D
 124 - The Abyss

@@ -1212,7 +1212,7 @@
   {
     "Id": 121,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0x143c",
+    "RAMSize": "0xd20",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",
