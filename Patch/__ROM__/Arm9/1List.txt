@@ -1,4 +1,5 @@
 104 - Gameover World
+105 - Shine City 1
 109 - Chomp Fields
 110 - Piranha Skygarden
 111 - Mount Lava Lava
