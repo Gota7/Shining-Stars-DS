@@ -4,6 +4,7 @@ cave - Twin Peaks
 clock_tower - Suffocating Moon Temple
 kaizoku_irie - Mount Lavalava
 kaizoku_ship - Mount Lavalava 2D
+main_castle - Gameover World
 snow_kama - Wintry Wasteland 2D
 snow_mt - Icefire Caverns
 snow_slider - Icefire Caverns Frothy Heights

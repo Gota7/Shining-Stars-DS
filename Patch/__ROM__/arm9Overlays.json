@@ -1042,7 +1042,7 @@
   {
     "Id": 104,
     "RAMAddress": "0x214eaa0",
-    "RAMSize": "0xed4",
+    "RAMSize": "0xc2c",
     "BSSSize": "0x0",
     "StaticInitStart": "0x214eaa0",
     "StaticInitEnd": "0x214eaa4",
