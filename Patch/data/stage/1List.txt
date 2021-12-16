@@ -18,4 +18,5 @@ snow_mt - Icefire Caverns
 snow_slider - Icefire Caverns Frothy Heights
 teresa_house - Stormy Skyway
 tibi_deka_d - Starshine Cove
+vs_cross - Triplet Peaks
 water_city - The Abyss
