@@ -21,6 +21,7 @@
 126 - Chaotic Clock Tower Regular
 127 - Starshine Cove
 130 - Suffocating Moon Temple
+131 - Searing Sun Temple
 145 - Triplet Peaks
 149 - Dust Drain
 151 - Shiversear Cave
