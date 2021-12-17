@@ -1,6 +1,7 @@
 battan_king_map - Piranha Skygarden
 bombhei_map - Chomp Fields
 castle_1f - Shine City 1
+castle_2f - Shine City Tower
 castle_b1 - Shine City 2
 cave - Twin Peaks
 clock_tower - Suffocating Moon Temple

@@ -2,6 +2,7 @@
 105 - Shine City 1
 106 - Skyhub
 107 - Shine City 2
+108 - Shine City Tower
 109 - Chomp Fields
 110 - Piranha Skygarden
 111 - Mount Lava Lava
