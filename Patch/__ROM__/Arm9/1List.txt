@@ -18,6 +18,7 @@
 123 - Wintry Wasteland 2D
 124 - The Abyss
 125 - Chaotic Clock Tower 1st Mission
+126 - Chaotic Clock Tower Regular
 127 - Starshine Cove
 130 - Suffocating Moon Temple
 145 - Triplet Peaks
