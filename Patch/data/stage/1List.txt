@@ -20,6 +20,7 @@ koopa1_map - Bowser In The Tower Of Terror
 koopa2_map - Bowser In The Magma Mine
 main_castle - Gameover World
 main_garden - Skyhub
+playroom - Hydrofire Chasm Slide
 rainbow_cruise - Searing Sun Temple
 snow_kama - Wintry Wasteland 2D
 snow_land - Wintry Wasteland

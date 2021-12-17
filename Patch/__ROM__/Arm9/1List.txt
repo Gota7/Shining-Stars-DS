@@ -31,4 +31,5 @@
 145 - Triplet Peaks
 149 - Dust Drain
 151 - Shiversear Cave
+153 - Hydrofire Chasm Slide
 154 - Chaotic Clock Tower Upside-Down
