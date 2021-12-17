@@ -10,6 +10,7 @@ desert_py - Desolate Dryline 2
 ex_l_map - Dust Drain
 ex_w_map - Shiversear Cave
 fire_land - Magma Mountains
+habatake - Glitch City
 high_mt - Chaotic Clock Tower 1st Mission
 high_slider - Chaotic Clock Tower Regular
 kaizoku_irie - Mount Lavalava
