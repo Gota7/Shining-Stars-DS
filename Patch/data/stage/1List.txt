@@ -13,6 +13,7 @@ high_mt - Chaotic Clock Tower 1st Mission
 high_slider - Chaotic Clock Tower Regular
 kaizoku_irie - Mount Lavalava
 kaizoku_ship - Mount Lavalava 2D
+koopa1_map - Bowser In The Tower Of Terror
 main_castle - Gameover World
 main_garden - Skyhub
 rainbow_cruise - Searing Sun Temple

@@ -22,6 +22,7 @@
 127 - Starshine Cove
 130 - Suffocating Moon Temple
 131 - Searing Sun Temple
+138 - Bowser In The Tower Of Terror
 145 - Triplet Peaks
 149 - Dust Drain
 151 - Shiversear Cave
