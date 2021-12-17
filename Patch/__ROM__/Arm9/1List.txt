@@ -23,6 +23,7 @@
 127 - Starshine Cove
 130 - Suffocating Moon Temple
 131 - Searing Sun Temple
+133 - Lakeside Manor
 138 - Bowser In The Tower Of Terror
 139 - Bowser In The Tower Of Terror Boss
 140 - Bowser In The Magma Mine

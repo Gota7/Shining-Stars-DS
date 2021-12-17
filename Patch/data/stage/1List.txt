@@ -24,6 +24,7 @@ snow_kama - Wintry Wasteland 2D
 snow_land - Wintry Wasteland
 snow_mt - Icefire Caverns
 snow_slider - Icefire Caverns Frothy Heights
+suisou - Lakeside Manor
 teresa_house - Stormy Skyway
 tibi_deka_d - Starshine Cove
 vs_cross - Triplet Peaks
