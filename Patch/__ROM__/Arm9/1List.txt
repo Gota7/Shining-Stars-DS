@@ -30,6 +30,7 @@
 139 - Bowser In The Tower Of Terror Boss
 140 - Bowser In The Magma Mine
 145 - Triplet Peaks
+146 - Sunset Bayside
 149 - Dust Drain
 151 - Shiversear Cave
 153 - Hydrofire Chasm Slide

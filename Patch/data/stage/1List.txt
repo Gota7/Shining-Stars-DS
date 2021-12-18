@@ -31,5 +31,6 @@ suisou - Lakeside Manor
 teresa_house - Stormy Skyway
 tibi_deka_d - Starshine Cove
 vs_cross - Triplet Peaks
+vs_island - Sunset Bayside
 vs_main - Chaotic Clock Tower Upside-Down
 water_city - The Abyss
