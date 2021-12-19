@@ -1,7 +1,7 @@
 #ifndef GOOMBA_COLORED_INCLUDED
 #define GOOMBA_COLORED_INCLUDED
 
-#include "SM64DS_2.h"
+#include "include/SM64DS_2.h"
 	
 struct Goomba : public CapEnemy
 {
@@ -36,10 +36,12 @@ struct Goomba : public CapEnemy
 	unsigned sizeType;
 	char spawnSilverStar; //1 is true, any other value is false
 	char silverStarID;
-	char charBehav; //0 = jump, 1 = jump 'n' spin, 2 = do double damage
+	char modelType;
+	char charBehav; //0 = jump, 1 = jump 'n' spin, 2 = do double damage, 3 = speed + shock, 4 = fire, 5 = instakill
 	char regurgBounceCount;
 	char flags468;
 	char extraDamage;
+	char extraSpeed;
 	unsigned hitFlags;
 	
 	void UpdateMaxDist();
@@ -89,7 +91,7 @@ struct Goomba : public CapEnemy
 		NUM_ANIMS
 	};
 	
-	static SharedFilePtr modelFile;
+	static SharedFilePtr modelFiles[2];
 	static SharedFilePtr texSeqFile;
 	static SharedFilePtr animFiles[NUM_ANIMS];
 	
