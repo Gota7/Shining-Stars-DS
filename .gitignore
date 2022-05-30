@@ -31,5 +31,9 @@ ConvertShininger
 ConvertShiningOLD
 Shininger
 ShiningOLD
+Fireflower/toolchain/ff-gcc
+Fireflower/data
+Fireflower/build
+Fireflower/backup
 
 Editor/build.ninja
