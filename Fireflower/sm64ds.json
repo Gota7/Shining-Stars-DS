@@ -23,7 +23,7 @@
         "pedantic": true,
 
         "flags": {
-            "c++": "-g -Wno-volatile -Wno-register -Wno-multichar -O3 -fomit-frame-pointer -fno-builtin -ffast-math -Wno-unknown-pragmas -DSDK_GCC -DSDK_CW -DSDK_ARM9 -nostdlib -nodefaultlibs -nostartfiles -fno-rtti -fno-exceptions -std=c++20",
+            "c++": "-g -Wno-volatile -Wno-register -Wno-multichar -O3 -fomit-frame-pointer -fno-builtin -ffast-math -Wno-unknown-pragmas -DSDK_GCC -DSDK_CW -DSDK_ARM9 -nostdlib -nodefaultlibs -nostartfiles -fno-rtti -fno-exceptions -std=c++20 -faligned-new=4",
             "c": "-g -Wno-volatile -Wno-register -Wno-multichar -O3 -fomit-frame-pointer -fno-builtin -ffast-math -Wno-unknown-pragmas -DSDK_GCC -DSDK_CW -DSDK_ARM9 -nostdlib -nodefaultlibs -nostartfiles",
             "asm": "-g -O3 -x assembler-with-cpp -fomit-frame-pointer",
             "arm9": "-mcpu=arm946e-s -masm-syntax-unified -mno-unaligned-access -mfloat-abi=soft -mabi=aapcs",
@@ -41,9 +41,9 @@
     "patch": {
 
         "arm9": {
-            "reloc": "0x02065F10",
-            "start": "0x021901E0",
-            "end": "0x02380000",
+            "reloc": "0x02058DE0",
+            "start": "0x020A0EFC",
+            "end": "0x020DBEFC",
             "compress": false
         },
 
