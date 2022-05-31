@@ -1,0 +1,4416 @@
+data/enemy/iron_ball/iron_ball.bmd
+	- LZH
+data/enemy/wanwan/chain.bmd
+	- LZH
+data/enemy/wanwan/wanwan.bmd
+	- LZH
+data/enemy/wanwan/wanwan_attack.bca
+	- LZH
+data/enemy/wanwan/wanwan_wait.bca
+	- LZH
+data/entry/e3_start_map_r00.bmd
+	- LZH
+data/normal_obj/coin/coin_blue_poly32.bmd
+	- LZH
+data/normal_obj/coin/coin_blue_poly4.bmd
+	- LZH
+data/normal_obj/door/door_open.bca
+	- LZH
+data/normal_obj/door/obj_door0.bmd
+	- LZH
+data/normal_obj/door/obj_door0_keyhole.bmd
+	- LZH
+data/normal_obj/door/obj_door3_tetsu.bmd
+	- LZH
+data/normal_obj/obj_kokuten/obj_kokuten.bmd
+	- LZH
+data/normal_obj/obj_pathlift/obj_pathlift.bmd
+	- LZH
+data/normal_obj/obj_pathlift/obj_pathlift.kcl
+	- LZH
+data/normal_obj/oneup_kinoko/oneup_kinoko.bmd
+	- LZH
+data/normal_obj/tree/castle_tree.bmd
+	- LZH
+ARCHIVE/ar1.narc
+	- Narc
+data/2D_cad/d_2d_battle_btm_icon_ncg.bin
+	- LZ
+data/enemy/water_bomb/abuku.bmd
+	- LZH
+data/normal_obj/coin/coin_poly32.bmd
+	- LZH
+data/normal_obj/coin/coin_poly4.bmd
+	- LZH
+data/normal_obj/coin/coin_red_poly32.bmd
+	- LZH
+data/normal_obj/coin/coin_red_poly4.bmd
+	- LZH
+data/normal_obj/number/number.bmd
+	- LZH
+data/normal_obj/number/number.btp
+	- LZH
+data/normal_obj/number/s_number.bmd
+	- LZH
+data/normal_obj/obj_feather/feather.bmd
+	- LZH
+data/normal_obj/obj_hatena_box/hatena_box.kcl
+	- LZH
+data/normal_obj/obj_hatena_box/obj_hatena_y_box.bmd
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_red_switch_start.kcl
+	- LZH
+data/normal_obj/obj_mario_cap/luigi_cap.bmd
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap.bmd
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_puton.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_puton_true.bca
+	- LZH
+data/normal_obj/obj_mario_cap/wario_cap.bmd
+	- LZH
+data/normal_obj/star/obj_star.bmd
+	- LZH
+data/normal_obj/star/obj_star_get.bca
+	- LZH
+data/normal_obj/star/obj_star_kara.bmd
+	- LZH
+data/normal_obj/star/obj_star_open.bca
+	- LZH
+data/normal_obj/star/obj_star_silver.bmd
+	- LZH
+data/normal_obj/star/obj_star_swim_get.bca
+	- LZH
+data/normal_obj/star/obj_star_wait.bca
+	- LZH
+data/normal_obj/star_box/star_box.bmd
+	- LZH
+data/player/2jmp1.bca
+	- LZH
+data/player/2jmp2.bca
+	- LZH
+data/player/2jmped.bca
+	- LZH
+data/player/L_run.bca
+	- LZH
+data/player/L_tx_bkdwn.btp
+	- LZH
+data/player/L_tx_bodytrans.btp
+	- LZH
+data/player/L_tx_firejmp.btp
+	- LZH
+data/player/L_tx_fjpend.btp
+	- LZH
+data/player/L_tx_headtrans.btp
+	- LZH
+data/player/L_tx_jfdwn.btp
+	- LZH
+data/player/L_tx_sdown.btp
+	- LZH
+data/player/L_tx_wait.btp
+	- LZH
+data/player/L_wait.bca
+	- LZH
+data/player/L_walk.bca
+	- LZH
+data/player/W_carry_lost.bca
+	- LZH
+data/player/W_carry_pose.bca
+	- LZH
+data/player/W_carry_start.bca
+	- LZH
+data/player/W_carry_throw.bca
+	- LZH
+data/player/W_carry_wait.bca
+	- LZH
+data/player/W_gswing_end.bca
+	- LZH
+data/player/W_gswing_pose.bca
+	- LZH
+data/player/W_gswing_start.bca
+	- LZH
+data/player/W_gswing_throw.bca
+	- LZH
+data/player/W_run.bca
+	- LZH
+data/player/W_tx_bkdwn.btp
+	- LZH
+data/player/W_tx_firejmp.btp
+	- LZH
+data/player/W_tx_fjpend.btp
+	- LZH
+data/player/W_tx_jfdwn.btp
+	- LZH
+data/player/W_tx_sdown.btp
+	- LZH
+data/player/W_tx_wait.btp
+	- LZH
+data/player/W_wait.bca
+	- LZH
+data/player/W_walk.bca
+	- LZH
+data/player/Y_eat.bca
+	- LZH
+data/player/Y_eat_fail.bca
+	- LZH
+data/player/Y_eat_out.bca
+	- LZH
+data/player/Y_eat_success.bca
+	- LZH
+data/player/Y_entry_wait.bca
+	- LZH
+data/player/Y_entry_wait_end.bca
+	- LZH
+data/player/Y_head_eat.bca
+	- LZH
+data/player/Y_head_eat_fail.bca
+	- LZH
+data/player/Y_head_eat_out.bca
+	- LZH
+data/player/Y_head_eat_success.bca
+	- LZH
+data/player/Y_lay_egg.bca
+	- LZH
+data/player/Y_run.bca
+	- LZH
+data/player/Y_tx_bkdwn.btp
+	- LZH
+data/player/Y_tx_firejmp.btp
+	- LZH
+data/player/Y_tx_fjpend.btp
+	- LZH
+data/player/Y_tx_jfdwn.btp
+	- LZH
+data/player/Y_tx_sdown.btp
+	- LZH
+data/player/Y_tx_sleep_wait.btp
+	- LZH
+data/player/Y_tx_wait.btp
+	- LZH
+data/player/Y_wait.bca
+	- LZH
+data/player/Y_walk.bca
+	- LZH
+data/player/attack_1.bca
+	- LZH
+data/player/attack_2.bca
+	- LZH
+data/player/attack_3.bca
+	- LZH
+data/player/back_jump.bca
+	- LZH
+data/player/back_jump_end.bca
+	- LZH
+data/player/bkdwn.bca
+	- LZH
+data/player/brake.bca
+	- LZH
+data/player/brend.bca
+	- LZH
+data/player/broad_jump.bca
+	- LZH
+data/player/broad_jump_end.bca
+	- LZH
+data/player/carry_lost.bca
+	- LZH
+data/player/carry_pose.bca
+	- LZH
+data/player/carry_start.bca
+	- LZH
+data/player/carry_throw.bca
+	- LZH
+data/player/carry_wait.bca
+	- LZH
+data/player/carry_walk.bca
+	- LZH
+data/player/crawl.bca
+	- LZH
+data/player/crawl_end.bca
+	- LZH
+data/player/crawl_start.bca
+	- LZH
+data/player/e_shock.bca
+	- LZH
+data/player/entry_reply.bca
+	- LZH
+data/player/entry_reply_end.bca
+	- LZH
+data/player/firejmp.bca
+	- LZH
+data/player/fjpend.bca
+	- LZH
+data/player/fly_pose.bca
+	- LZH
+data/player/handstand_end.bca
+	- LZH
+data/player/handstand_jump.bca
+	- LZH
+data/player/handstand_start.bca
+	- LZH
+data/player/handstand_wait.bca
+	- LZH
+data/player/hang_jump_up.bca
+	- LZH
+data/player/hang_start.bca
+	- LZH
+data/player/hang_up.bca
+	- LZH
+data/player/hang_wait.bca
+	- LZH
+data/player/hipat.bca
+	- LZH
+data/player/hiped.bca
+	- LZH
+data/player/hipsr.bca
+	- LZH
+data/player/jfdwn.bca
+	- LZH
+data/player/jmped.bca
+	- LZH
+data/player/jump.bca
+	- LZH
+data/player/jump_to_fly.bca
+	- LZH
+data/player/laend.bca
+	- LZH
+data/player/land.bca
+	- LZH
+data/player/lose.bca
+	- LZH
+data/player/lost.bca
+	- LZH
+data/player/luigi_head_cap.bmd
+	- LZH
+data/player/luigi_head_nocap.bmd
+	- LZH
+data/player/luigi_model.bmd
+	- LZH
+data/player/mario_head_cap.bmd
+	- LZH
+data/player/mario_head_nocap.bmd
+	- LZH
+data/player/mario_model.bmd
+	- LZH
+data/player/monkey_l_to_r.bca
+	- LZH
+data/player/monkey_r_to_l.bca
+	- LZH
+data/player/monkey_start.bca
+	- LZH
+data/player/monkey_wait_l.bca
+	- LZH
+data/player/monkey_wait_r.bca
+	- LZH
+data/player/push.bca
+	- LZH
+data/player/puton_cap.bca
+	- LZH
+data/player/ride.bca
+	- LZH
+data/player/ride_start.bca
+	- LZH
+data/player/roll.bca
+	- LZH
+data/player/roll_jump.bca
+	- LZH
+data/player/roll_jump_end.bca
+	- LZH
+data/player/roll_kick.bca
+	- LZH
+data/player/run.bca
+	- LZH
+data/player/sdown.bca
+	- LZH
+data/player/sfbdn.bca
+	- LZH
+data/player/sffdn.bca
+	- LZH
+data/player/shfdn.bca
+	- LZH
+data/player/sldct.bca
+	- LZH
+data/player/sliding_kick.bca
+	- LZH
+data/player/sliding_kick_end.bca
+	- LZH
+data/player/slip.bca
+	- LZH
+data/player/sliped.bca
+	- LZH
+data/player/slpbk.bca
+	- LZH
+data/player/slpla.bca
+	- LZH
+data/player/soft_step.bca
+	- LZH
+data/player/spin_jump.bca
+	- LZH
+data/player/spin_jump_end.bca
+	- LZH
+data/player/squat_end.bca
+	- LZH
+data/player/squat_start.bca
+	- LZH
+data/player/squat_wait.bca
+	- LZH
+data/player/star_get.bca
+	- LZH
+data/player/struggle.bca
+	- LZH
+data/player/tjmp1.bca
+	- LZH
+data/player/tjmp2.bca
+	- LZH
+data/player/tree_climb.bca
+	- LZH
+data/player/tree_pose.bca
+	- LZH
+data/player/tree_start.bca
+	- LZH
+data/player/tree_wait.bca
+	- LZH
+data/player/trned.bca
+	- LZH
+data/player/turn.bca
+	- LZH
+data/player/tx_bkdwn.btp
+	- LZH
+data/player/tx_firejmp.btp
+	- LZH
+data/player/tx_fjpend.btp
+	- LZH
+data/player/tx_jfdwn.btp
+	- LZH
+data/player/tx_sdown.btp
+	- LZH
+data/player/tx_wait.btp
+	- LZH
+data/player/wait.bca
+	- LZH
+data/player/walk.bca
+	- LZH
+data/player/wall_wait.bca
+	- LZH
+data/player/wall_walk_l.bca
+	- LZH
+data/player/wall_walk_r.bca
+	- LZH
+data/player/wario_head_cap.bmd
+	- LZH
+data/player/wario_head_nocap.bmd
+	- LZH
+data/player/wario_model.bmd
+	- LZH
+data/player/win.bca
+	- LZH
+data/player/wing_flutter.bca
+	- LZH
+data/player/wing_model.bmd
+	- LZH
+data/player/wjmp.bca
+	- LZH
+data/player/wsld.bca
+	- LZH
+data/player/yoshi_cube_egg.bmd
+	- LZH
+data/player/yoshi_egg.bmd
+	- LZH
+data/player/yoshi_head.bmd
+	- LZH
+data/player/yoshi_head_fill.bmd
+	- LZH
+data/player/yoshi_model.bmd
+	- LZH
+data/wipe/wipe_circle.bmd
+	- LZH
+ARCHIVE/arc0.narc
+	- Narc
+data/2D_cad/EUR/d_2d_battle_player_select_BG1_FGIS_nsc.bin
+	- LZ
+data/2D_cad/EUR/d_2d_mario_3Dfont_16_16_PAL_ncg.bin
+	- LZ
+data/2D_cad/d_2d_battle_framework_linking_error_nsc.bin
+	- LZ
+data/2D_cad/d_2d_framework_gameover_nsc.bin
+	- LZ
+data/2D_cad/d_2d_framework_no_save_nsc.bin
+	- LZ
+data/2D_cad/d_2d_framework_save_nsc.bin
+	- LZ
+data/2D_cad/d_2d_framework_select_nsc.bin
+	- LZ
+data/2D_cad/d_2d_touch_area_modeAB_nsc.bin
+	- LZ
+data/2D_cad/d_2d_touch_area_modeC_nsc.bin
+	- LZ
+data/2D_cad/d_2d_upr_play_modeA_select_nsc.bin
+	- LZ
+data/2D_cad/d_2d_upr_play_modeB_select_nsc.bin
+	- LZ
+data/2D_cad/d_2d_upr_play_modeC_select_nsc.bin
+	- LZ
+ARCHIVE/c2d.narc
+	- Narc
+data/2D_cad/EUR/ENG/d_2d_battle_btm_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_btm_framework_play_mode_select_E_nsc.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_btm_results_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_cmn_icon_E_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_course_player_select_results_BG_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_framework_option_E_nsc.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_upr_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_upr_icon_E_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_battle_upr_results_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_btm_framework_play_mode_select_E_nsc.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_framework_option_E_nsc.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_game_over_BG_E_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_touch_select_4bit_E_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_upr_icon_E_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_upr_play_mode_select_E_ncg.bin
+	- LZ
+ARCHIVE/cee.narc
+	- Narc
+data/2D_cad/EUR/FRA/d_2d_battle_btm_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_btm_framework_play_mode_select_F_nsc.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_btm_results_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_cmn_icon_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_course_player_select_results_BG_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_framework_option_F_nsc.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_upr_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_upr_icon_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_battle_upr_results_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_btm_framework_play_mode_select_F_nsc.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_framework_option_F_nsc.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_game_over_BG_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_touch_select_4bit_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_upr_icon_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_upr_play_mode_select_F_ncg.bin
+	- LZ
+ARCHIVE/cef.narc
+	- Narc
+data/2D_cad/EUR/GER/d_2d_battle_btm_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_btm_framework_play_mode_select_G_nsc.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_btm_results_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_cmn_icon_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_course_player_select_results_BG_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_framework_option_G_nsc.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_upr_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_upr_icon_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_battle_upr_results_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_btm_framework_play_mode_select_G_nsc.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_framework_option_G_nsc.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_game_over_BG_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_touch_select_4bit_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_upr_icon_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_upr_play_mode_select_G_ncg.bin
+	- LZ
+ARCHIVE/ceg.narc
+	- Narc
+data/2D_cad/EUR/ITA/d_2d_battle_btm_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_btm_framework_play_mode_select_I_nsc.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_btm_results_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_cmn_icon_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_course_player_select_results_BG_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_framework_option_I_nsc.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_upr_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_upr_icon_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_battle_upr_results_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_btm_framework_play_mode_select_I_nsc.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_framework_option_I_nsc.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_game_over_BG_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_touch_select_4bit_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_upr_icon_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_upr_play_mode_select_I_ncg.bin
+	- LZ
+ARCHIVE/cei.narc
+	- Narc
+data/2D_cad/EUR/SPA/d_2d_battle_btm_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_btm_framework_play_mode_select_S_nsc.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_btm_results_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_cmn_icon_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_course_player_select_results_BG_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_framework_option_S_nsc.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_upr_course_player_select_EU_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_upr_icon_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_battle_upr_results_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_btm_framework_play_mode_select_S_nsc.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_framework_option_S_nsc.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_game_over_BG_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_touch_select_4bit_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_upr_icon_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_upr_play_mode_select_S_ncg.bin
+	- LZ
+ARCHIVE/ces.narc
+	- Narc
+data/2D_cad/d_2d_battle_btm_results_loses_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_btm_results_ncg.bin
+	- LZ
+data/2D_cad/d_2d_battle_btm_results_wins_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_course_player_select_results_BG2_ncg.bin
+	- LZ
+data/2D_cad/d_2d_battle_course_player_select_results_BG_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_framework_waiting_middle_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_framework_waiting_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_player_select_BG1_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_player_select_BG2_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_upr_2vs_winner_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_upr_2vs_winner_translucent_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_upr_3vs_winner_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_upr_3vs_winner_translucent_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_upr_4vs_winner_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_upr_4vs_winner_translucent_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_upr_results_BG_ncg.bin
+	- LZ
+data/normal_obj/arrow/arrow.bca
+	- LZH
+data/normal_obj/arrow/arrow.bmd
+	- LZH
+data/player/Y_vs_hand_up.bca
+	- LZH
+data/player/Y_vs_handup_wait.bca
+	- LZH
+data/player/Y_vs_lose_A.bca
+	- LZH
+data/player/Y_vs_lose_B.bca
+	- LZH
+data/player/Y_vs_lose_C.bca
+	- LZH
+data/player/Y_vs_wait_1P.bca
+	- LZH
+data/player/Y_vs_wait_1P_end.bca
+	- LZH
+data/player/Y_vs_wait_2P.bca
+	- LZH
+data/player/Y_vs_wait_2P_end.bca
+	- LZH
+data/player/Y_vs_wait_3P.bca
+	- LZH
+data/player/Y_vs_wait_3P_end.bca
+	- LZH
+data/player/Y_vs_wait_4P.bca
+	- LZH
+data/player/Y_vs_wait_4P_end.bca
+	- LZH
+data/player/Y_vs_win_wait.bca
+	- LZH
+ARCHIVE/en1.narc
+	- Narc
+data/stage/vs_main/vs_main.kcl
+	- LZH
+data/stage/vs_main/vs_main_00_isc.bin
+	- LZ
+data/stage/vs_main/vs_main_all.bmd
+	- LZH
+data/stage/vs_main/vs_main_icg.bin
+	- LZ
+ARCHIVE/vs1.narc
+	- Narc
+data/stage/vs_island/vs_island.kcl
+	- LZH
+data/stage/vs_island/vs_island_00_isc.bin
+	- LZ
+data/stage/vs_island/vs_island_all.bmd
+	- LZH
+data/stage/vs_island/vs_island_icg.bin
+	- LZ
+ARCHIVE/vs2.narc
+	- Narc
+data/stage/peach_slider/peach_slider.kcl
+	- LZH
+data/stage/peach_slider/peach_slider_00_isc.bin
+	- LZ
+data/stage/peach_slider/peach_slider_all.bmd
+	- LZH
+data/stage/peach_slider/peach_slider_icg.bin
+	- LZ
+ARCHIVE/vs3.narc
+	- Narc
+data/stage/vs_cross/vs_cross.kcl
+	- LZH
+data/stage/vs_cross/vs_cross_00_isc.bin
+	- LZ
+data/stage/vs_cross/vs_cross_all.bmd
+	- LZH
+data/stage/vs_cross/vs_cross_icg.bin
+	- LZ
+ARCHIVE/vs4.narc
+	- Narc
+data/Y_vs_wait_1P.bca
+	- LZH
+data/2D_cad/d_2d_battle_btm_framework_play_mode_select_nsc.bin
+	- LZ
+data/2D_cad/d_2d_battle_framework_option_nsc.bin
+	- LZ
+data/2D_cad/d_2d_btm_framework_play_mode_select_nsc.bin
+	- LZ
+data/2D_cad/d_2d_btm_game_over_BG_nsc.bin
+	- LZ
+data/2D_cad/d_2d_btm_icon_ncg.bin
+	- LZ
+data/2D_cad/d_2d_ed_star_ncg.bin
+	- LZ
+data/2D_cad/d_2d_framework_initialize_nsc.bin
+	- LZ
+data/2D_cad/d_2d_framework_option_nsc.bin
+	- LZ
+data/2D_cad/d_2d_framework_page_nsc.bin
+	- LZ
+data/2D_cad/d_2d_framework_select_pause_nsc.bin
+	- LZ
+data/2D_cad/d_2d_game_over_BG_nsc.bin
+	- LZ
+data/2D_cad/d_2d_game_over_ncg.bin
+	- LZ
+data/2D_cad/d_2d_nintendo_logo_nsc.bin
+	- LZ
+data/2D_cad/d_2d_op_bg_cl01_ncg.bin
+	- LZ
+data/2D_cad/d_2d_op_bg_cl01_nsc.bin
+	- LZ
+data/2D_cad/d_2d_op_bg_cl02_nsc.bin
+	- LZ
+data/2D_cad/d_2d_op_obj_cl_ncg.bin
+	- LZ
+data/2D_cad/d_2d_player_select_koopa_BG_ncg.bin
+	- LZ
+data/2D_cad/d_2d_player_select_koopa_BG_nsc.bin
+	- LZ
+data/2D_cad/d_2d_player_select_luigi_8bit_ncg.bin
+	- LZ
+data/2D_cad/d_2d_player_select_mario_8bit_ncg.bin
+	- LZ
+data/2D_cad/d_2d_player_select_wario_8bit_ncg.bin
+	- LZ
+data/2D_cad/d_2d_player_select_yoshi_8bit_ncg.bin
+	- LZ
+data/2D_cad/d_2d_scenario_player_select_course_number_BG_ncg.bin
+	- LZ
+data/2D_cad/d_2d_scenario_player_select_course_number_BG_nsc.bin
+	- LZ
+data/2D_cad/d_2d_scenario_player_select_ncg.bin
+	- LZ
+data/2D_cad/d_2d_staff_roll_cake_4bit_ncg.bin
+	- LZ
+data/2D_cad/d_2d_staff_roll_cake_8bit_ncg.bin
+	- LZ
+data/2D_cad/d_2d_staff_roll_cake_doll_ncg.bin
+	- LZ
+data/2D_cad/d_2d_staff_roll_end_ncg.bin
+	- LZ
+data/2D_cad/d_2d_upr_touch_to_select_nsc.bin
+	- LZ
+data/2D_cad/EUR/d_2d_battle_framework_course_select_P_nsc.bin
+	- LZ
+data/2D_cad/EUR/d_2d_battle_framework_gamestart_P_nsc.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_course_number_BG_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_course_number_BG_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_course_number_BG_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_course_number_BG_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_scenario_player_select_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/d_2d_staff_roll_end_EUR_ncg.bin
+	- LZ
+data/2D_cad/EUR/ENG/d_2d_cmn_icon_E_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_cmn_icon_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/FRA/d_2d_staff_roll_cake_8bit_F_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_cmn_icon_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/GER/d_2d_staff_roll_cake_8bit_G_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_cmn_icon_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/ITA/d_2d_staff_roll_cake_8bit_I_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_cmn_icon_S_ncg.bin
+	- LZ
+data/2D_cad/EUR/SPA/d_2d_staff_roll_cake_8bit_S_ncg.bin
+	- LZ
+data/DSMT/face_demo_blend_mario.bca
+	- LZH
+data/DSMT/face_demo_blend_mario.btp
+	- LZH
+data/DSMT/face_demo_blend_mario_f.bca
+	- LZH
+data/DSMT/face_demo_blend_yoshi.bca
+	- LZH
+data/DSMT/face_demo_blend_yoshi.btp
+	- LZH
+data/DSMT/face_demo_mario.bca
+	- LZH
+data/DSMT/face_demo_mario.bmd
+	- LZH
+data/DSMT/face_demo_mario.btp
+	- LZH
+data/DSMT/face_demo_mariostar.bca
+	- LZH
+data/DSMT/face_demo_mariostar.bmd
+	- LZH
+data/DSMT/face_demo_small_yoshistar.bca
+	- LZH
+data/DSMT/face_demo_wait_mario.bca
+	- LZH
+data/DSMT/face_demo_wait_mario.btp
+	- LZH
+data/DSMT/face_demo_wait_yoshi.bca
+	- LZH
+data/DSMT/face_demo_wait_yoshi.btp
+	- LZH
+data/DSMT/face_demo_yoshi.bca
+	- LZH
+data/DSMT/face_demo_yoshi.bmd
+	- LZH
+data/DSMT/face_demo_yoshi.btp
+	- LZH
+data/DSMT/opening_star.bca
+	- LZH
+data/DSMT/opening_star_short.bca
+	- LZH
+data/DSMT/EUR/face_demo_big_yoshistar_U.bca
+	- LZH
+data/DSMT/EUR/file_menu_F_ncg.bin
+	- LZH
+data/DSMT/EUR/file_menu_G_ncg.bin
+	- LZH
+data/DSMT/EUR/file_menu_I_ncg.bin
+	- LZH
+data/DSMT/EUR/file_menu_S_ncg.bin
+	- LZH
+data/DSMT/EUR/texBank_E.bmd
+	- LZH
+data/DSMT/EUR/texBank_F.bmd
+	- LZH
+data/DSMT/EUR/texBank_G.bmd
+	- LZH
+data/DSMT/EUR/texBank_I.bmd
+	- LZH
+data/DSMT/EUR/texBank_S.bmd
+	- LZH
+data/DSMT/EUR/title_demo_F_ncg.bin
+	- LZH
+data/DSMT/EUR/title_demo_G_ncg.bin
+	- LZH
+data/DSMT/EUR/title_demo_I_ncg.bin
+	- LZH
+data/DSMT/EUR/title_demo_S_ncg.bin
+	- LZH
+data/enemy/bakubaku/bakubaku.bmd
+	- LZH
+data/enemy/bakubaku/bakubaku_attack.bca
+	- LZH
+data/enemy/bakubaku/bakubaku_swim.bca
+	- LZH
+data/enemy/basabasa/basabasa.bmd
+	- LZH
+data/enemy/basabasa/basabasa_fly.bca
+	- LZH
+data/enemy/basabasa/basabasa_wait.bca
+	- LZH
+data/enemy/basabasa/basabasa_wait.bmd
+	- LZH
+data/enemy/batta_block/batta_block.bmd
+	- LZH
+data/enemy/battan/battan.bmd
+	- LZH
+data/enemy/battan/battan.kcl
+	- LZH
+data/enemy/battan/battan_attack01.bca
+	- LZH
+data/enemy/battan/battan_attack02.bca
+	- LZH
+data/enemy/battan/battan_recover.bca
+	- LZH
+data/enemy/battan/battan_walk.bca
+	- LZH
+data/enemy/battan/battan_walkstart.bca
+	- LZH
+data/enemy/battan_king/battan_king.bmd
+	- LZH
+data/enemy/battan_king/battan_king.btp
+	- LZH
+data/enemy/battan_king/battan_king.kcl
+	- LZH
+data/enemy/battan_king/battan_king_attack01.bca
+	- LZH
+data/enemy/battan_king/battan_king_attack02.bca
+	- LZH
+data/enemy/battan_king/battan_king_damage.bca
+	- LZH
+data/enemy/battan_king/battan_king_recover.bca
+	- LZH
+data/enemy/battan_king/battan_king_walk.bca
+	- LZH
+data/enemy/battan_king/battan_king_walkstart.bca
+	- LZH
+data/enemy/big_snowman/big_snowman_body.bmd
+	- LZH
+data/enemy/big_snowman/big_snowman_cry.btp
+	- LZH
+data/enemy/big_snowman/big_snowman_head.bmd
+	- LZH
+data/enemy/big_snowman/big_snowman_smile.btp
+	- LZH
+data/enemy/birikyu/birikyu.bmd
+	- LZH
+data/enemy/birikyu/birikyu_elec.bca
+	- LZH
+data/enemy/birikyu/birikyu_elec.bmd
+	- LZH
+data/enemy/birikyu/birikyu_elec.btp
+	- LZH
+data/enemy/birikyu/birikyu_elec_stop.bca
+	- LZH
+data/enemy/bombhei/bombhei.bmd
+	- LZH
+data/enemy/bombhei/bombhei_carry.bca
+	- LZH
+data/enemy/bombhei/bombhei_walk.bca
+	- LZH
+data/enemy/bombhei/red_bombhei.bmd
+	- LZH
+data/enemy/bombhei/red_wait.bca
+	- LZH
+data/enemy/bombking/bomb_king.bmd
+	- LZH
+data/enemy/bombking/bombking_damage.bca
+	- LZH
+data/enemy/bombking/bombking_getup.bca
+	- LZH
+data/enemy/bombking/bombking_jump.bca
+	- LZH
+data/enemy/bombking/bombking_jumped.bca
+	- LZH
+data/enemy/bombking/bombking_lift.bca
+	- LZH
+data/enemy/bombking/bombking_start.bca
+	- LZH
+data/enemy/bombking/bombking_struggle.bca
+	- LZH
+data/enemy/bombking/bombking_throw.bca
+	- LZH
+data/enemy/bombking/bombking_wait1.bca
+	- LZH
+data/enemy/bombking/bombking_wait2.bca
+	- LZH
+data/enemy/bombking/bombking_walk1.bca
+	- LZH
+data/enemy/bombking/bombking_walk2.bca
+	- LZH
+data/enemy/book/book.bmd
+	- LZH
+data/enemy/book/book_attack.bca
+	- LZH
+data/enemy/book/book_attack_loop.bca
+	- LZH
+data/enemy/book/nom_book.bmd
+	- LZH
+data/enemy/boss_teresa/boss_teresa.bmd
+	- LZH
+data/enemy/boss_teresa/boss_teresa_fire.bca
+	- LZH
+data/enemy/boss_teresa/boss_teresa_fire_st.bca
+	- LZH
+data/enemy/boss_teresa/boss_teresa_wait.bca
+	- LZH
+data/enemy/c_jugem/c_jugem.bmd
+	- LZH
+data/enemy/c_jugem/c_jugem_wait.bca
+	- LZH
+data/enemy/c_jugem/c_jugem_wait_c.btp
+	- LZH
+data/enemy/chair/chair.bmd
+	- LZH
+data/enemy/choropu/choropu.bmd
+	- LZH
+data/enemy/choropu/choropu_end.bca
+	- LZH
+data/enemy/choropu/choropu_search.bca
+	- LZH
+data/enemy/choropu/choropu_start.bca
+	- LZH
+data/enemy/choropu/choropu_throw.bca
+	- LZH
+data/enemy/choropu/rock.bmd
+	- LZH
+data/enemy/donguru/donguru.bmd
+	- LZH
+data/enemy/donguru/donguru.kcl
+	- LZH
+data/enemy/donkaku/donkaku.bmd
+	- LZH
+data/enemy/donkaku/donkaku.kcl
+	- LZH
+data/enemy/donketu/boss_donketu.bmd
+	- LZH
+data/enemy/donketu/donketu.bmd
+	- LZH
+data/enemy/donketu/donketu_dead.bca
+	- LZH
+data/enemy/donketu/donketu_hit.bca
+	- LZH
+data/enemy/donketu/donketu_turn.bca
+	- LZH
+data/enemy/donketu/donketu_walk.bca
+	- LZH
+data/enemy/donketu/ice_donketu.bmd
+	- LZH
+data/enemy/donketu/ice_donketu_dead.bca
+	- LZH
+data/enemy/donketu/ice_donketu_hit.bca
+	- LZH
+data/enemy/donketu/ice_donketu_turn.bca
+	- LZH
+data/enemy/donketu/ice_donketu_walk.bca
+	- LZH
+data/enemy/dossy/dossy.bmd
+	- LZH
+data/enemy/dossy/dossy_arm_l.kcl
+	- LZH
+data/enemy/dossy/dossy_arm_r.kcl
+	- LZH
+data/enemy/dossy/dossy_body.kcl
+	- LZH
+data/enemy/dossy/dossy_head.kcl
+	- LZH
+data/enemy/dossy/dossy_head_down.bca
+	- LZH
+data/enemy/dossy/dossy_head_up.bca
+	- LZH
+data/enemy/dossy/dossy_leg_l.kcl
+	- LZH
+data/enemy/dossy/dossy_leg_r.kcl
+	- LZH
+data/enemy/dossy/dossy_neck.kcl
+	- LZH
+data/enemy/dossy/dossy_swim.bca
+	- LZH
+data/enemy/dosune/dosune.bmd
+	- LZH
+data/enemy/dosune/dosune.btp
+	- LZH
+data/enemy/dosune/dosune.kcl
+	- LZH
+data/enemy/eyekun/eyekun.bmd
+	- LZH
+data/enemy/eyekun/eyekun_close.btp
+	- LZH
+data/enemy/eyekun/eyekun_dead.bca
+	- LZH
+data/enemy/eyekun/eyekun_l_dead.bca
+	- LZH
+data/enemy/eyekun/eyekun_open.btp
+	- LZH
+data/enemy/eyekun/eyekun_r_dead.bca
+	- LZH
+data/enemy/gamaguchi/gamaguchi.bmd
+	- LZH
+data/enemy/gamaguchi/gamaguchi_jump.bca
+	- LZH
+data/enemy/gamaguchi/gamaguchi_jump_end.bca
+	- LZH
+data/enemy/gamaguchi/gamaguchi_walk.bca
+	- LZH
+data/enemy/gamaguchi/gamaguchi_walk_end.bca
+	- LZH
+data/enemy/hanachan/hanachan_body01.bmd
+	- LZH
+data/enemy/hanachan/hanachan_body01.btp
+	- LZH
+data/enemy/hanachan/hanachan_body01_damage.bca
+	- LZH
+data/enemy/hanachan/hanachan_body01_wait.bca
+	- LZH
+data/enemy/hanachan/hanachan_body01_walk.bca
+	- LZH
+data/enemy/hanachan/hanachan_body01_walk_end.bca
+	- LZH
+data/enemy/hanachan/hanachan_body01_walk_start.bca
+	- LZH
+data/enemy/hanachan/hanachan_body02.bmd
+	- LZH
+data/enemy/hanachan/hanachan_body02.btp
+	- LZH
+data/enemy/hanachan/hanachan_body02_damage.bca
+	- LZH
+data/enemy/hanachan/hanachan_body02_wait.bca
+	- LZH
+data/enemy/hanachan/hanachan_body02_walk.bca
+	- LZH
+data/enemy/hanachan/hanachan_body02_walk_end.bca
+	- LZH
+data/enemy/hanachan/hanachan_body02_walk_start.bca
+	- LZH
+data/enemy/hanachan/hanachan_body03.bmd
+	- LZH
+data/enemy/hanachan/hanachan_body03.btp
+	- LZH
+data/enemy/hanachan/hanachan_body03_damage.bca
+	- LZH
+data/enemy/hanachan/hanachan_body03_wait.bca
+	- LZH
+data/enemy/hanachan/hanachan_body03_walk.bca
+	- LZH
+data/enemy/hanachan/hanachan_body03_walk_end.bca
+	- LZH
+data/enemy/hanachan/hanachan_body03_walk_start.bca
+	- LZH
+data/enemy/hanachan/hanachan_body04.bmd
+	- LZH
+data/enemy/hanachan/hanachan_body04.btp
+	- LZH
+data/enemy/hanachan/hanachan_body04_damage.bca
+	- LZH
+data/enemy/hanachan/hanachan_body04_wait.bca
+	- LZH
+data/enemy/hanachan/hanachan_body04_walk.bca
+	- LZH
+data/enemy/hanachan/hanachan_body04_walk_end.bca
+	- LZH
+data/enemy/hanachan/hanachan_body04_walk_start.bca
+	- LZH
+data/enemy/hanachan/hanachan_head.bmd
+	- LZH
+data/enemy/hanachan/hanachan_head.btp
+	- LZH
+data/enemy/hanachan/hanachan_head_damage.bca
+	- LZH
+data/enemy/hanachan/hanachan_head_wait.bca
+	- LZH
+data/enemy/hanachan/hanachan_head_walk.bca
+	- LZH
+data/enemy/hanachan/hanachan_head_walk_end.bca
+	- LZH
+data/enemy/hanachan/hanachan_head_walk_start.bca
+	- LZH
+data/enemy/hojiro/hojiro.bmd
+	- LZH
+data/enemy/hojiro/hojiro_swim.bca
+	- LZH
+data/enemy/horuhei/horuhei.bmd
+	- LZH
+data/enemy/horuhei/horuhei_lift.bca
+	- LZH
+data/enemy/horuhei/horuhei_lift_loop.bca
+	- LZH
+data/enemy/horuhei/horuhei_struggle.bca
+	- LZH
+data/enemy/horuhei/horuhei_throw.bca
+	- LZH
+data/enemy/horuhei/horuhei_walk.bca
+	- LZH
+data/enemy/huwahuwa/huwahuwa_model.bmd
+	- LZH
+data/enemy/huwahuwa/huwahuwa_move.bca
+	- LZH
+data/enemy/hyuhyu/hyuhyu.bmd
+	- LZH
+data/enemy/hyuhyu/hyuhyu_attack.bca
+	- LZH
+data/enemy/hyuhyu/hyuhyu_wait.bca
+	- LZH
+data/enemy/iwante/iwante.kcl
+	- LZH
+data/enemy/iwante/iwante_close_l.btp
+	- LZH
+data/enemy/iwante/iwante_close_r.btp
+	- LZH
+data/enemy/iwante/iwante_damage_l.bca
+	- LZH
+data/enemy/iwante/iwante_damage_r.bca
+	- LZH
+data/enemy/iwante/iwante_dead_l.bca
+	- LZH
+data/enemy/iwante/iwante_dead_r.bca
+	- LZH
+data/enemy/iwante/iwante_dummy.bmd
+	- LZH
+data/enemy/iwante/iwante_lhand.bmd
+	- LZH
+data/enemy/iwante/iwante_move_l.kcl
+	- LZH
+data/enemy/iwante/iwante_move_r.kcl
+	- LZH
+data/enemy/iwante/iwante_open_l.btp
+	- LZH
+data/enemy/iwante/iwante_open_r.btp
+	- LZH
+data/enemy/iwante/iwante_rhand.bmd
+	- LZH
+data/enemy/iwante/iwante_wait_end_l.bca
+	- LZH
+data/enemy/iwante/iwante_wait_end_r.bca
+	- LZH
+data/enemy/iwante/iwante_wait_l.bca
+	- LZH
+data/enemy/iwante/iwante_wait_l.kcl
+	- LZH
+data/enemy/iwante/iwante_wait_r.bca
+	- LZH
+data/enemy/iwante/iwante_wait_r.kcl
+	- LZH
+data/enemy/iwante/iwante_wake_up_l.bca
+	- LZH
+data/enemy/iwante/iwante_wake_up_r.bca
+	- LZH
+data/enemy/jango/jango.bmd
+	- LZH
+data/enemy/jango/jango_attack.bca
+	- LZH
+data/enemy/jango/jango_damage.bca
+	- LZH
+data/enemy/jango/jango_fly.bca
+	- LZH
+data/enemy/jugem/jugem.bmd
+	- LZH
+data/enemy/jugem/jugem_throw.bca
+	- LZH
+data/enemy/jugem/jugem_throw.btp
+	- LZH
+data/enemy/jugem/jugem_wait.bca
+	- LZH
+data/enemy/jugem/jugem_wait.btp
+	- LZH
+data/enemy/keronpa/keronpa.bmd
+	- LZH
+data/enemy/killer/killer_body.bmd
+	- LZH
+data/enemy/killer/killer_face.bmd
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_damage.bca
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_dead.bca
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_hit.bca
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_jump_ed.bca
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_jump_st.bca
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_model.bmd
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_wait.bca
+	- LZH
+data/enemy/king_ice_donketu/king_ice_donketu_walk.bca
+	- LZH
+data/enemy/kinopio/kinopio.bmd
+	- LZH
+data/enemy/kinopio/kinopio_wait1.bca
+	- LZH
+data/enemy/kinopio/kinopio_wait2.bca
+	- LZH
+data/enemy/koopa/koopa_damage.bca
+	- LZH
+data/enemy/koopa/koopa_damage2_ed.bca
+	- LZH
+data/enemy/koopa/koopa_damage2_ed.btp
+	- LZH
+data/enemy/koopa/koopa_damage2_st.bca
+	- LZH
+data/enemy/koopa/koopa_damage2_st.btp
+	- LZH
+data/enemy/koopa/koopa_dead.bca
+	- LZH
+data/enemy/koopa/koopa_dead.btp
+	- LZH
+data/enemy/koopa/koopa_dead_ed.bca
+	- LZH
+data/enemy/koopa/koopa_dead_st.bca
+	- LZH
+data/enemy/koopa/koopa_dush.bca
+	- LZH
+data/enemy/koopa/koopa_dush_ed.bca
+	- LZH
+data/enemy/koopa/koopa_dush_st.bca
+	- LZH
+data/enemy/koopa/koopa_fire.bca
+	- LZH
+data/enemy/koopa/koopa_fire2.bca
+	- LZH
+data/enemy/koopa/koopa_fire3.bca
+	- LZH
+data/enemy/koopa/koopa_fire3_ed.bca
+	- LZH
+data/enemy/koopa/koopa_fire3_st.bca
+	- LZH
+data/enemy/koopa/koopa_fire_ed.bca
+	- LZH
+data/enemy/koopa/koopa_fire_st.bca
+	- LZH
+data/enemy/koopa/koopa_hold.bca
+	- LZH
+data/enemy/koopa/koopa_hold.btp
+	- LZH
+data/enemy/koopa/koopa_hold_st.bca
+	- LZH
+data/enemy/koopa/koopa_jump1.bca
+	- LZH
+data/enemy/koopa/koopa_jump2.bca
+	- LZH
+data/enemy/koopa/koopa_model.bmd
+	- LZH
+data/enemy/koopa/koopa_stand_up.bca
+	- LZH
+data/enemy/koopa/koopa_stretch.bca
+	- LZH
+data/enemy/koopa/koopa_throw.bca
+	- LZH
+data/enemy/koopa/koopa_throw.btp
+	- LZH
+data/enemy/koopa/koopa_vexing.bca
+	- LZH
+data/enemy/koopa/koopa_wait.btp
+	- LZH
+data/enemy/koopa/koopa_wait1.bca
+	- LZH
+data/enemy/koopa/koopa_walk.bca
+	- LZH
+data/enemy/koopa/koopa_walk_ed.bca
+	- LZH
+data/enemy/koopa/koopa_walk_st.bca
+	- LZH
+data/enemy/koopa_bomb/koopa_bomb.bmd
+	- LZH
+data/enemy/kpa_shwave/kpa_shwave.bca
+	- LZH
+data/enemy/kpa_shwave/kpa_shwave.bmd
+	- LZH
+data/enemy/kpa_shwave/kpa_shwave.btp
+	- LZH
+data/enemy/kuribo/kuribo__low_model.bmd
+	- LZH
+data/enemy/kuribo/kuribo_model.bmd
+	- LZH
+data/enemy/kuribo/kuribo_recover.bca
+	- LZH
+data/enemy/kuribo/kuribo_rolling.bca
+	- LZH
+data/enemy/kuribo/kuribo_run.bca
+	- LZH
+data/enemy/kuribo/kuribo_stretch.bca
+	- LZH
+data/enemy/kuribo/kuribo_unbalance.bca
+	- LZH
+data/enemy/kuribo/kuribo_wait.bca
+	- LZH
+data/enemy/kuribo/kuribo_walk.bca
+	- LZH
+data/enemy/kuriking/kuriking_anger.bca
+	- LZH
+data/enemy/kuriking/kuriking_anger.btp
+	- LZH
+data/enemy/kuriking/kuriking_damage_b.bca
+	- LZH
+data/enemy/kuriking/kuriking_damage_f.bca
+	- LZH
+data/enemy/kuriking/kuriking_down.bca
+	- LZH
+data/enemy/kuriking/kuriking_down_start.bca
+	- LZH
+data/enemy/kuriking/kuriking_model.bmd
+	- LZH
+data/enemy/kuriking/kuriking_serch_wait.bca
+	- LZH
+data/enemy/kuriking/kuriking_spawn.bca
+	- LZH
+data/enemy/kuriking/kuriking_turn.bca
+	- LZH
+data/enemy/kuriking/kuriking_wait.bca
+	- LZH
+data/enemy/kuriking/kuriking_walk.bca
+	- LZH
+data/enemy/kuriking/kuriking_walk_end.bca
+	- LZH
+data/enemy/kuriking/kuriking_walk_start.bca
+	- LZH
+data/enemy/manta/manta.bmd
+	- LZH
+data/enemy/manta/manta_swim.bca
+	- LZH
+data/enemy/menbo/menbo.bmd
+	- LZH
+data/enemy/menbo/menbo_move1.bca
+	- LZH
+data/enemy/menbo/menbo_move2.bca
+	- LZH
+data/enemy/menbo/menbo_wait1.bca
+	- LZH
+data/enemy/menbo/menbo_wait2.bca
+	- LZH
+data/enemy/mip/mip.bmd
+	- LZH
+data/enemy/mip/mip_hold.bca
+	- LZH
+data/enemy/mip/mip_run.bca
+	- LZH
+data/enemy/mip/mip_run_ed.bca
+	- LZH
+data/enemy/mip/mip_run_st.bca
+	- LZH
+data/enemy/mip/mip_wait.bca
+	- LZH
+data/enemy/monkey/monkey.bmd
+	- LZH
+data/enemy/monkey/monkey_hold.bca
+	- LZH
+data/enemy/monkey/monkey_jump_ed.bca
+	- LZH
+data/enemy/monkey/monkey_jump_st.bca
+	- LZH
+data/enemy/monkey/monkey_run.bca
+	- LZH
+data/enemy/monkey/monkey_run_ed.bca
+	- LZH
+data/enemy/monkey/monkey_run_st.bca
+	- LZH
+data/enemy/monkey/monkey_wait1.bca
+	- LZH
+data/enemy/monkey/monkey_wait2.bca
+	- LZH
+data/enemy/monkey/monkey_wait3.bca
+	- LZH
+data/enemy/monkey/monkey_wait4.bca
+	- LZH
+data/enemy/moray/moray.bmd
+	- LZH
+data/enemy/moray/moray_search.bca
+	- LZH
+data/enemy/moray/moray_swim.bca
+	- LZH
+data/enemy/moray/moray_swim_start.bca
+	- LZH
+data/enemy/moray/moray_turn.bca
+	- LZH
+data/enemy/nokonoko/nokonoko.bmd
+	- LZH
+data/enemy/nokonoko/nokonoko_dive.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_dive_ed.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_dive_st.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_jump_ed.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_jump_st.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_red.bmd
+	- LZH
+data/enemy/nokonoko/nokonoko_run.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_wait1.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_wait2.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_walk.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_walk_ed.bca
+	- LZH
+data/enemy/nokonoko/nokonoko_walk_st.bca
+	- LZH
+data/enemy/nokonoko/shell_green.bmd
+	- LZH
+data/enemy/nokonoko/shell_red.bmd
+	- LZH
+data/enemy/onimasu/onimasu.bmd
+	- LZH
+data/enemy/onimasu/onimasu.kcl
+	- LZH
+data/enemy/owl/owl.bmd
+	- LZH
+data/enemy/owl/owl_fly_1.bca
+	- LZH
+data/enemy/owl/owl_fly_2.bca
+	- LZH
+data/enemy/owl/owl_fly_free.bca
+	- LZH
+data/enemy/pakkun/pakkun_attack.bca
+	- LZH
+data/enemy/pakkun/pakkun_dead.bca
+	- LZH
+data/enemy/pakkun/pakkun_fire.bca
+	- LZH
+data/enemy/pakkun/pakkun_fire_ed.bca
+	- LZH
+data/enemy/pakkun/pakkun_model.bmd
+	- LZH
+data/enemy/pakkun/pakkun_sleep.bca
+	- LZH
+data/enemy/pakkun/pakkun_sleep_loop.bca
+	- LZH
+data/enemy/peach/peach_ed_enter_wait.bca
+	- LZH
+data/enemy/peach/peach_ed_enter_wait.btp
+	- LZH
+data/enemy/peach/peach_ed_kiss.bca
+	- LZH
+data/enemy/peach/peach_ed_kiss.btp
+	- LZH
+data/enemy/peach/peach_ed_landing.bca
+	- LZH
+data/enemy/peach/peach_ed_landing.btp
+	- LZH
+data/enemy/peach/peach_ed_look_about.bca
+	- LZH
+data/enemy/peach/peach_ed_look_about.btp
+	- LZH
+data/enemy/peach/peach_ed_lookup.bca
+	- LZH
+data/enemy/peach/peach_ed_lookup.btp
+	- LZH
+data/enemy/peach/peach_ed_lookup_to_wait.bca
+	- LZH
+data/enemy/peach/peach_ed_lookup_to_wait.btp
+	- LZH
+data/enemy/peach/peach_ed_notice_mario.bca
+	- LZH
+data/enemy/peach/peach_ed_notice_mario.btp
+	- LZH
+data/enemy/peach/peach_ed_notice_yoshi.bca
+	- LZH
+data/enemy/peach/peach_ed_notice_yoshi.btp
+	- LZH
+data/enemy/peach/peach_ed_step_up.bca
+	- LZH
+data/enemy/peach/peach_ed_step_up.btp
+	- LZH
+data/enemy/peach/peach_ed_turn.bca
+	- LZH
+data/enemy/peach/peach_ed_turn.btp
+	- LZH
+data/enemy/peach/peach_ed_wait.bca
+	- LZH
+data/enemy/peach/peach_ed_wait.btp
+	- LZH
+data/enemy/peach/peach_ed_walk.bca
+	- LZH
+data/enemy/peach/peach_ed_wave.bca
+	- LZH
+data/enemy/peach/peach_ed_wave.btp
+	- LZH
+data/enemy/peach/peach_high.bmd
+	- LZH
+data/enemy/peach/peach_jump.bca
+	- LZH
+data/enemy/peach/peach_jump_end.bca
+	- LZH
+data/enemy/peach/peach_jump_loop.bca
+	- LZH
+data/enemy/peach/peach_low.bmd
+	- LZH
+data/enemy/peach/peach_op_wait.bca
+	- LZH
+data/enemy/peach/peach_op_wink.btp
+	- LZH
+data/enemy/peach/peach_run.bca
+	- LZH
+data/enemy/peach/peach_wait.bca
+	- LZH
+data/enemy/peach/peach_wait.btp
+	- LZH
+data/enemy/peach/peach_walk.bca
+	- LZH
+data/enemy/peach/peach_walk.btp
+	- LZH
+data/enemy/penguin/penguin.bmd
+	- LZH
+data/enemy/penguin/penguin.kcl
+	- LZH
+data/enemy/penguin/penguin_angry.btp
+	- LZH
+data/enemy/penguin/penguin_back.bca
+	- LZH
+data/enemy/penguin/penguin_child.bmd
+	- LZH
+data/enemy/penguin/penguin_dive.bca
+	- LZH
+data/enemy/penguin/penguin_jump_ed.bca
+	- LZH
+data/enemy/penguin/penguin_jump_st.bca
+	- LZH
+data/enemy/penguin/penguin_slider.bca
+	- LZH
+data/enemy/penguin/penguin_slider.btp
+	- LZH
+data/enemy/penguin/penguin_stand_up.bca
+	- LZH
+data/enemy/penguin/penguin_wait1.bca
+	- LZH
+data/enemy/penguin/penguin_wait1.btp
+	- LZH
+data/enemy/penguin/penguin_walk.bca
+	- LZH
+data/enemy/penguin/penguin_walk2.bca
+	- LZH
+data/enemy/piano/piano.bmd
+	- LZH
+data/enemy/piano/piano.kcl
+	- LZH
+data/enemy/piano/piano_attack.bca
+	- LZH
+data/enemy/popoi/popoi.bmd
+	- LZH
+data/enemy/popoi/popoi_attack.bca
+	- LZH
+data/enemy/popoi/popoi_move1.bca
+	- LZH
+data/enemy/popoi/popoi_move2.bca
+	- LZH
+data/enemy/propeller_heyho/propeller_heyho.bmd
+	- LZH
+data/enemy/propeller_heyho/propeller_heyho_attack01.bca
+	- LZH
+data/enemy/propeller_heyho/propeller_heyho_attack02.bca
+	- LZH
+data/enemy/propeller_heyho/propeller_heyho_attack03.bca
+	- LZH
+data/enemy/propeller_heyho/propeller_heyho_attack04.bca
+	- LZH
+data/enemy/propeller_heyho/propeller_heyho_fire_attack.bca
+	- LZH
+data/enemy/propeller_heyho/propeller_heyho_wait.bca
+	- LZH
+data/enemy/pukupuku/pukupuku.bmd
+	- LZH
+data/enemy/pukupuku/pukupuku_swim.bca
+	- LZH
+data/enemy/sanbo/sanbo_body.bmd
+	- LZH
+data/enemy/sanbo/sanbo_head.bmd
+	- LZH
+data/enemy/sand_tornado/sand_tornado.bca
+	- LZH
+data/enemy/sand_tornado/sand_tornado.bmd
+	- LZH
+data/enemy/snowman/snow_ball.bmd
+	- LZH
+data/enemy/snowman/snowman_jump_ed.bca
+	- LZH
+data/enemy/snowman/snowman_jump_st.bca
+	- LZH
+data/enemy/snowman/snowman_model.bmd
+	- LZH
+data/enemy/snowman/snowman_sleep.bca
+	- LZH
+data/enemy/snowman/snowman_throw.bca
+	- LZH
+data/enemy/snowman/snowman_wait.bca
+	- LZH
+data/enemy/spider/spider.bmd
+	- LZH
+data/enemy/spider/spider_walk.bca
+	- LZH
+data/enemy/teresa/teresa.bmd
+	- LZH
+data/enemy/teresa/teresa_wait.bca
+	- LZH
+data/enemy/togezo/paipo.bmd
+	- LZH
+data/enemy/togezo/togezo.bmd
+	- LZH
+data/enemy/togezo/togezo_walk.bca
+	- LZH
+data/enemy/water_bomb/water_bomb.bmd
+	- LZH
+data/enemy/yurei_mucho/yurei_mucho.bmd
+	- LZH
+data/enemy/yurei_mucho/yurei_mucho_attack.bca
+	- LZH
+data/enemy/yurei_mucho/yurei_mucho_ball.bmd
+	- LZH
+data/enemy/yurei_mucho/yurei_mucho_wait.bca
+	- LZH
+data/message/msg_data_eng.bin
+	- LZH
+data/message/msg_data_frn.bin
+	- LZH
+data/message/msg_data_gmn.bin
+	- LZH
+data/message/msg_data_itl.bin
+	- LZH
+data/message/msg_data_spn.bin
+	- LZH
+data/normal_obj/b_coin_switch/b_coin_switch.bmd
+	- LZH
+data/normal_obj/b_coin_switch/b_coin_switch.kcl
+	- LZH
+data/normal_obj/big_1up_number/big_1up_number.bmd
+	- LZH
+data/normal_obj/big_1up_number/big_1up_number.btp
+	- LZH
+data/normal_obj/bird/bird.bmd
+	- LZH
+data/normal_obj/bird/bird_fly.bca
+	- LZH
+data/normal_obj/butterfly/butterfly.bmd
+	- LZH
+data/normal_obj/butterfly/butterfly_fly.bca
+	- LZH
+data/normal_obj/door/obj_door0_star.bmd
+	- LZH
+data/normal_obj/door/obj_door0_star1.bmd
+	- LZH
+data/normal_obj/door/obj_door0_star10.bmd
+	- LZH
+data/normal_obj/door/obj_door0_star3.bmd
+	- LZH
+data/normal_obj/door/obj_door0_star5.bmd
+	- LZH
+data/normal_obj/door/obj_door1.bmd
+	- LZH
+data/normal_obj/door/obj_door2_boro.bmd
+	- LZH
+data/normal_obj/door/obj_door4_yami.bmd
+	- LZH
+data/normal_obj/door/obj_door5_horror.bmd
+	- LZH
+data/normal_obj/fish/fish.bmd
+	- LZH
+data/normal_obj/fish/fish_a.bmd
+	- LZH
+data/normal_obj/fish/fish_ab_swim.bca
+	- LZH
+data/normal_obj/fish/fish_b.bmd
+	- LZH
+data/normal_obj/fish/fish_swim.bca
+	- LZH
+data/normal_obj/fish/fish_wait.bca
+	- LZH
+data/normal_obj/koopa_key/koopa_key.bmd
+	- LZH
+data/normal_obj/koopa_key/koopa_key_get.bca
+	- LZH
+data/normal_obj/koopa_key/koopa_key_get_demo.bca
+	- LZH
+data/normal_obj/koopa_key/koopa_key_open.bca
+	- LZH
+data/normal_obj/koopa_key/koopa_key_W_get.bca
+	- LZH
+data/normal_obj/mip_key/mip_key.bmd
+	- LZH
+data/normal_obj/number/s_number.btp
+	- LZH
+data/normal_obj/obj_block/broken_block_l.bmd
+	- LZH
+data/normal_obj/obj_block/broken_block_l.kcl
+	- LZH
+data/normal_obj/obj_block/broken_block_ll.bmd
+	- LZH
+data/normal_obj/obj_block/broken_block_ll.kcl
+	- LZH
+data/normal_obj/obj_block/broken_block_s.bmd
+	- LZH
+data/normal_obj/obj_block/broken_block_s.kcl
+	- LZH
+data/normal_obj/obj_block/ice_block_ll.bmd
+	- LZH
+data/normal_obj/obj_block/ice_block_ll.kcl
+	- LZH
+data/normal_obj/obj_box_switch/obj_box_switch.bmd
+	- LZH
+data/normal_obj/obj_box_switch/obj_box_switch.kcl
+	- LZH
+data/normal_obj/obj_cannon/houdai.bmd
+	- LZH
+data/normal_obj/obj_cannon_shutter/cannon_shutter.bmd
+	- LZH
+data/normal_obj/obj_cannon_shutter/cannon_shutter.kcl
+	- LZH
+data/normal_obj/obj_dokan/obj_dokan.bmd
+	- LZH
+data/normal_obj/obj_dokan/obj_dokan.kcl
+	- LZH
+data/normal_obj/obj_hatena_box/hatena_box.bmd
+	- LZH
+data/normal_obj/obj_hatena_box/hatena_karabox.bca
+	- LZH
+data/normal_obj/obj_hatena_box/hatena_karabox.bmd
+	- LZH
+data/normal_obj/obj_hatena_box/obj_cap_box_l.bmd
+	- LZH
+data/normal_obj/obj_hatena_box/obj_cap_box_m.bmd
+	- LZH
+data/normal_obj/obj_hatena_box/obj_cap_box_w.bmd
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_red_switch.bca
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_red_switch.bmd
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_red_switch.kcl
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_switch.bca
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_switch.bmd
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_switch_end.kcl
+	- LZH
+data/normal_obj/obj_hatena_switch/hatena_switch_start.kcl
+	- LZH
+data/normal_obj/obj_heart/obj_heart.bmd
+	- LZH
+data/normal_obj/obj_heart/obj_heart_wait.bca
+	- LZH
+data/normal_obj/obj_ice_board/obj_ice_board.bmd
+	- LZH
+data/normal_obj/obj_ice_board/obj_ice_board.kcl
+	- LZH
+data/normal_obj/obj_kanban/obj_kanban.bmd
+	- LZH
+data/normal_obj/obj_kumo/obj_kumo.bmd
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_L_cap_off.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_L_cap_off_wait.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_M_cap_off.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_M_cap_off_wait.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_M_kiss_to_pose.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_M_kiss_wait.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_W_cap_off.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_ed_W_cap_off_wait.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_L_first_change.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_M_first_change.bca
+	- LZH
+data/normal_obj/obj_mario_cap/mario_cap_W_first_change.bca
+	- LZH
+data/normal_obj/obj_pile/pile.bmd
+	- LZH
+data/normal_obj/obj_pile/pile.kcl
+	- LZH
+data/normal_obj/obj_power_flower/p_flower_close.bmd
+	- LZH
+data/normal_obj/obj_power_flower/p_flower_open.bmd
+	- LZH
+data/normal_obj/obj_power_up_item/power_up_item.bmd
+	- LZH
+data/normal_obj/obj_pushblock/obj_pushblock.bmd
+	- LZH
+data/normal_obj/obj_pushblock/obj_pushblock.kcl
+	- LZH
+data/normal_obj/obj_race_flag/obj_race_flag.bmd
+	- LZH
+data/normal_obj/obj_race_flag/obj_race_flag_wait.bca
+	- LZH
+data/normal_obj/obj_seesaw/obj_seesaw.bmd
+	- LZH
+data/normal_obj/obj_seesaw/obj_seesaw.kcl
+	- LZH
+data/normal_obj/obj_shell/obj_shell.bmd
+	- LZH
+data/normal_obj/obj_shell/obj_shell_close.bca
+	- LZH
+data/normal_obj/obj_shell/obj_shell_open.bca
+	- LZH
+data/normal_obj/obj_star_switch/obj_star_switch.bmd
+	- LZH
+data/normal_obj/obj_star_switch/obj_star_switch.kcl
+	- LZH
+data/normal_obj/obj_tatefuda/obj_tatefuda.bmd
+	- LZH
+data/normal_obj/obj_tatefuda/obj_tatefuda.kcl
+	- LZH
+data/normal_obj/obj_updnlift/obj_updnlift.bmd
+	- LZH
+data/normal_obj/obj_updnlift/obj_updnlift.kcl
+	- LZH
+data/normal_obj/obj_wakame/obj_wakame.bmd
+	- LZH
+data/normal_obj/obj_wakame/obj_wakame_wait.bca
+	- LZH
+data/normal_obj/obj_yajirusi_l/yajirusi_l.bmd
+	- LZH
+data/normal_obj/obj_yajirusi_l/yajirusi_l.kcl
+	- LZH
+data/normal_obj/obj_yajirusi_r/yajirusi_r.bmd
+	- LZH
+data/normal_obj/obj_yajirusi_r/yajirusi_r.kcl
+	- LZH
+data/normal_obj/opening/EUR/peach_letter_US.bmd
+	- LZH
+data/normal_obj/player_key/luigi_key.bmd
+	- LZH
+data/normal_obj/player_key/mario_key.bmd
+	- LZH
+data/normal_obj/player_key/wario_key.bmd
+	- LZH
+data/normal_obj/scale_up_kinoko/scale_up_kinoko.bmd
+	- LZH
+data/normal_obj/star/star_base.bmd
+	- LZH
+data/normal_obj/stargate/obj_stargate.bmd
+	- LZH
+data/normal_obj/t_box/t_box.bmd
+	- LZH
+data/normal_obj/t_box/t_box_open.bca
+	- LZH
+data/normal_obj/tree/bomb_tree.bmd
+	- LZH
+data/normal_obj/tree/toge_tree.bmd
+	- LZH
+data/normal_obj/tree/yashi_tree.bmd
+	- LZH
+data/normal_obj/tree/yuki_tree.bmd
+	- LZH
+data/normal_obj/w_ring/w_ring.bmd
+	- LZH
+data/normal_obj/water_tatumaki/water_tatumaki.bca
+	- LZH
+data/normal_obj/water_tatumaki/water_tatumaki.bmd
+	- LZH
+data/picture/for_bh.bmd
+	- LZH
+data/picture/for_bk.bmd
+	- LZH
+data/picture/for_ct.bmd
+	- LZH
+data/picture/for_cv_ex5.bmd
+	- LZH
+data/picture/for_dl.bmd
+	- LZH
+data/picture/for_ex_luigi.bmd
+	- LZH
+data/picture/for_ex_mario.bmd
+	- LZH
+data/picture/for_ex_wario.bmd
+	- LZH
+data/picture/for_fl.bmd
+	- LZH
+data/picture/for_hm.bmd
+	- LZH
+data/picture/for_hs.bmd
+	- LZH
+data/picture/for_ki.bmd
+	- LZH
+data/picture/for_sl.bmd
+	- LZH
+data/picture/for_sm.bmd
+	- LZH
+data/picture/for_td_tt.bmd
+	- LZH
+data/picture/for_vs_cross.bmd
+	- LZH
+data/picture/for_vs_island.bmd
+	- LZH
+data/picture/for_wc.bmd
+	- LZH
+data/picture/for_wl.bmd
+	- LZH
+data/player/b_mario_all.bmd
+	- LZH
+data/player/b_mario_body.bmd
+	- LZH
+data/player/b_mario_head_cap.bmd
+	- LZH
+data/player/b_mario_start.bca
+	- LZH
+data/player/cold_wait.bca
+	- LZH
+data/player/cold_wait_end.bca
+	- LZH
+data/player/cold_wait_start.bca
+	- LZH
+data/player/damage_start.bca
+	- LZH
+data/player/damage_wait.bca
+	- LZH
+data/player/door_pull.bca
+	- LZH
+data/player/door_push.bca
+	- LZH
+data/player/drown_die.bca
+	- LZH
+data/player/e_down.bca
+	- LZH
+data/player/ed_cap_off.bca
+	- LZH
+data/player/ed_cap_off_wait.bca
+	- LZH
+data/player/ed_fly.bca
+	- LZH
+data/player/ed_fly_start.bca
+	- LZH
+data/player/ed_kiss_to_pose.bca
+	- LZH
+data/player/ed_kiss_wait.bca
+	- LZH
+data/player/ed_look_left.bca
+	- LZH
+data/player/ed_look_left_end.bca
+	- LZH
+data/player/ed_look_left_wait.bca
+	- LZH
+data/player/ed_nod.bca
+	- LZH
+data/player/ed_putup_wait.bca
+	- LZH
+data/player/ed_wait.bca
+	- LZH
+data/player/ed_wave.bca
+	- LZH
+data/player/fall_die.bca
+	- LZH
+data/player/fall_sand.bca
+	- LZH
+data/player/first_change.bca
+	- LZH
+data/player/gas_die.bca
+	- LZH
+data/player/gas_wait.bca
+	- LZH
+data/player/h_carry_start.bca
+	- LZH
+data/player/h_carry_throw.bca
+	- LZH
+data/player/h_carry_wait.bca
+	- LZH
+data/player/h_carry_walk.bca
+	- LZH
+data/player/key_get.bca
+	- LZH
+data/player/key_open.bca
+	- LZH
+data/player/L_ed_amazed.bca
+	- LZH
+data/player/L_ed_cap_off.bca
+	- LZH
+data/player/L_ed_cap_off_wait.bca
+	- LZH
+data/player/L_ed_look_m_wait.bca
+	- LZH
+data/player/L_ed_look_mario.bca
+	- LZH
+data/player/L_ed_lookup_wait.bca
+	- LZH
+data/player/L_ed_wait.bca
+	- LZH
+data/player/L_entry_wait.bca
+	- LZH
+data/player/L_entry_wait_end.bca
+	- LZH
+data/player/L_first_change.bca
+	- LZH
+data/player/L_lie_end.bca
+	- LZH
+data/player/L_lie_wait.bca
+	- LZH
+data/player/L_op_look_wario.bca
+	- LZH
+data/player/L_op_nod.bca
+	- LZH
+data/player/L_op_turn.bca
+	- LZH
+data/player/L_sleep_end.bca
+	- LZH
+data/player/L_sleep_start.bca
+	- LZH
+data/player/L_sleep_to_lie.bca
+	- LZH
+data/player/L_sleep_wait.bca
+	- LZH
+data/player/L_tx_damage_start.btp
+	- LZH
+data/player/L_tx_damage_wait.btp
+	- LZH
+data/player/L_tx_ed_amazed.btp
+	- LZH
+data/player/L_tx_gas_wait.btp
+	- LZH
+data/player/L_tx_lie_end.btp
+	- LZH
+data/player/L_tx_lie_wait.btp
+	- LZH
+data/player/L_tx_return_down.btp
+	- LZH
+data/player/L_tx_sleep_end.btp
+	- LZH
+data/player/L_tx_sleep_start.btp
+	- LZH
+data/player/L_tx_sleep_to_lie.btp
+	- LZH
+data/player/L_tx_sleep_wait.btp
+	- LZH
+data/player/lie_end.bca
+	- LZH
+data/player/lie_wait.bca
+	- LZH
+data/player/M_entry_wait.bca
+	- LZH
+data/player/M_entry_wait_end.bca
+	- LZH
+data/player/n_carry_lost.bca
+	- LZH
+data/player/n_carry_pose.bca
+	- LZH
+data/player/n_carry_put.bca
+	- LZH
+data/player/n_carry_start.bca
+	- LZH
+data/player/n_carry_wait.bca
+	- LZH
+data/player/n_carry_walk.bca
+	- LZH
+data/player/op_go.bca
+	- LZH
+data/player/op_wait.bca
+	- LZH
+data/player/p_koopa_h_wait.bca
+	- LZH
+data/player/p_koopa_hold.bca
+	- LZH
+data/player/p_koopa_throw.bca
+	- LZH
+data/player/paddle_1.bca
+	- LZH
+data/player/paddle_2.bca
+	- LZH
+data/player/paddle_carry.bca
+	- LZH
+data/player/paddle_end.bca
+	- LZH
+data/player/puton_t_cap.bca
+	- LZH
+data/player/return_down.bca
+	- LZH
+data/player/return_nocap.bca
+	- LZH
+data/player/return_star.bca
+	- LZH
+data/player/s_die.bca
+	- LZH
+data/player/scale_up.bca
+	- LZH
+data/player/sdrop_head.bca
+	- LZH
+data/player/sdrop_head_end.bca
+	- LZH
+data/player/sdrop_head_wait.bca
+	- LZH
+data/player/sdrop_hip.bca
+	- LZH
+data/player/sdrop_hip_end.bca
+	- LZH
+data/player/sdrop_hip_wait.bca
+	- LZH
+data/player/sdrop_leg.bca
+	- LZH
+data/player/sdrop_leg_end.bca
+	- LZH
+data/player/sdrop_leg_wait.bca
+	- LZH
+data/player/sdrop_wait.bca
+	- LZH
+data/player/sdrop_walk.bca
+	- LZH
+data/player/shf_die.bca
+	- LZH
+data/player/shoot.bca
+	- LZH
+data/player/shoot_to_fly.bca
+	- LZH
+data/player/sleep_end.bca
+	- LZH
+data/player/sleep_start.bca
+	- LZH
+data/player/sleep_to_lie.bca
+	- LZH
+data/player/sleep_wait.bca
+	- LZH
+data/player/star_open.bca
+	- LZH
+data/player/su_hipat.bca
+	- LZH
+data/player/su_hiped.bca
+	- LZH
+data/player/su_hipsr.bca
+	- LZH
+data/player/su_jump.bca
+	- LZH
+data/player/su_jump_end.bca
+	- LZH
+data/player/su_run.bca
+	- LZH
+data/player/su_wait.bca
+	- LZH
+data/player/su_walk.bca
+	- LZH
+data/player/su_walk_end.bca
+	- LZH
+data/player/su_walk_start.bca
+	- LZH
+data/player/swim.bca
+	- LZH
+data/player/swim_attack.bca
+	- LZH
+data/player/swim_carry.bca
+	- LZH
+data/player/swim_damage.bca
+	- LZH
+data/player/swim_die.bca
+	- LZH
+data/player/swim_in.bca
+	- LZH
+data/player/swim_star_get.bca
+	- LZH
+data/player/swim_throw.bca
+	- LZH
+data/player/swim_wait.bca
+	- LZH
+data/player/tx_damage_start.btp
+	- LZH
+data/player/tx_damage_wait.btp
+	- LZH
+data/player/tx_ed_kiss_to_pose.btp
+	- LZH
+data/player/tx_ed_kiss_wait.btp
+	- LZH
+data/player/tx_gas_wait.btp
+	- LZH
+data/player/tx_lie_end.btp
+	- LZH
+data/player/tx_lie_wait.btp
+	- LZH
+data/player/tx_return_down.btp
+	- LZH
+data/player/tx_sleep_end.btp
+	- LZH
+data/player/tx_sleep_start.btp
+	- LZH
+data/player/tx_sleep_to_lie.btp
+	- LZH
+data/player/tx_sleep_wait.btp
+	- LZH
+data/player/W_ed_amazed_wair.bca
+	- LZH
+data/player/W_ed_cap_off.bca
+	- LZH
+data/player/W_ed_cap_off_wait.bca
+	- LZH
+data/player/W_ed_lookup_wait.bca
+	- LZH
+data/player/W_ed_wait.bca
+	- LZH
+data/player/W_ed_wave.bca
+	- LZH
+data/player/W_entry_wait.bca
+	- LZH
+data/player/W_entry_wait_end.bca
+	- LZH
+data/player/W_first_change.bca
+	- LZH
+data/player/W_key_get.bca
+	- LZH
+data/player/W_lie_end.bca
+	- LZH
+data/player/W_lie_wait.bca
+	- LZH
+data/player/W_op_look_luigi.bca
+	- LZH
+data/player/W_op_nod.bca
+	- LZH
+data/player/W_op_point.bca
+	- LZH
+data/player/W_op_turn.bca
+	- LZH
+data/player/W_sleep_end.bca
+	- LZH
+data/player/W_sleep_start.bca
+	- LZH
+data/player/W_sleep_to_lie.bca
+	- LZH
+data/player/W_sleep_wait.bca
+	- LZH
+data/player/W_tx_damage_start.btp
+	- LZH
+data/player/W_tx_damage_wait.btp
+	- LZH
+data/player/W_tx_ed_amazed.btp
+	- LZH
+data/player/W_tx_gas_wait.btp
+	- LZH
+data/player/W_tx_lie_end.btp
+	- LZH
+data/player/W_tx_lie_wait.btp
+	- LZH
+data/player/W_tx_return_down.btp
+	- LZH
+data/player/W_tx_sleep_end.btp
+	- LZH
+data/player/W_tx_sleep_start.btp
+	- LZH
+data/player/W_tx_sleep_to_lie.btp
+	- LZH
+data/player/W_tx_sleep_wait.btp
+	- LZH
+data/player/wario_metal_model.bmd
+	- LZH
+data/player/Y_ed_look_cam.bca
+	- LZH
+data/player/Y_ed_lookup_wait.bca
+	- LZH
+data/player/Y_ed_shy_to_wait.bca
+	- LZH
+data/player/Y_ed_shy_wait.bca
+	- LZH
+data/player/Y_ed_turn.bca
+	- LZH
+data/player/Y_ed_wait.bca
+	- LZH
+data/player/Y_egg_run.bca
+	- LZH
+data/player/Y_egg_wait.bca
+	- LZH
+data/player/Y_lie_end.bca
+	- LZH
+data/player/Y_lie_wait.bca
+	- LZH
+data/player/Y_op_lie_to_sit.bca
+	- LZH
+data/player/Y_op_sit_to_stand.bca
+	- LZH
+data/player/Y_op_sit_wait.bca
+	- LZH
+data/player/Y_op_stand_wait.bca
+	- LZH
+data/player/Y_sleep_end.bca
+	- LZH
+data/player/Y_sleep_start.bca
+	- LZH
+data/player/Y_sleep_to_lie.bca
+	- LZH
+data/player/Y_sleep_wait.bca
+	- LZH
+data/player/Y_tx_damage_start.btp
+	- LZH
+data/player/Y_tx_damage_wait.btp
+	- LZH
+data/player/Y_tx_gas_wait.btp
+	- LZH
+data/player/Y_tx_lie_end.btp
+	- LZH
+data/player/Y_tx_lie_wait.btp
+	- LZH
+data/player/Y_tx_return_down.btp
+	- LZH
+data/player/Y_tx_sleep_end.btp
+	- LZH
+data/player/Y_tx_sleep_start.btp
+	- LZH
+data/player/Y_tx_sleep_to_lie.btp
+	- LZH
+data/special_obj/b_ana_shutter/b_ana_shutter.bmd
+	- LZH
+data/special_obj/b_ana_shutter/b_ana_shutter.kcl
+	- LZH
+data/special_obj/b_si_so/b_si_so.bmd
+	- LZH
+data/special_obj/b_si_so/b_si_so.kcl
+	- LZH
+data/special_obj/b_wan_shutter/b_wan_shutter.bmd
+	- LZH
+data/special_obj/b_wan_shutter/b_wan_shutter.kcl
+	- LZH
+data/special_obj/bk_billbord/bk_billbord.bmd
+	- LZH
+data/special_obj/bk_botaosi/bk_botaosi.bmd
+	- LZH
+data/special_obj/bk_botaosi/bk_botaosi.kcl
+	- LZH
+data/special_obj/bk_dossunbar_l/bk_dossunbar_l.bmd
+	- LZH
+data/special_obj/bk_dossunbar_l/bk_dossunbar_l.kcl
+	- LZH
+data/special_obj/bk_dossunbar_s/bk_dossunbar_s.bmd
+	- LZH
+data/special_obj/bk_dossunbar_s/bk_dossunbar_s.kcl
+	- LZH
+data/special_obj/bk_down_b/bk_down_b.bmd
+	- LZH
+data/special_obj/bk_down_b/bk_down_b.kcl
+	- LZH
+data/special_obj/bk_futa/bk_futa.bmd
+	- LZH
+data/special_obj/bk_futa/bk_futa.kcl
+	- LZH
+data/special_obj/bk_kabe00/bk_kabe00.bmd
+	- LZH
+data/special_obj/bk_kabe00/bk_kabe00.kcl
+	- LZH
+data/special_obj/bk_kabe01/bk_kabe01.bmd
+	- LZH
+data/special_obj/bk_kabe01/bk_kabe01.kcl
+	- LZH
+data/special_obj/bk_killer_dai/bk_killer_dai.bmd
+	- LZH
+data/special_obj/bk_killer_dai/bk_killer_dai.kcl
+	- LZH
+data/special_obj/bk_lift01/bk_lift01.bmd
+	- LZH
+data/special_obj/bk_lift01/bk_lift01.kcl
+	- LZH
+data/special_obj/bk_rotebar/bk_rotebar.bmd
+	- LZH
+data/special_obj/bk_rotebar/bk_rotebar.kcl
+	- LZH
+data/special_obj/bk_tower/bk_tower.bmd
+	- LZH
+data/special_obj/bk_tower/bk_tower.kcl
+	- LZH
+data/special_obj/bk_transbar/bk_transbar.bmd
+	- LZH
+data/special_obj/bk_transbar/bk_transbar.kcl
+	- LZH
+data/special_obj/bk_ukisima/bk_ukisima.bmd
+	- LZH
+data/special_obj/bk_ukisima/bk_ukisima.kcl
+	- LZH
+data/special_obj/c0_switch/c0_switch.bmd
+	- LZH
+data/special_obj/c0_switch/c0_switch.kcl
+	- LZH
+data/special_obj/c0_water/c0_water.bmd
+	- LZH
+data/special_obj/c0_water/c0_water.kcl
+	- LZH
+data/special_obj/c1_hikari/c1_hikari.bmd
+	- LZH
+data/special_obj/c1_peach/c1_peach.bmd
+	- LZH
+data/special_obj/c1_trap/c1_trap.bmd
+	- LZH
+data/special_obj/c1_trap/c1_trap.kcl
+	- LZH
+data/special_obj/c2_hari_long/c2_hari_long.bmd
+	- LZH
+data/special_obj/c2_hari_short/c2_hari_short.bmd
+	- LZH
+data/special_obj/c2_huriko/c2_huriko.bmd
+	- LZH
+data/special_obj/casket/casket.bmd
+	- LZH
+data/special_obj/casket/casket.kcl
+	- LZH
+data/special_obj/ct_mecha_obj01/ct_mecha_obj01.bmd
+	- LZH
+data/special_obj/ct_mecha_obj01/ct_mecha_obj01.kcl
+	- LZH
+data/special_obj/ct_mecha_obj01/ct_mecha_obj01a.bmd
+	- LZH
+data/special_obj/ct_mecha_obj02/ct_mecha_obj02.bmd
+	- LZH
+data/special_obj/ct_mecha_obj02/ct_mecha_obj02.kcl
+	- LZH
+data/special_obj/ct_mecha_obj02/ct_mecha_obj02a.bmd
+	- LZH
+data/special_obj/ct_mecha_obj03/ct_mecha_obj03.bmd
+	- LZH
+data/special_obj/ct_mecha_obj03/ct_mecha_obj03.kcl
+	- LZH
+data/special_obj/ct_mecha_obj04l/ct_mecha_obj04l.bmd
+	- LZH
+data/special_obj/ct_mecha_obj04l/ct_mecha_obj04l.kcl
+	- LZH
+data/special_obj/ct_mecha_obj04s/ct_mecha_obj04s.bmd
+	- LZH
+data/special_obj/ct_mecha_obj04s/ct_mecha_obj04s.kcl
+	- LZH
+data/special_obj/ct_mecha_obj05/ct_mecha_obj05.bmd
+	- LZH
+data/special_obj/ct_mecha_obj05/ct_mecha_obj05.kcl
+	- LZH
+data/special_obj/ct_mecha_obj06/ct_mecha_obj06.bmd
+	- LZH
+data/special_obj/ct_mecha_obj06/ct_mecha_obj06.kcl
+	- LZH
+data/special_obj/ct_mecha_obj07/ct_mecha_obj07.bmd
+	- LZH
+data/special_obj/ct_mecha_obj07/ct_mecha_obj07.kcl
+	- LZH
+data/special_obj/ct_mecha_obj08a/ct_mecha_obj08a.bmd
+	- LZH
+data/special_obj/ct_mecha_obj08a/ct_mecha_obj08a.kcl
+	- LZH
+data/special_obj/ct_mecha_obj08b/ct_mecha_obj08b.bmd
+	- LZH
+data/special_obj/ct_mecha_obj08b/ct_mecha_obj08b.kcl
+	- LZH
+data/special_obj/ct_mecha_obj09/ct_mecha_obj09.bmd
+	- LZH
+data/special_obj/ct_mecha_obj09/ct_mecha_obj09.kcl
+	- LZH
+data/special_obj/ct_mecha_obj10/ct_mecha_obj10.bmd
+	- LZH
+data/special_obj/ct_mecha_obj10/ct_mecha_obj10.kcl
+	- LZH
+data/special_obj/ct_mecha_obj11/ct_mecha_obj11.bmd
+	- LZH
+data/special_obj/ct_mecha_obj11/ct_mecha_obj11.kcl
+	- LZH
+data/special_obj/ct_mecha_obj12l/ct_mecha_obj12l.bmd
+	- LZH
+data/special_obj/ct_mecha_obj12s/ct_mecha_obj12s.bmd
+	- LZH
+data/special_obj/cv_goro_rock/cv_goro_rock.bmd
+	- LZH
+data/special_obj/cv_lift_btn/cv_lift_btn.bmd
+	- LZH
+data/special_obj/cv_lift_btn/cv_lift_btn.kcl
+	- LZH
+data/special_obj/cv_news_lift/cv_news_lift.bmd
+	- LZH
+data/special_obj/cv_news_lift/cv_news_lift.kcl
+	- LZH
+data/special_obj/cv_shutter/cv_shutter.bmd
+	- LZH
+data/special_obj/cv_shutter/cv_shutter.kcl
+	- LZH
+data/special_obj/cv_ud_lift/cv_ud_lift.bmd
+	- LZH
+data/special_obj/cv_ud_lift/cv_ud_lift.kcl
+	- LZH
+data/special_obj/dl_pyramid/dl_pyramid.bmd
+	- LZH
+data/special_obj/dl_pyramid/dl_pyramid.kcl
+	- LZH
+data/special_obj/dp_brock/dp_brock.bmd
+	- LZH
+data/special_obj/dp_brock/dp_brock.kcl
+	- LZH
+data/special_obj/dp_lift/dp_lift.bmd
+	- LZH
+data/special_obj/dp_lift/dp_lift.kcl
+	- LZH
+data/special_obj/emm_log/emm_log.bmd
+	- LZH
+data/special_obj/emm_log/emm_log.kcl
+	- LZH
+data/special_obj/emm_yuka/emm_yuka.bmd
+	- LZH
+data/special_obj/emm_yuka/emm_yuka.kcl
+	- LZH
+data/special_obj/ewb_ice/ewb_ice_a.bmd
+	- LZH
+data/special_obj/ewb_ice/ewb_ice_a.kcl
+	- LZH
+data/special_obj/ewb_ice/ewb_ice_b.bmd
+	- LZH
+data/special_obj/ewb_ice/ewb_ice_b.kcl
+	- LZH
+data/special_obj/ewb_ice/ewb_ice_c.bmd
+	- LZH
+data/special_obj/ewb_ice/ewb_ice_c.kcl
+	- LZH
+data/special_obj/ewm_ice_brock/ewm_ice_brock.bmd
+	- LZH
+data/special_obj/ewm_ice_brock/ewm_ice_brock.kcl
+	- LZH
+data/special_obj/fl_amilift/fl_amilift.bmd
+	- LZH
+data/special_obj/fl_amilift/fl_amilift.kcl
+	- LZH
+data/special_obj/fl_block/fl_block.bmd
+	- LZH
+data/special_obj/fl_block/fl_block.kcl
+	- LZH
+data/special_obj/fl_gura/fl_gura.bmd
+	- LZH
+data/special_obj/fl_gura/fl_gura.kcl
+	- LZH
+data/special_obj/fl_koma_d/fl_koma_d.bmd
+	- LZH
+data/special_obj/fl_koma_d/fl_koma_d.kcl
+	- LZH
+data/special_obj/fl_koma_u/fl_koma_u.bmd
+	- LZH
+data/special_obj/fl_koma_u/fl_koma_u.kcl
+	- LZH
+data/special_obj/fl_kuzure/fl_kuzure.bmd
+	- LZH
+data/special_obj/fl_kuzure/fl_kuzure.kcl
+	- LZH
+data/special_obj/fl_log/fl_log.bmd
+	- LZH
+data/special_obj/fl_log/fl_log.kcl
+	- LZH
+data/special_obj/fl_london/fl_london.bmd
+	- LZH
+data/special_obj/fl_london/fl_london.kcl
+	- LZH
+data/special_obj/fl_puzzle/fl_14_00.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_00.kcl
+	- LZH
+data/special_obj/fl_puzzle/fl_14_01.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_02.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_03.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_04.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_05.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_06.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_07.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_08.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_09.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_10.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_11.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_12.bmd
+	- LZH
+data/special_obj/fl_puzzle/fl_14_13.bmd
+	- LZH
+data/special_obj/fl_ring/fl_ring.bmd
+	- LZH
+data/special_obj/fl_ring/fl_ring.kcl
+	- LZH
+data/special_obj/fl_shiso/fl_shiso.bmd
+	- LZH
+data/special_obj/fl_shiso/fl_shiso.kcl
+	- LZH
+data/special_obj/fl_uki_ki/fl_uki_ki.bmd
+	- LZH
+data/special_obj/fl_uki_ki/fl_uki_ki.kcl
+	- LZH
+data/special_obj/fl_uki_yuka/fl_uki_yuka.bmd
+	- LZH
+data/special_obj/fl_uki_yuka/fl_uki_yuka.kcl
+	- LZH
+data/special_obj/fm_battan/fm_battan.bmd
+	- LZH
+data/special_obj/fm_battan/fm_battan.kcl
+	- LZH
+data/special_obj/hm_basket/hm_basket.bmd
+	- LZH
+data/special_obj/hm_basket/hm_basket.kcl
+	- LZH
+data/special_obj/hm_maruta/hm_maruta.bmd
+	- LZH
+data/special_obj/hm_maruta/hm_maruta.kcl
+	- LZH
+data/special_obj/hs_b_star/hs_b_star.bmd
+	- LZH
+data/special_obj/hs_moon/hs_moon.bmd
+	- LZH
+data/special_obj/hs_star/hs_star.bmd
+	- LZH
+data/special_obj/hs_updown_lift/hs_updown_lift.bmd
+	- LZH
+data/special_obj/hs_updown_lift/hs_updown_lift.kcl
+	- LZH
+data/special_obj/hs_y_star/hs_y_star.bmd
+	- LZH
+data/special_obj/kb1_ball/kb1_ball.bmd
+	- LZH
+data/special_obj/kb2_stage/kb2_stage.bmd
+	- LZH
+data/special_obj/kb2_stage/kb2_stage.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_a.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_a.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_b.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_b.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_c.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_c.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_d.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_d.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_e.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_e.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_f.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_f.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_g.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_g.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_h.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_h.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_i.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_i.kcl
+	- LZH
+data/special_obj/kb3_stage/kb3_j.bmd
+	- LZH
+data/special_obj/kb3_stage/kb3_j.kcl
+	- LZH
+data/special_obj/ki_fune/ki_fune_down_a.bmd
+	- LZH
+data/special_obj/ki_fune/ki_fune_down_a.kcl
+	- LZH
+data/special_obj/ki_fune/ki_fune_up.bmd
+	- LZH
+data/special_obj/ki_fune/ki_fune_up.kcl
+	- LZH
+data/special_obj/ki_hasira/ki_hasira.bmd
+	- LZH
+data/special_obj/ki_hasira/ki_hasira.kcl
+	- LZH
+data/special_obj/ki_hasira/ki_hasira_dai.bmd
+	- LZH
+data/special_obj/ki_hasira/ki_hasira_dai.kcl
+	- LZH
+data/special_obj/ki_ita/ki_ita.bmd
+	- LZH
+data/special_obj/ki_ita/ki_ita.kcl
+	- LZH
+data/special_obj/ki_iwa/ki_iwa.bmd
+	- LZH
+data/special_obj/ki_iwa/ki_iwa.kcl
+	- LZH
+data/special_obj/ki_slide_box/ki_slide_box.bmd
+	- LZH
+data/special_obj/ki_slide_box/ki_slide_box.kcl
+	- LZH
+data/special_obj/km1_deru/km1_deru.bmd
+	- LZH
+data/special_obj/km1_deru/km1_deru.kcl
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu0.bmd
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu0.kcl
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu1.bmd
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu1.kcl
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu2.bmd
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu2.kcl
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu3.bmd
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu3.kcl
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu4.bmd
+	- LZH
+data/special_obj/km1_dorifu/km1_dorifu4.kcl
+	- LZH
+data/special_obj/km1_kuruma/km1_kuruma.bmd
+	- LZH
+data/special_obj/km1_kuruma/km1_kuruma.kcl
+	- LZH
+data/special_obj/km1_kuruma/km1_kurumajiku.bmd
+	- LZH
+data/special_obj/km1_kuruma/km1_kurumajiku.kcl
+	- LZH
+data/special_obj/km1_shiso/km1_shiso.bmd
+	- LZH
+data/special_obj/km1_shiso/km1_shiso.kcl
+	- LZH
+data/special_obj/km1_ukishima/km1_ukishima.bmd
+	- LZH
+data/special_obj/km1_ukishima/km1_ukishima.kcl
+	- LZH
+data/special_obj/km2_agaru/km2_agaru.bmd
+	- LZH
+data/special_obj/km2_agaru/km2_agaru.kcl
+	- LZH
+data/special_obj/km2_ami_bou/km2_ami_bou.bmd
+	- LZH
+data/special_obj/km2_ami_bou/km2_ami_bou.kcl
+	- LZH
+data/special_obj/km2_gura/km2_gura.bmd
+	- LZH
+data/special_obj/km2_gura/km2_gura.kcl
+	- LZH
+data/special_obj/km2_kuzure/km2_kuzure.bmd
+	- LZH
+data/special_obj/km2_kuzure/km2_kuzure.kcl
+	- LZH
+data/special_obj/km2_nobiru/km2_nobiru.bmd
+	- LZH
+data/special_obj/km2_nobiru/km2_nobiru.kcl
+	- LZH
+data/special_obj/km2_rift01/km2_rift01.bmd
+	- LZH
+data/special_obj/km2_rift01/km2_rift01.kcl
+	- LZH
+data/special_obj/km2_rift02/km2_rift02.bmd
+	- LZH
+data/special_obj/km2_rift02/km2_rift02.kcl
+	- LZH
+data/special_obj/km2_susumu/km2_susumu.bmd
+	- LZH
+data/special_obj/km2_susumu/km2_susumu.kcl
+	- LZH
+data/special_obj/km2_ukishima/km2_ukishima.bmd
+	- LZH
+data/special_obj/km2_ukishima/km2_ukishima.kcl
+	- LZH
+data/special_obj/km2_yokoshiso/km2_yokoshiso.bmd
+	- LZH
+data/special_obj/km2_yokoshiso/km2_yokoshiso.kcl
+	- LZH
+data/special_obj/km3_dan/km3_dan0.bmd
+	- LZH
+data/special_obj/km3_dan/km3_dan0.kcl
+	- LZH
+data/special_obj/km3_dan/km3_dan1.bmd
+	- LZH
+data/special_obj/km3_dan/km3_dan1.kcl
+	- LZH
+data/special_obj/km3_dan/km3_dan2.bmd
+	- LZH
+data/special_obj/km3_dan/km3_dan2.kcl
+	- LZH
+data/special_obj/km3_dan/km3_dan3.bmd
+	- LZH
+data/special_obj/km3_dan/km3_dan3.kcl
+	- LZH
+data/special_obj/km3_dan/km3_dan4.bmd
+	- LZH
+data/special_obj/km3_dan/km3_dan4.kcl
+	- LZH
+data/special_obj/km3_deru01/km3_deru01.bmd
+	- LZH
+data/special_obj/km3_deru01/km3_deru01.kcl
+	- LZH
+data/special_obj/km3_deru02/km3_deru02.bmd
+	- LZH
+data/special_obj/km3_deru02/km3_deru02.kcl
+	- LZH
+data/special_obj/km3_kaitendai/km3_kaitendai.bmd
+	- LZH
+data/special_obj/km3_kaitendai/km3_kaitendai.kcl
+	- LZH
+data/special_obj/km3_kuruma/km3_kuruma.bmd
+	- LZH
+data/special_obj/km3_kuruma/km3_kuruma.kcl
+	- LZH
+data/special_obj/km3_kuruma/km3_kurumajiku.bmd
+	- LZH
+data/special_obj/km3_kuruma/km3_kurumajiku.kcl
+	- LZH
+data/special_obj/km3_rift/km3_rift.bmd
+	- LZH
+data/special_obj/km3_rift/km3_rift.kcl
+	- LZH
+data/special_obj/km3_shiso/km3_shiso.bmd
+	- LZH
+data/special_obj/km3_shiso/km3_shiso.kcl
+	- LZH
+data/special_obj/km3_yokoshiso/km3_yokoshiso.bmd
+	- LZH
+data/special_obj/km3_yokoshiso/km3_yokoshiso.kcl
+	- LZH
+data/special_obj/ks_mizu/ks_mizu.bmd
+	- LZH
+data/special_obj/ks_mizu/ks_mizu.kcl
+	- LZH
+data/special_obj/mc_dodai/mc_dodai.bmd
+	- LZH
+data/special_obj/mc_dodai/mc_dodai.kcl
+	- LZH
+data/special_obj/mc_flag/mc_flag.bmd
+	- LZH
+data/special_obj/mc_flag/mc_flag_wait.bca
+	- LZH
+data/special_obj/mc_hazad/mc_hazad.bmd
+	- LZH
+data/special_obj/mc_hazad/mc_hazad.kcl
+	- LZH
+data/special_obj/mc_metalnet/mc_metalnet.bmd
+	- LZH
+data/special_obj/mc_metalnet/mc_metalnet.kcl
+	- LZH
+data/special_obj/mc_water/mc_water.bmd
+	- LZH
+data/special_obj/mc_water/mc_water.kcl
+	- LZH
+data/special_obj/rc_buranko/rc_buranko.bmd
+	- LZH
+data/special_obj/rc_buranko/rc_buranko.kcl
+	- LZH
+data/special_obj/rc_carpet/rc_carpet.bmd
+	- LZH
+data/special_obj/rc_carpet/rc_carpet.kcl
+	- LZH
+data/special_obj/rc_carpet/rc_carpet_wait.bca
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu0.bmd
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu0.kcl
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu1.bmd
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu1.kcl
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu2.bmd
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu2.kcl
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu3.bmd
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu3.kcl
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu4.bmd
+	- LZH
+data/special_obj/rc_dorifu/rc_dorifu4.kcl
+	- LZH
+data/special_obj/rc_guruguru/rc_guruguru.bmd
+	- LZH
+data/special_obj/rc_guruguru/rc_guruguru.kcl
+	- LZH
+data/special_obj/rc_hane/rc_hane.bmd
+	- LZH
+data/special_obj/rc_kaiten/rc_kaiten.bmd
+	- LZH
+data/special_obj/rc_kaiten/rc_kaiten.kcl
+	- LZH
+data/special_obj/rc_rift01/rc_rift01.bmd
+	- LZH
+data/special_obj/rc_rift01/rc_rift01.kcl
+	- LZH
+data/special_obj/rc_rift02/rc_rift02.bmd
+	- LZH
+data/special_obj/rc_rift02/rc_rift02.kcl
+	- LZH
+data/special_obj/rc_shiso/rc_shiso.bmd
+	- LZH
+data/special_obj/rc_shiso/rc_shiso.kcl
+	- LZH
+data/special_obj/rc_tikuwa/rc_tikuwa.bmd
+	- LZH
+data/special_obj/rc_tikuwa/rc_tikuwa.kcl
+	- LZH
+data/special_obj/sl_ice_brock/sl_ice_brock.bmd
+	- LZH
+data/special_obj/sl_ice_brock/sl_ice_brock.kcl
+	- LZH
+data/special_obj/sm_lift/sm_lift.bmd
+	- LZH
+data/special_obj/sm_lift/sm_lift.kcl
+	- LZH
+data/special_obj/t_basket/t_basket.bmd
+	- LZH
+data/special_obj/td_obj_futa/td_obj_futa.bmd
+	- LZH
+data/special_obj/td_obj_futa/td_obj_futa.kcl
+	- LZH
+data/special_obj/td_obj_water/td_obj_water.bmd
+	- LZH
+data/special_obj/td_obj_water/td_obj_water.kcl
+	- LZH
+data/special_obj/th_down_b/th_down_b.bmd
+	- LZH
+data/special_obj/th_down_b/th_down_b.kcl
+	- LZH
+data/special_obj/th_hondana/th_hondana.bmd
+	- LZH
+data/special_obj/th_hondana/th_hondana.kcl
+	- LZH
+data/special_obj/th_kaidan/th_kaidan.bmd
+	- LZH
+data/special_obj/th_kaidan/th_kaidan.kcl
+	- LZH
+data/special_obj/th_lift/th_lift.bmd
+	- LZH
+data/special_obj/th_lift/th_lift.kcl
+	- LZH
+data/special_obj/th_mery_go/th_mery_go.bmd
+	- LZH
+data/special_obj/th_mery_go/th_mery_go.kcl
+	- LZH
+data/special_obj/th_trap/th_trap.bmd
+	- LZH
+data/special_obj/th_trap/th_trap.kcl
+	- LZH
+data/special_obj/tt_obj_futa/tt_obj_futa.bmd
+	- LZH
+data/special_obj/tt_obj_futa/tt_obj_futa.kcl
+	- LZH
+data/special_obj/tt_obj_water/tt_obj_water.bmd
+	- LZH
+data/special_obj/tt_obj_water/tt_obj_water.kcl
+	- LZH
+data/special_obj/wc_mizu/wc_mizu.bmd
+	- LZH
+data/special_obj/wc_mizu/wc_mizu.kcl
+	- LZH
+data/special_obj/wc_obj01/wc_obj01.bmd
+	- LZH
+data/special_obj/wc_obj01/wc_obj01.kcl
+	- LZH
+data/special_obj/wc_obj02/wc_obj02.bmd
+	- LZH
+data/special_obj/wc_obj02/wc_obj02.kcl
+	- LZH
+data/special_obj/wc_obj03/wc_obj03.bmd
+	- LZH
+data/special_obj/wc_obj04/wc_obj04.bmd
+	- LZH
+data/special_obj/wc_obj04/wc_obj04.kcl
+	- LZH
+data/special_obj/wc_obj05/wc_obj05.bmd
+	- LZH
+data/special_obj/wc_obj05/wc_obj05.kcl
+	- LZH
+data/special_obj/wc_obj06/wc_obj06.bmd
+	- LZH
+data/special_obj/wc_obj06/wc_obj06.kcl
+	- LZH
+data/special_obj/wc_obj07/wc_obj07.bmd
+	- LZH
+data/special_obj/wc_obj07/wc_obj07.kcl
+	- LZH
+data/special_obj/wl_kupa_shutter/wl_kupa_shutter.bmd
+	- LZH
+data/special_obj/wl_kupa_shutter/wl_kupa_shutter.kcl
+	- LZH
+data/special_obj/wl_pole_lift/wl_pole_lift.bmd
+	- LZH
+data/special_obj/wl_submarine/wl_submarine.bmd
+	- LZH
+data/special_obj/wl_submarine/wl_submarine.kcl
+	- LZH
+data/stage/battan_king_map/battan_king_map.kcl
+	- LZH
+data/stage/battan_king_map/battan_king_map_00_isc.bin
+	- LZ
+data/stage/battan_king_map/battan_king_map_all.bmd
+	- LZH
+data/stage/battan_king_map/battan_king_map_icg.bin
+	- LZ
+data/stage/bombhei_map/bombhei_map.kcl
+	- LZH
+data/stage/bombhei_map/bombhei_map_00_isc.bin
+	- LZ
+data/stage/bombhei_map/bombhei_map_all.bmd
+	- LZH
+data/stage/bombhei_map/bombhei_map_icg.bin
+	- LZ
+data/stage/castle_1f/castle_1f.kcl
+	- LZH
+data/stage/castle_1f/castle_1f_00_isc.bin
+	- LZ
+data/stage/castle_1f/castle_1f_01_isc.bin
+	- LZ
+data/stage/castle_1f/castle_1f_02_isc.bin
+	- LZ
+data/stage/castle_1f/castle_1f_03_isc.bin
+	- LZ
+data/stage/castle_1f/castle_1f_04_isc.bin
+	- LZ
+data/stage/castle_1f/castle_1f_05_isc.bin
+	- LZ
+data/stage/castle_1f/castle_1f_06_isc.bin
+	- LZ
+data/stage/castle_1f/castle_1f_all.bmd
+	- LZH
+data/stage/castle_1f/castle_1f_icg.bin
+	- LZ
+data/stage/castle_2f/castle_2f.kcl
+	- LZH
+data/stage/castle_2f/castle_2f_00_isc.bin
+	- LZ
+data/stage/castle_2f/castle_2f_01_isc.bin
+	- LZ
+data/stage/castle_2f/castle_2f_02_isc.bin
+	- LZ
+data/stage/castle_2f/castle_2f_03_isc.bin
+	- LZ
+data/stage/castle_2f/castle_2f_04_isc.bin
+	- LZ
+data/stage/castle_2f/castle_2f_05_isc.bin
+	- LZ
+data/stage/castle_2f/castle_2f_all.bmd
+	- LZH
+data/stage/castle_2f/castle_2f_icg.bin
+	- LZ
+data/stage/castle_b1/castle_b1.kcl
+	- LZH
+data/stage/castle_b1/castle_b1_00_isc.bin
+	- LZ
+data/stage/castle_b1/castle_b1_01_isc.bin
+	- LZ
+data/stage/castle_b1/castle_b1_02_isc.bin
+	- LZ
+data/stage/castle_b1/castle_b1_03_isc.bin
+	- LZ
+data/stage/castle_b1/castle_b1_04_isc.bin
+	- LZ
+data/stage/castle_b1/castle_b1_all.bmd
+	- LZH
+data/stage/castle_b1/castle_b1_icg.bin
+	- LZ
+data/stage/cave/cave.kcl
+	- LZH
+data/stage/cave/cave_00_isc.bin
+	- LZ
+data/stage/cave/cave_01_isc.bin
+	- LZ
+data/stage/cave/cave_all.bmd
+	- LZH
+data/stage/cave/cave_icg.bin
+	- LZ
+data/stage/clock_tower/clock_tower.kcl
+	- LZH
+data/stage/clock_tower/clock_tower_00_isc.bin
+	- LZ
+data/stage/clock_tower/clock_tower_all.bmd
+	- LZH
+data/stage/clock_tower/clock_tower_icg.bin
+	- LZ
+data/stage/desert_land/desert_land.kcl
+	- LZH
+data/stage/desert_land/desert_land_00_isc.bin
+	- LZ
+data/stage/desert_land/desert_land_all.bmd
+	- LZH
+data/stage/desert_land/desert_land_icg.bin
+	- LZ
+data/stage/desert_py/desert_py.kcl
+	- LZH
+data/stage/desert_py/desert_py_00_isc.bin
+	- LZ
+data/stage/desert_py/desert_py_01_isc.bin
+	- LZ
+data/stage/desert_py/desert_py_02_isc.bin
+	- LZ
+data/stage/desert_py/desert_py_03_isc.bin
+	- LZ
+data/stage/desert_py/desert_py_all.bmd
+	- LZH
+data/stage/desert_py/desert_py_icg.bin
+	- LZ
+data/stage/ex_l_map/ex_l_map.kcl
+	- LZH
+data/stage/ex_l_map/ex_l_map_00_isc.bin
+	- LZ
+data/stage/ex_l_map/ex_l_map_01_isc.bin
+	- LZ
+data/stage/ex_l_map/ex_l_map_02_isc.bin
+	- LZ
+data/stage/ex_l_map/ex_l_map_03_isc.bin
+	- LZ
+data/stage/ex_l_map/ex_l_map_04_isc.bin
+	- LZ
+data/stage/ex_l_map/ex_l_map_all.bmd
+	- LZH
+data/stage/ex_l_map/ex_l_map_icg.bin
+	- LZ
+data/stage/ex_luigi/ex_luigi.kcl
+	- LZH
+data/stage/ex_luigi/ex_luigi_00_isc.bin
+	- LZ
+data/stage/ex_luigi/ex_luigi_all.bmd
+	- LZH
+data/stage/ex_luigi/ex_luigi_icg.bin
+	- LZ
+data/stage/ex_m_map/ex_m_map.kcl
+	- LZH
+data/stage/ex_m_map/ex_m_map_00_isc.bin
+	- LZ
+data/stage/ex_m_map/ex_m_map_all.bmd
+	- LZH
+data/stage/ex_m_map/ex_m_map_icg.bin
+	- LZ
+data/stage/ex_mario/ex_mario.kcl
+	- LZH
+data/stage/ex_mario/ex_mario_00_isc.bin
+	- LZ
+data/stage/ex_mario/ex_mario_all.bmd
+	- LZH
+data/stage/ex_mario/ex_mario_icg.bin
+	- LZ
+data/stage/ex_w_map/ex_w_map.kcl
+	- LZH
+data/stage/ex_w_map/ex_w_map_00_isc.bin
+	- LZ
+data/stage/ex_w_map/ex_w_map_all.bmd
+	- LZH
+data/stage/ex_w_map/ex_w_map_icg.bin
+	- LZ
+data/stage/ex_wario/ex_wario.kcl
+	- LZH
+data/stage/ex_wario/ex_wario_00_isc.bin
+	- LZ
+data/stage/ex_wario/ex_wario_all.bmd
+	- LZH
+data/stage/ex_wario/ex_wario_icg.bin
+	- LZ
+data/stage/fire_land/fire_land.kcl
+	- LZH
+data/stage/fire_land/fire_land_00_isc.bin
+	- LZ
+data/stage/fire_land/fire_land_all.bmd
+	- LZH
+data/stage/fire_land/fire_land_icg.bin
+	- LZ
+data/stage/fire_mt/fire_mt.kcl
+	- LZH
+data/stage/fire_mt/fire_mt_00_isc.bin
+	- LZ
+data/stage/fire_mt/fire_mt_01_isc.bin
+	- LZ
+data/stage/fire_mt/fire_mt_all.bmd
+	- LZH
+data/stage/fire_mt/fire_mt_icg.bin
+	- LZ
+data/stage/habatake/habatake.kcl
+	- LZH
+data/stage/habatake/habatake_00_isc.bin
+	- LZ
+data/stage/habatake/habatake_all.bmd
+	- LZH
+data/stage/habatake/habatake_icg.bin
+	- LZ
+data/stage/high_mt/high_mt.kcl
+	- LZH
+data/stage/high_mt/high_mt_00_isc.bin
+	- LZ
+data/stage/high_mt/high_mt_all.bmd
+	- LZH
+data/stage/high_mt/high_mt_icg.bin
+	- LZ
+data/stage/high_slider/high_slider.kcl
+	- LZH
+data/stage/high_slider/high_slider_00_isc.bin
+	- LZ
+data/stage/high_slider/high_slider_all.bmd
+	- LZH
+data/stage/high_slider/high_slider_icg.bin
+	- LZ
+data/stage/horisoko/horisoko.kcl
+	- LZH
+data/stage/horisoko/horisoko_00_isc.bin
+	- LZ
+data/stage/horisoko/horisoko_all.bmd
+	- LZH
+data/stage/horisoko/horisoko_icg.bin
+	- LZ
+data/stage/kaizoku_irie/kaizoku_irie.kcl
+	- LZH
+data/stage/kaizoku_irie/kaizoku_irie_00_isc.bin
+	- LZ
+data/stage/kaizoku_irie/kaizoku_irie_all.bmd
+	- LZH
+data/stage/kaizoku_irie/kaizoku_irie_icg.bin
+	- LZ
+data/stage/kaizoku_ship/kaizoku_ship.kcl
+	- LZH
+data/stage/kaizoku_ship/kaizoku_ship_00_isc.bin
+	- LZ
+data/stage/kaizoku_ship/kaizoku_ship_all.bmd
+	- LZH
+data/stage/kaizoku_ship/kaizoku_ship_icg.bin
+	- LZ
+data/stage/koopa1_boss/koopa1_boss.kcl
+	- LZH
+data/stage/koopa1_boss/koopa1_boss_00_isc.bin
+	- LZ
+data/stage/koopa1_boss/koopa1_boss_all.bmd
+	- LZH
+data/stage/koopa1_boss/koopa1_boss_icg.bin
+	- LZ
+data/stage/koopa1_map/koopa1_boss_icg.bin
+	- LZH
+data/stage/koopa1_map/koopa1_map.kcl
+	- LZH
+data/stage/koopa1_map/koopa1_map_00_isc.bin
+	- LZ
+data/stage/koopa1_map/koopa1_map_01_isc.bin
+	- LZ
+data/stage/koopa1_map/koopa1_map_all.bmd
+	- LZH
+data/stage/koopa1_map/koopa1_map_icg.bin
+	- LZ
+data/stage/koopa2_boss/koopa2_boss.kcl
+	- LZH
+data/stage/koopa2_boss/koopa2_boss_00_isc.bin
+	- LZ
+data/stage/koopa2_boss/koopa2_boss_all.bmd
+	- LZH
+data/stage/koopa2_boss/koopa2_boss_icg.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map.kcl
+	- LZH
+data/stage/koopa2_map/koopa2_map_00_isc.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map_01_isc.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map_02_isc.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map_03_isc.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map_04_isc.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map_05_isc.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map_06_isc.bin
+	- LZ
+data/stage/koopa2_map/koopa2_map_all.bmd
+	- LZH
+data/stage/koopa2_map/koopa2_map_icg.bin
+	- LZ
+data/stage/koopa3_boss/koopa3_boss.kcl
+	- LZH
+data/stage/koopa3_boss/koopa3_boss_00_isc.bin
+	- LZ
+data/stage/koopa3_boss/koopa3_boss_all.bmd
+	- LZH
+data/stage/koopa3_boss/koopa3_boss_icg.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map.kcl
+	- LZH
+data/stage/koopa3_map/koopa3_map_00_isc.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map_01_isc.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map_02_isc.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map_03_isc.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map_04_isc.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map_05_isc.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map_06_isc.bin
+	- LZ
+data/stage/koopa3_map/koopa3_map_all.bmd
+	- LZH
+data/stage/koopa3_map/koopa3_map_icg.bin
+	- LZ
+data/stage/main_castle/main_castle.kcl
+	- LZH
+data/stage/main_castle/main_castle_00_isc.bin
+	- LZ
+data/stage/main_castle/main_castle_all.bmd
+	- LZH
+data/stage/main_castle/main_castle_icg.bin
+	- LZ
+data/stage/main_garden/main_garden.kcl
+	- LZH
+data/stage/main_garden/main_garden_00_isc.bin
+	- LZ
+data/stage/main_garden/main_garden_all.bmd
+	- LZH
+data/stage/main_garden/main_garden_icg.bin
+	- LZ
+data/stage/metal_switch/metal_switch.kcl
+	- LZH
+data/stage/metal_switch/metal_switch_00_isc.bin
+	- LZ
+data/stage/metal_switch/metal_switch_all.bmd
+	- LZH
+data/stage/metal_switch/metal_switch_icg.bin
+	- LZ
+data/stage/playroom/playroom.kcl
+	- LZH
+data/stage/playroom/playroom_00_isc.bin
+	- LZ
+data/stage/playroom/playroom_all.bmd
+	- LZH
+data/stage/playroom/playroom_icg.bin
+	- LZ
+data/stage/rainbow_cruise/rainbow_cruise.kcl
+	- LZH
+data/stage/rainbow_cruise/rainbow_cruise_00_isc.bin
+	- LZ
+data/stage/rainbow_cruise/rainbow_cruise_all.bmd
+	- LZH
+data/stage/rainbow_cruise/rainbow_cruise_icg.bin
+	- LZ
+data/stage/rainbow_mario/rainbow_mario.kcl
+	- LZH
+data/stage/rainbow_mario/rainbow_mario_00_isc.bin
+	- LZ
+data/stage/rainbow_mario/rainbow_mario_all.bmd
+	- LZH
+data/stage/rainbow_mario/rainbow_mario_icg.bin
+	- LZ
+data/stage/snow_kama/snow_kama.kcl
+	- LZH
+data/stage/snow_kama/snow_kama_00_isc.bin
+	- LZ
+data/stage/snow_kama/snow_kama_all.bmd
+	- LZH
+data/stage/snow_kama/snow_kama_icg.bin
+	- LZ
+data/stage/snow_land/snow_land.kcl
+	- LZH
+data/stage/snow_land/snow_land_00_isc.bin
+	- LZ
+data/stage/snow_land/snow_land_all.bmd
+	- LZH
+data/stage/snow_land/snow_land_icg.bin
+	- LZ
+data/stage/snow_mt/snow_mt.kcl
+	- LZH
+data/stage/snow_mt/snow_mt_00_isc.bin
+	- LZ
+data/stage/snow_mt/snow_mt_all.bmd
+	- LZH
+data/stage/snow_mt/snow_mt_icg.bin
+	- LZ
+data/stage/snow_slider/snow_slider.kcl
+	- LZH
+data/stage/snow_slider/snow_slider_00_isc.bin
+	- LZ
+data/stage/snow_slider/snow_slider_all.bmd
+	- LZH
+data/stage/snow_slider/snow_slider_icg.bin
+	- LZ
+data/stage/suisou/suisou.kcl
+	- LZH
+data/stage/suisou/suisou_00_isc.bin
+	- LZ
+data/stage/suisou/suisou_all.bmd
+	- LZH
+data/stage/suisou/suisou_icg.bin
+	- LZ
+data/stage/teresa_house/teresa_house.kcl
+	- LZH
+data/stage/teresa_house/teresa_house_00_isc.bin
+	- LZ
+data/stage/teresa_house/teresa_house_01_isc.bin
+	- LZ
+data/stage/teresa_house/teresa_house_02_isc.bin
+	- LZ
+data/stage/teresa_house/teresa_house_03_isc.bin
+	- LZ
+data/stage/teresa_house/teresa_house_04_isc.bin
+	- LZ
+data/stage/teresa_house/teresa_house_all.bmd
+	- LZH
+data/stage/teresa_house/teresa_house_icg.bin
+	- LZ
+data/stage/test_map/test_map.kcl
+	- LZH
+data/stage/test_map/test_map_00_isc.bin
+	- LZ
+data/stage/test_map/test_map_all.bmd
+	- LZH
+data/stage/test_map/test_map_icg.bin
+	- LZ
+data/stage/test_map_b/test_map_b.kcl
+	- LZH
+data/stage/test_map_b/test_map_b_all.bmd
+	- LZH
+data/stage/tibi_deka_d/tibi_deka_d.kcl
+	- LZH
+data/stage/tibi_deka_d/tibi_deka_d_00_isc.bin
+	- LZ
+data/stage/tibi_deka_d/tibi_deka_d_all.bmd
+	- LZH
+data/stage/tibi_deka_d/tibi_deka_d_icg.bin
+	- LZ
+data/stage/tibi_deka_in/tibi_deka_in.kcl
+	- LZH
+data/stage/tibi_deka_in/tibi_deka_in_00_isc.bin
+	- LZ
+data/stage/tibi_deka_in/tibi_deka_in_01_isc.bin
+	- LZ
+data/stage/tibi_deka_in/tibi_deka_in_02_isc.bin
+	- LZ
+data/stage/tibi_deka_in/tibi_deka_in_all.bmd
+	- LZH
+data/stage/tibi_deka_in/tibi_deka_in_icg.bin
+	- LZ
+data/stage/tibi_deka_t/tibi_deka_t.kcl
+	- LZH
+data/stage/tibi_deka_t/tibi_deka_t_00_isc.bin
+	- LZ
+data/stage/tibi_deka_t/tibi_deka_t_all.bmd
+	- LZH
+data/stage/tibi_deka_t/tibi_deka_t_icg.bin
+	- LZ
+data/stage/water_city/water_city.kcl
+	- LZH
+data/stage/water_city/water_city_00_isc.bin
+	- LZ
+data/stage/water_city/water_city_01_isc.bin
+	- LZ
+data/stage/water_city/water_city_all.bmd
+	- LZH
+data/stage/water_city/water_city_icg.bin
+	- LZ
+data/stage/water_land/water_land.kcl
+	- LZH
+data/stage/water_land/water_land_00_isc.bin
+	- LZ
+data/stage/water_land/water_land_all.bmd
+	- LZH
+data/stage/water_land/water_land_icg.bin
+	- LZ
+data/vrbox/vr01.bmd
+	- LZH
+data/vrbox/vr02.bmd
+	- LZH
+data/vrbox/vr03.bmd
+	- LZH
+data/vrbox/vr04.bmd
+	- LZH
+data/vrbox/vr05.bmd
+	- LZH
+data/vrbox/vr06.bmd
+	- LZH
+data/vrbox/vr07.bmd
+	- LZH
+data/vrbox/vr08.bmd
+	- LZH
+data/vrbox/vr09.bmd
+	- LZH
+data/vrbox/vr10.bmd
+	- LZH
+data/vrbox/vr11.bmd
+	- LZH
+data/wipe/wipe_koopa.bmd
+	- LZH
+data/wipe/wipe_luigi.bmd
+	- LZH
+data/wipe/wipe_mario.bmd
+	- LZH
+data/wipe/wipe_star.bmd
+	- LZH
+data/wipe/wipe_wario.bmd
+	- LZH
+data/wipe/wipe_yoshi.bmd
+	- LZH
+MG/casino_back.bmd
+	- LZH
+MG/d_2d_badwizer_nsc.bin
+	- LZ
+MG/d_2d_grade_nsc.bin
+	- LZ
+MG/d_2d_mg_3d_esp_ncg.bin
+	- LZ
+MG/d_2d_mg_amida_face_F_ncg.bin
+	- LZ
+MG/d_2d_mg_amida_face_G_ncg.bin
+	- LZ
+MG/d_2d_mg_amida_face_I_ncg.bin
+	- LZ
+MG/d_2d_mg_amida_face_ncg.bin
+	- LZ
+MG/d_2d_mg_amida_face_S_ncg.bin
+	- LZ
+MG/d_2d_mg_amida_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_3d_esp_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_amida1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_amida1_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_amida2_1_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_amida2_2_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_amida2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_amida_face_down_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_amida_face_down_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_amida_face_up_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_amida_face_up_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_bomroom_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_card2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_cup2_1_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_cup2_2_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_cup_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_curling1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_curling2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_flower_down_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_flower_down_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_flower_up_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_flower_up_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_hana_sagase1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_hana_sagase2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_jokyu_curling_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_koopa_ship_up_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_luigi1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_luigi2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_menu1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_l_luigi_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_l_mario_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_l_wario_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_l_yoshi_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_r_luigi_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_r_mario_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_r_wario_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu2_r_yoshi_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_menu_1_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_option_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_pachinko_down_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_pachinko_up_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_pause_F_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_pause_G_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_pause_I_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_pause_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_pause_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_pause_S_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_pazzle_panel_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_result_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_result_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_roulette_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_roulette_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_slot_down_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_slot_down_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_slot_face02_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_slot_face_down_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_slot_face_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_slot_face_nuki_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_slot_grade_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_slot_score_up_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_slot_up_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_slot_up_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_1_00_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_1_frame_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_1_frame_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_1_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_2_00_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_2_frame_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_2_frame_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay00_2_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_1_00_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_1_frame_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_1_frame_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_1_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_2_00_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_2_frame_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_2_frame_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_smart_ball_lay01_2_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_sound2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_teresa1_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_teresa2_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_trampoline_hard_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_trampoline_hard_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_trampoline_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_trampoline_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_wrecking_crew_ncg.bin
+	- LZ
+MG/d_2d_mg_bg_yuka_nsc.bin
+	- LZ
+MG/d_2d_mg_bg_yukidama_ncg.bin
+	- LZ
+MG/d_2d_mg_big_small_F_ncg.bin
+	- LZ
+MG/d_2d_mg_big_small_G_ncg.bin
+	- LZ
+MG/d_2d_mg_big_small_I_ncg.bin
+	- LZ
+MG/d_2d_mg_big_small_ncg.bin
+	- LZ
+MG/d_2d_mg_big_small_S_ncg.bin
+	- LZ
+MG/d_2d_mg_bomroom_ncg.bin
+	- LZ
+MG/d_2d_mg_card_F_ncg.bin
+	- LZ
+MG/d_2d_mg_card_G_ncg.bin
+	- LZ
+MG/d_2d_mg_card_I_ncg.bin
+	- LZ
+MG/d_2d_mg_card_ncg.bin
+	- LZ
+MG/d_2d_mg_card_S_ncg.bin
+	- LZ
+MG/d_2d_mg_card_up_ncg.bin
+	- LZ
+MG/d_2d_mg_common_F_ncg.bin
+	- LZ
+MG/d_2d_mg_common_G_ncg.bin
+	- LZ
+MG/d_2d_mg_common_I_ncg.bin
+	- LZ
+MG/d_2d_mg_common_ncg.bin
+	- LZ
+MG/d_2d_mg_common_S_ncg.bin
+	- LZ
+MG/d_2d_mg_cup_ncg.bin
+	- LZ
+MG/d_2d_mg_curling_ncg.bin
+	- LZ
+MG/d_2d_mg_flower_ncg.bin
+	- LZ
+MG/d_2d_mg_hana_sagase_ncg.bin
+	- LZ
+MG/d_2d_mg_jump_F_ncg.bin
+	- LZ
+MG/d_2d_mg_jump_G_ncg.bin
+	- LZ
+MG/d_2d_mg_jump_I_ncg.bin
+	- LZ
+MG/d_2d_mg_jump_ncg.bin
+	- LZ
+MG/d_2d_mg_jump_S_ncg.bin
+	- LZ
+MG/d_2d_mg_luigi_ncg.bin
+	- LZ
+MG/d_2d_mg_menu_touch_F_ncg.bin
+	- LZ
+MG/d_2d_mg_menu_touch_G_ncg.bin
+	- LZ
+MG/d_2d_mg_menu_touch_I_ncg.bin
+	- LZ
+MG/d_2d_mg_menu_touch_ncg.bin
+	- LZ
+MG/d_2d_mg_menu_touch_S_ncg.bin
+	- LZ
+MG/d_2d_mg_option_F_ncg.bin
+	- LZ
+MG/d_2d_mg_option_G_ncg.bin
+	- LZ
+MG/d_2d_mg_option_I_ncg.bin
+	- LZ
+MG/d_2d_mg_option_ncg.bin
+	- LZ
+MG/d_2d_mg_option_S_ncg.bin
+	- LZ
+MG/d_2d_mg_pachinko_ncg.bin
+	- LZ
+MG/d_2d_mg_pazzle_panel_F_ncg.bin
+	- LZ
+MG/d_2d_mg_pazzle_panel_G_ncg.bin
+	- LZ
+MG/d_2d_mg_pazzle_panel_I_ncg.bin
+	- LZ
+MG/d_2d_mg_pazzle_panel_ncg.bin
+	- LZ
+MG/d_2d_mg_pazzle_panel_S_ncg.bin
+	- LZ
+MG/d_2d_mg_roulette_ncg.bin
+	- LZ
+MG/d_2d_mg_slot_F_ncg.bin
+	- LZ
+MG/d_2d_mg_slot_face_ncg.bin
+	- LZ
+MG/d_2d_mg_slot_G_ncg.bin
+	- LZ
+MG/d_2d_mg_slot_I_ncg.bin
+	- LZ
+MG/d_2d_mg_slot_ncg.bin
+	- LZ
+MG/d_2d_mg_slot_S_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay00_E_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay00_F_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay00_G_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay00_I_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay00_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay00_S_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay01_F_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay01_G_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay01_I_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay01_ncg.bin
+	- LZ
+MG/d_2d_mg_smart_ball_lay01_S_ncg.bin
+	- LZ
+MG/d_2d_mg_sound_ncg.bin
+	- LZ
+MG/d_2d_mg_teresa_ncg.bin
+	- LZ
+MG/d_2d_mg_teresa_ten_ncg.bin
+	- LZ
+MG/d_2d_mg_trampoline_F_ncg.bin
+	- LZ
+MG/d_2d_mg_trampoline_G_ncg.bin
+	- LZ
+MG/d_2d_mg_trampoline_I_ncg.bin
+	- LZ
+MG/d_2d_mg_trampoline_ncg.bin
+	- LZ
+MG/d_2d_mg_trampoline_S_ncg.bin
+	- LZ
+MG/d_2d_mg_wrecking_crew_ncg.bin
+	- LZ
+MG/d_2d_mg_yukidama_ncg.bin
+	- LZ
+MG/d_2d_msg_1pair_F_ncg.bin
+	- LZ
+MG/d_2d_msg_1pair_G_ncg.bin
+	- LZ
+MG/d_2d_msg_1pair_I_ncg.bin
+	- LZ
+MG/d_2d_msg_1pair_ncg.bin
+	- LZ
+MG/d_2d_msg_1pair_S_ncg.bin
+	- LZ
+MG/d_2d_msg_2pair_F_ncg.bin
+	- LZ
+MG/d_2d_msg_2pair_G_ncg.bin
+	- LZ
+MG/d_2d_msg_2pair_I_ncg.bin
+	- LZ
+MG/d_2d_msg_2pair_ncg.bin
+	- LZ
+MG/d_2d_msg_2pair_S_ncg.bin
+	- LZ
+MG/d_2d_msg_3card_F_ncg.bin
+	- LZ
+MG/d_2d_msg_3card_G_ncg.bin
+	- LZ
+MG/d_2d_msg_3card_I_ncg.bin
+	- LZ
+MG/d_2d_msg_3card_ncg.bin
+	- LZ
+MG/d_2d_msg_3card_S_ncg.bin
+	- LZ
+MG/d_2d_msg_4card_F_ncg.bin
+	- LZ
+MG/d_2d_msg_4card_G_ncg.bin
+	- LZ
+MG/d_2d_msg_4card_I_ncg.bin
+	- LZ
+MG/d_2d_msg_4card_ncg.bin
+	- LZ
+MG/d_2d_msg_4card_S_ncg.bin
+	- LZ
+MG/d_2d_msg_5card_F_ncg.bin
+	- LZ
+MG/d_2d_msg_5card_G_ncg.bin
+	- LZ
+MG/d_2d_msg_5card_I_ncg.bin
+	- LZ
+MG/d_2d_msg_5card_ncg.bin
+	- LZ
+MG/d_2d_msg_5card_S_ncg.bin
+	- LZ
+MG/d_2d_msg_dislike_F_ncg.bin
+	- LZ
+MG/d_2d_msg_dislike_G_ncg.bin
+	- LZ
+MG/d_2d_msg_dislike_I_ncg.bin
+	- LZ
+MG/d_2d_msg_dislike_ncg.bin
+	- LZ
+MG/d_2d_msg_dislike_S_ncg.bin
+	- LZ
+MG/d_2d_msg_draw_F_ncg.bin
+	- LZ
+MG/d_2d_msg_draw_G_ncg.bin
+	- LZ
+MG/d_2d_msg_draw_I_ncg.bin
+	- LZ
+MG/d_2d_msg_draw_ncg.bin
+	- LZ
+MG/d_2d_msg_draw_S_ncg.bin
+	- LZ
+MG/d_2d_msg_esper_F_ncg.bin
+	- LZ
+MG/d_2d_msg_esper_G_ncg.bin
+	- LZ
+MG/d_2d_msg_esper_I_ncg.bin
+	- LZ
+MG/d_2d_msg_esper_ncg.bin
+	- LZ
+MG/d_2d_msg_esper_S_ncg.bin
+	- LZ
+MG/d_2d_msg_full_house_F_ncg.bin
+	- LZ
+MG/d_2d_msg_full_house_G_ncg.bin
+	- LZ
+MG/d_2d_msg_full_house_I_ncg.bin
+	- LZ
+MG/d_2d_msg_full_house_ncg.bin
+	- LZ
+MG/d_2d_msg_full_house_S_ncg.bin
+	- LZ
+MG/d_2d_msg_game_over_F_ncg.bin
+	- LZ
+MG/d_2d_msg_game_over_G_ncg.bin
+	- LZ
+MG/d_2d_msg_game_over_I_ncg.bin
+	- LZ
+MG/d_2d_msg_game_over_ncg.bin
+	- LZ
+MG/d_2d_msg_game_over_S_ncg.bin
+	- LZ
+MG/d_2d_msg_give_up_ncg.bin
+	- LZ
+MG/d_2d_msg_goal_F_ncg.bin
+	- LZ
+MG/d_2d_msg_goal_G_ncg.bin
+	- LZ
+MG/d_2d_msg_goal_I_ncg.bin
+	- LZ
+MG/d_2d_msg_goal_ncg.bin
+	- LZ
+MG/d_2d_msg_goal_S_ncg.bin
+	- LZ
+MG/d_2d_msg_hate_F_ncg.bin
+	- LZ
+MG/d_2d_msg_hate_G_ncg.bin
+	- LZ
+MG/d_2d_msg_hate_I_ncg.bin
+	- LZ
+MG/d_2d_msg_hate_ncg.bin
+	- LZ
+MG/d_2d_msg_hate_S_ncg.bin
+	- LZ
+MG/d_2d_msg_hi_score_F_ncg.bin
+	- LZ
+MG/d_2d_msg_hi_score_G_ncg.bin
+	- LZ
+MG/d_2d_msg_hi_score_I_ncg.bin
+	- LZ
+MG/d_2d_msg_hi_score_ncg.bin
+	- LZ
+MG/d_2d_msg_hi_score_S_ncg.bin
+	- LZ
+MG/d_2d_msg_level_clear_F_ncg.bin
+	- LZ
+MG/d_2d_msg_level_clear_G_ncg.bin
+	- LZ
+MG/d_2d_msg_level_clear_I_ncg.bin
+	- LZ
+MG/d_2d_msg_level_clear_ncg.bin
+	- LZ
+MG/d_2d_msg_level_clear_S_ncg.bin
+	- LZ
+MG/d_2d_msg_level_F_ncg.bin
+	- LZ
+MG/d_2d_msg_level_G_ncg.bin
+	- LZ
+MG/d_2d_msg_level_I_ncg.bin
+	- LZ
+MG/d_2d_msg_level_ncg.bin
+	- LZ
+MG/d_2d_msg_level_S_ncg.bin
+	- LZ
+MG/d_2d_msg_like_F_ncg.bin
+	- LZ
+MG/d_2d_msg_like_G_ncg.bin
+	- LZ
+MG/d_2d_msg_like_I_ncg.bin
+	- LZ
+MG/d_2d_msg_like_ncg.bin
+	- LZ
+MG/d_2d_msg_like_S_ncg.bin
+	- LZ
+MG/d_2d_msg_love_F_ncg.bin
+	- LZ
+MG/d_2d_msg_love_G_ncg.bin
+	- LZ
+MG/d_2d_msg_love_I_ncg.bin
+	- LZ
+MG/d_2d_msg_love_ncg.bin
+	- LZ
+MG/d_2d_msg_love_S_ncg.bin
+	- LZ
+MG/d_2d_msg_no_pair_F_ncg.bin
+	- LZ
+MG/d_2d_msg_no_pair_G_ncg.bin
+	- LZ
+MG/d_2d_msg_no_pair_I_ncg.bin
+	- LZ
+MG/d_2d_msg_no_pair_ncg.bin
+	- LZ
+MG/d_2d_msg_no_pair_S_ncg.bin
+	- LZ
+MG/d_2d_msg_perfect_F_ncg.bin
+	- LZ
+MG/d_2d_msg_perfect_G_ncg.bin
+	- LZ
+MG/d_2d_msg_perfect_I_ncg.bin
+	- LZ
+MG/d_2d_msg_perfect_ncg.bin
+	- LZ
+MG/d_2d_msg_perfect_S_ncg.bin
+	- LZ
+MG/d_2d_msg_quit_F_ncg.bin
+	- LZ
+MG/d_2d_msg_quit_G_ncg.bin
+	- LZ
+MG/d_2d_msg_quit_I_ncg.bin
+	- LZ
+MG/d_2d_msg_quit_ncg.bin
+	- LZ
+MG/d_2d_msg_quit_S_ncg.bin
+	- LZ
+MG/d_2d_msg_result_hi_score_F_ncg.bin
+	- LZ
+MG/d_2d_msg_result_hi_score_G_ncg.bin
+	- LZ
+MG/d_2d_msg_result_hi_score_I_ncg.bin
+	- LZ
+MG/d_2d_msg_result_hi_score_ncg.bin
+	- LZ
+MG/d_2d_msg_result_hi_score_S_ncg.bin
+	- LZ
+MG/d_2d_msg_retry_F_ncg.bin
+	- LZ
+MG/d_2d_msg_retry_G_ncg.bin
+	- LZ
+MG/d_2d_msg_retry_I_ncg.bin
+	- LZ
+MG/d_2d_msg_retry_ncg.bin
+	- LZ
+MG/d_2d_msg_retry_S_ncg.bin
+	- LZ
+MG/d_2d_msg_start_F_ncg.bin
+	- LZ
+MG/d_2d_msg_start_G_ncg.bin
+	- LZ
+MG/d_2d_msg_start_I_ncg.bin
+	- LZ
+MG/d_2d_msg_start_ncg.bin
+	- LZ
+MG/d_2d_msg_start_S_ncg.bin
+	- LZ
+MG/d_2d_msg_super_esper_F_ncg.bin
+	- LZ
+MG/d_2d_msg_super_esper_G_ncg.bin
+	- LZ
+MG/d_2d_msg_super_esper_I_ncg.bin
+	- LZ
+MG/d_2d_msg_super_esper_ncg.bin
+	- LZ
+MG/d_2d_msg_super_esper_S_ncg.bin
+	- LZ
+MG/d_2d_msg_time_over_F_ncg.bin
+	- LZ
+MG/d_2d_msg_time_over_G_ncg.bin
+	- LZ
+MG/d_2d_msg_time_over_I_ncg.bin
+	- LZ
+MG/d_2d_msg_time_over_ncg.bin
+	- LZ
+MG/d_2d_msg_time_over_S_ncg.bin
+	- LZ
+MG/d_2d_msg_too_bad_F_ncg.bin
+	- LZ
+MG/d_2d_msg_too_bad_G_ncg.bin
+	- LZ
+MG/d_2d_msg_too_bad_I_ncg.bin
+	- LZ
+MG/d_2d_msg_too_bad_ncg.bin
+	- LZ
+MG/d_2d_msg_too_bad_S_ncg.bin
+	- LZ
+MG/d_2d_msg_where_F_ncg.bin
+	- LZ
+MG/d_2d_msg_where_G_ncg.bin
+	- LZ
+MG/d_2d_msg_where_I_ncg.bin
+	- LZ
+MG/d_2d_msg_where_ncg.bin
+	- LZ
+MG/d_2d_msg_where_S_ncg.bin
+	- LZ
+MG/d_2d_msg_you_lose_ncg.bin
+	- LZ
+MG/d_2d_msg_you_win_F_ncg.bin
+	- LZ
+MG/d_2d_msg_you_win_G_ncg.bin
+	- LZ
+MG/d_2d_msg_you_win_I_ncg.bin
+	- LZ
+MG/d_2d_msg_you_win_ncg.bin
+	- LZ
+MG/d_2d_msg_you_win_S_ncg.bin
+	- LZ
+MG/d_2d_thum_3_slot_ncg.bin
+	- LZ
+MG/d_2d_thum_amida_ncg.bin
+	- LZ
+MG/d_2d_thum_arrange_ball_ncg.bin
+	- LZ
+MG/d_2d_thum_big_small_ncg.bin
+	- LZ
+MG/d_2d_thum_bom_drag_ncg.bin
+	- LZ
+MG/d_2d_thum_coin_ncg.bin
+	- LZ
+MG/d_2d_thum_cup_ncg.bin
+	- LZ
+MG/d_2d_thum_curling_ncg.bin
+	- LZ
+MG/d_2d_thum_eawase_poka_ncg.bin
+	- LZ
+MG/d_2d_thum_esp_ncg.bin
+	- LZ
+MG/d_2d_thum_gekimuzu_jump_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_3_slot_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_amida_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_coin_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_curling_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_hanachan_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_montage_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_monte_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_pachinko_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_pazzle_panel_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_shinkei_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_trampoline_ncg.bin
+	- LZ
+MG/d_2d_thum_jokyu_yukidama_ncg.bin
+	- LZ
+MG/d_2d_thum_jump_ncg.bin
+	- LZ
+MG/d_2d_thum_lui_sagase_ncg.bin
+	- LZ
+MG/d_2d_thum_monte_ncg.bin
+	- LZ
+MG/d_2d_thum_pachinko_ncg.bin
+	- LZ
+MG/d_2d_thum_pazzle_panel_ncg.bin
+	- LZ
+MG/d_2d_thum_roulette_ncg.bin
+	- LZ
+MG/d_2d_thum_shinkei_ncg.bin
+	- LZ
+MG/d_2d_thum_smart_ball_ncg.bin
+	- LZ
+MG/d_2d_thum_sound_ncg.bin
+	- LZ
+MG/d_2d_thum_teresa_ncg.bin
+	- LZ
+MG/d_2d_thum_trampoline_ncg.bin
+	- LZ
+MG/d_2d_thum_uranai_ncg.bin
+	- LZ
+MG/d_2d_thum_yukidama_ncg.bin
+	- LZ
+MG/d_2d_yaku_nsc.bin
+	- LZ
+MG/esp_card.bmd
+	- LZH
+MG/esp_card.btp
+	- LZH
+MG/esp_card_open.bca
+	- LZH
+MG/esp_card_open_wait.bca
+	- LZH
+MG/esp_card_start.bca
+	- LZH
+MG/esp_card_wait.bca
+	- LZH
+MG/esp_hamon.bca
+	- LZH
+MG/esp_hamon.bmd
+	- LZH
+MG/esp_irie.bmd
+	- LZH
+MG/f_demo_back.bmd
+	- LZH
+MG/f_parts.bmd
+	- LZH
+MG/face_lose.bca
+	- LZH
+MG/face_lose.btp
+	- LZH
+MG/face_lose_ed.bca
+	- LZH
+MG/face_lose_ed.btp
+	- LZH
+MG/face_lose_st.bca
+	- LZH
+MG/face_lose_st.btp
+	- LZH
+MG/face_mistake.bca
+	- LZH
+MG/face_mistake.btp
+	- LZH
+MG/face_smile.bca
+	- LZH
+MG/face_smile.btp
+	- LZH
+MG/face_surprised.bca
+	- LZH
+MG/face_surprised.btp
+	- LZH
+MG/face_wait.bca
+	- LZH
+MG/face_wait.btp
+	- LZH
+MG/face_win.bca
+	- LZH
+MG/face_win.btp
+	- LZH
+MG/irie_back.bmd
+	- LZH
+MG/jump_back01.bmd
+	- LZH
+MG/jump_back02.bmd
+	- LZH
+MG/kino_d.bmd
+	- LZH
+MG/kino_wait.bca
+	- LZH
+MG/kino_walk.bca
+	- LZH
+MG/luigi_d.bmd
+	- LZH
+MG/luigi_d_deal.bca
+	- LZH
+MG/luigi_d_deal_end.bca
+	- LZH
+MG/luigi_d_deal_end2.bca
+	- LZH
+MG/luigi_d_deal_start.bca
+	- LZH
+MG/luigi_d_deal_wait.bca
+	- LZH
+MG/luigi_d_lose.bca
+	- LZH
+MG/luigi_d_shuffle.bca
+	- LZH
+MG/luigi_d_shuffle_start.bca
+	- LZH
+MG/luigi_d_throw.bca
+	- LZH
+MG/luigi_d_wait.bca
+	- LZH
+MG/luigi_d_win.bca
+	- LZH
+MG/luigi_d_win_end.bca
+	- LZH
+MG/luigi_d_win_start.bca
+	- LZH
+MG/mario_model_mg.bmd
+	- LZH
+MG/mg_p_heyho_mini.bmd
+	- LZH
+MG/mg_p_heyho_wait.bca
+	- LZH
+MG/mini_star.bmd
+	- LZH
+MG/ringA.bmd
+	- LZH
+MG/ringB.bmd
+	- LZH
+MG/ringC.bmd
+	- LZH
+MG/roulette.bmd
+	- LZH
+MG/roulette_ball.bmd
+	- LZH
+MG/snowman_head.bmd
+	- LZH
+MG/yoshi_hate.bca
+	- LZH
+MG/yoshi_like.bca
+	- LZH
+MG/yoshi_model.bmd
+	- LZH
+MG/yoshi_pick.bca
+	- LZH
+MG/yoshi_wait.bca
+	- LZH

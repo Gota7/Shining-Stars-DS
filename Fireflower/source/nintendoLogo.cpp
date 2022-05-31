@@ -19,10 +19,3 @@ over(0x020914E0) const int newNintendoPalette[16] = {
   2048,
   0
 };
-
-//Hooks every frame.
-hook(0x0200da0c)
-void hook_0200da0c()
-{
-	Crash();
-}
