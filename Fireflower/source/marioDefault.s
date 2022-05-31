@@ -9,12 +9,6 @@ repl_02013ddc:
 repl_02013df4:
     orr r1, r1, #0x88
     bx  lr
-	
-@ Set starting level to the hub world.
-/*overwrite
-ovr_020CC380_ov_07:
-	.byte 0x02
-overwrite*/
 
 /*
 

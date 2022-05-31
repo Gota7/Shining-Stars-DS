@@ -1,5 +1,3 @@
-#include "SM64DS_2.h"
-
 // Nyehehe The Nintendo logo is blue now. That's my hack.
 over(0x020914E0) const int newNintendoPalette[16] = {
   13741,
