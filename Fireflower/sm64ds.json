@@ -42,8 +42,8 @@
 
         "arm9": {
             "reloc": "0x02058DE0",
-            "start": "0x020A0EFC",
-            "end": "0x020DBEFC",
+            "start": "0x02156B00",
+            "end": "0x023C0000",
             "compress": false
         },
 
