@@ -10,8 +10,6 @@ repl_02013df4:
     orr r1, r1, #0x88
     bx  lr
 
-/*
-
 @ Make Mario's Door Yoshi's.
 .rlnk(0x02144588, 100)
 repl_02144588_ov_64:
@@ -41,5 +39,3 @@ repl_02144588_ov_64:
     @ Continue on with whatever gay code the game does.
     skip:
     bx lr
-
-*/
