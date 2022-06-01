@@ -27,7 +27,7 @@
     "StaticInitStart": "0x21080d0",
     "StaticInitEnd": "0x210813c",
     "FileId": "0x8",
-    "Flags": "0x20380e8"
+    "Flags": "0x0"
   },
   {
     "Id": 3,
@@ -77,7 +77,7 @@
     "StaticInitStart": "0x20d7db8",
     "StaticInitEnd": "0x20d7dbc",
     "FileId": "0x12",
-    "Flags": "0x302c978"
+    "Flags": "0x0"
   },
   {
     "Id": 8,
@@ -1007,7 +1007,7 @@
     "StaticInitStart": "0x2147de8",
     "StaticInitEnd": "0x2147e08",
     "FileId": "0x60",
-    "Flags": "0x3004a34"
+    "Flags": "0x0"
   },
   {
     "Id": 101,
