@@ -71,6 +71,7 @@ NUM_COINS                                                                       
 PLAYER_ARR                                                                        = 0x0209f394;
 
 SILVER_STARS                                                                      = 0x0209f40c;
+INPUT_PERSISTENT					                                              = 0x0209f49c;
 GAME_PAUSED                                                                       = 0x0209f2c4;
 
 INPUT_ARR                                                                         = 0x0209f498;
@@ -1038,6 +1039,9 @@ EndKuppaScript                                                                  
 ReadUnalignedShort                                                                = 0x0200e768;
 
 UNUSED_RAM                                                                        = 0x023C4000;
+
+FALL_DAMAGE_BIG = 0x020e2e88;
+FALL_DAMAGE_SMALL = 0x020e2e9c;
 
 _ZN9ActorBase7ProcessEMS_FivEMS_FbvEMS_FvjE = 0x02043c88;
 

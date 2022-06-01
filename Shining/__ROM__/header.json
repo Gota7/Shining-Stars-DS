@@ -1,0 +1,23 @@
+{
+  "GameTitle": "S.MARIO64DS",
+  "GameCode": "ASMP",
+  "MakerCode": "01",
+  "UnitCode": 0,
+  "EncryptionSeedSelect": 0,
+  "DeviceCapacity": 8,
+  "Revision": 0,
+  "Version": 0,
+  "Flags": "0x0",
+  "Arm9EntryAddress": "0x2004800",
+  "Arm9LoadAddress": "0x2004000",
+  "Arm7EntryAddress": "0x2380000",
+  "Arm7LoadAddress": "0x2380000",
+  "NormalCardControlRegisterSettings": "0x586000",
+  "SecureCardControlRegisterSettings": "0x1808f8",
+  "SecureAreaCRC": "0xa870",
+  "SecureTransferTimeout": 1310,
+  "Arm9Autoload": "0x20049ec",
+  "Arm7Autoload": "0x2380110",
+  "SecureDisable": 0,
+  "HeaderSize": "0x4000"
+}

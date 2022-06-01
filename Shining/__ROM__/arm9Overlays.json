@@ -1548,5 +1548,15 @@
     "StaticInitEnd": "0x214eaa4",
     "FileId": "0x8b2",
     "Flags": "0x0"
+  },
+  {
+    "Id": 155,
+    "RAMAddress": "0x23ec400",
+    "RAMSize": "0x10364",
+    "BSSSize": "0x0",
+    "StaticInitStart": "0x23fc760",
+    "StaticInitEnd": "0x23fc764",
+    "FileId": "0x8b3",
+    "Flags": "0x0"
   }
 ]

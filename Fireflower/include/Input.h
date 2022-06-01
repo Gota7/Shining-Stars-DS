@@ -63,6 +63,7 @@ extern "C"
 	extern Input INPUT_ARR[4];
 
 	extern InputRelated INPUT_RELATED_ARR[4];
+	extern uint16_t INPUT_PERSISTENT;
 }
 
 #endif // SM64DS_INPUT_INCLUDED
