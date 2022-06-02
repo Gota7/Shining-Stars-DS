@@ -1552,10 +1552,10 @@
   {
     "Id": 155,
     "RAMAddress": "0x23ec400",
-    "RAMSize": "0x10364",
+    "RAMSize": "0xfc6c",
     "BSSSize": "0x0",
-    "StaticInitStart": "0x23fc760",
-    "StaticInitEnd": "0x23fc764",
+    "StaticInitStart": "0x23fc068",
+    "StaticInitEnd": "0x23fc06c",
     "FileId": "0x8b3",
     "Flags": "0x0"
   }

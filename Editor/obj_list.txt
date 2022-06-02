@@ -324,3 +324,234 @@
 0x143 == SET_SE (0x15e)
 0x144 == MUGEN_BGM (0x15f)
 0x145 == SOUND_OBJ (0x167)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0x200 == GALAXY_SHRINKING_PLATFORM (0x200)
+0x201 == SILVER_COIN (0x201)
+0x202 == INVISIBLE_WALL (0x202)
+0x203 == BERRY (0x203)
+0x204 == YOSHI_RIDE (0x204)
+0x205 == OBJECT_LIGHTING_MODIFIER (0x205)
+0x206 == 2D_LEVEL (0x206)
+0x207 == 2D_CAMERA_LIMITER (0x207)
+0x208 == SMALL_COLORED_GOOMBA (0x208)
+0x209 == COLORED_GOOMBA (0x209)
+0x20A == LARGE_COLORED_GOOMBA (0x20A)
+0x20B == TOXIC_LEVEL (0x20B)
+0x20C == NOTEBLOCK (0x20C)
+0x20D == SHY_GUY (0x20D)
+0x20E == LAUNCH_STAR (0x20E)
+0x20F == KAMEK_SHOT (0x20F)
+0x210 == KAMEK (0x210)
+0x211 == KAMELLA (0x211)
+0x212 == SKYBOX_ROTATOR (0x212)
+0x213 == FALLING_ICICLE (0x213)
+0x214 == GRAVITY_MODIFIER (0x214)
+0x215 == SMALL_COLORED_GOOMBA_2 (0x215)
+0x216 == COLORED_GOOMBA_2 (0x216)
+0x217 == LARGE_COLORED_GOOMBA_2 (0x217)
+0x217 == YOSHI_NPC (0x218)
+0x219 == COLORED_PIPE (0x219)
+0x21A == CHARACTER_BLOCK (0x21A)
+0x21B == TREE_SHADOW (0x21B)
+0x21C == SAVE_BLOCK (0x21C)
+0x21D == STAR_CHIP (0x21D)
+0x21E == DOOR_BLOCKER (0x21E)
+0x21F == COLORED_COIN (0x21F)
+0x220 == COLORED_TOAD_NPC (0x220)
+0x221 == PEACH_NPC (0x221)
+0x222 == BLUE_ICE_BLOCK (0x222)
+0x223 == MEGA_BLOCK (0x223)
+0x224 == CUTSCENE_LOADER (0x224)
+0x225 == CUSTOM_BLOCK (0x225)
+0x226 == TREASURE_CHEST (0x226)
+0x227 == PATH_THWOMP (0x227)
+0x228 == MAGMA_THWOMP (0x228)
+0x229 == GIGA_THWOMP (0x229)
+0x22A == ANTI_GRAVITY_TOX_BOX (0x22A)
+0x22B == PLAYER_TOX_BOX (0x22B)
+0x22C == TOX_BOX_FLOWER (0x22C)
